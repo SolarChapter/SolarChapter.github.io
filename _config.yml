@@ -1,3 +1,5 @@
 ---
 source: src
+sass:
+  sass_dir: _sass
 ---
