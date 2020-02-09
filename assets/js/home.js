@@ -42,7 +42,7 @@ $.keyframe.define([{
 }]);
 educationGallerySlides.playKeyframe({
   name: 'education-background-carousel',
-  duration: '60s',
+  duration: '120s',
   timingFunction: 'linear',
   iterationCount: 'infinite',
 });
