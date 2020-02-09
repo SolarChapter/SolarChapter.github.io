@@ -13,3 +13,8 @@ Solar Chapter
 ### Setting up local development
 - Start a local server
 `jekyll serve --livereload`
+
+### Using media
+If possible, always serve files through Content Delivery Network (CDN) so that they can be highly available and accessed quicker.
+- Upload media files (pictures/videos) at Cloudinary. Contact Solar Chapter for account access.
+- Use the URL from the hosted files
