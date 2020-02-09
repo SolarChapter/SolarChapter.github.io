@@ -1,0 +1,21 @@
+body, html {
+    height: 100%;
+}
+.bg {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    font-size: 20px;
+    margin: 0;
+    color: white;
+}
+
+.spacing {
+    padding-top: 10%;
+    visibility: hidden;
+}
+
