@@ -10,9 +10,9 @@ background_image: |
 uiuc_image: |
   /assets/media/uiuc/almamater.png
 michigan_image: |
-  /assets/media/michiganlaw.png
+  /assets/media/michigan/michiganlaw.png
 purdue_image: |
-  /assets/media/purduebanner.png
+  /assets/media/purdue/purduebanner.png
 uiuc_quote: |
   Some people are born into families where they have to walk for hours just to get water, all we have to do is turn on the faucet. Founded in 2017, we are Solar Chapter: a non-profit
   organization consisting of students and alumni from the University of Illinois at Urbana-Champaign.
