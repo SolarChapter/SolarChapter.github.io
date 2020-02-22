@@ -1,0 +1,30 @@
+body, html {
+  height: 100%;
+}
+
+.section-content.bg {
+  padding: 25px;
+  background-color: rgb(251, 212, 17);
+  background-image: url(/assets/media/world_map.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.row.align-items-center {
+  text-align: center;
+}
+
+.teams-title {
+  position: relative;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 5px;
+  width: 100%;
+
+  p {
+    font-size: 24px;
+    margin: 0;
+    text-transform: uppercase;
+  }
+}
