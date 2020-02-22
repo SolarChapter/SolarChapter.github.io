@@ -1,0 +1,65 @@
+body, html {
+  height: 100%;
+}
+
+.bg::before {
+  padding: 25px;
+  background-image: url(/assets/media/uiuc/uiuc_team.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: multiply;
+
+  /* Add the blur effect */
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.align-items-center {
+  text-align: center;
+}
+
+.spacing {
+  padding-top: 5%;
+  visibility: hidden;
+}
+
+.title {
+  position: relative;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 5px;
+  width: 100%;
+
+  p {
+    font-size: 24px;
+    margin: 0;
+    text-transform: uppercase;
+  }
+}
+
+.card-img-top {
+    border-radius: 100%;
+}
+
+.our-team-box img{
+  max-height:200px;
+}
+
+.our-team-box{
+  text-align: center;
+  padding: 10px;
+}
+
+.our-team-box h4 {
+  padding-top: 10px;
+  font-size: 18px;
+}
