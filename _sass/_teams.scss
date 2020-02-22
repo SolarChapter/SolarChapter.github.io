@@ -28,3 +28,26 @@ body, html {
     text-transform: uppercase;
   }
 }
+
+.spacing {
+  padding-top: 5%;
+  visibility: hidden;
+}
+
+.card-body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card-title {
+  font-size: 25px;
+}
+
+.school-logo {
+  img {
+    padding-top: 2%;
+    max-height: 100px;
+    min-height: 100px;
+    object-fit: contain;
+    opacity: 0.5;
+  }
+}
