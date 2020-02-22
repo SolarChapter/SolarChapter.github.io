@@ -4,11 +4,12 @@ body, html {
 
 .section-content.bg {
   padding: 25px;
-  background-color: rgb(251, 212, 17);
+  background-color: rgba(232, 200, 17, 1);
   background-image: url(/assets/media/world_map.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  background-blend-mode: multiply;
 }
 
 .row.align-items-center {
@@ -34,6 +35,35 @@ body, html {
   visibility: hidden;
 }
 
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgba(232, 200, 17, 1);
+}
+
+.overlay-text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.card:hover .overlay {
+  opacity: 1;
+}
+
 .card-body {
   font-family: 'Montserrat', sans-serif;
 }
@@ -42,12 +72,9 @@ body, html {
   font-size: 25px;
 }
 
-.school-logo {
+.card-img-top {
   img {
-    padding-top: 2%;
-    max-height: 100px;
-    min-height: 100px;
-    object-fit: contain;
-    opacity: 0.5;
+    min-height: 300px;
+    max-height: 300px;
   }
 }

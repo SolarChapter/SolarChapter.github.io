@@ -8,11 +8,11 @@ custom_css:
 background_image: |
   /assets/media/world_map.png
 uiuc_image: |
-  /assets/media/illinois_logo.png
+  /assets/media/almamater.png
 michigan_image: |
-  /assets/media/michigan_logo.png
+  /assets/media/michiganlaw.png
 purdue_image: |
-  /assets/media/purdue_logo.png
+  /assets/media/purduebanner.png
 header_message: |
   All of your donation goes directly towards our projects to combat social inequalities.
 offline_donation: |
