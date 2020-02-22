@@ -13,6 +13,10 @@ michigan_image: |
   /assets/media/michigan/michiganlaw.png
 purdue_image: |
   /assets/media/purdue/purduebanner.png
+melbourne_image: |
+  /assets/media/melbourne/melbourne.jpg
+seattle_image: |
+  /assets/media/seattle/seattle.jpg
 uiuc_quote: |
   Some people are born into families where they have to walk for hours just to get water, all we have to do is turn on the faucet. Founded in 2017, we are Solar Chapter: a non-profit
   organization consisting of students and alumni from the University of Illinois at Urbana-Champaign.
@@ -34,4 +38,8 @@ purdue_quote: |
   With students from various ethnicities, nationalities, and backgrounds, we believe we can help
   impact the lives of those in need. We might not be able to change the world, but we might be able
   to change someone's world.
+melbourne_quote: |
+  The Solar Chapter team in Melbourne is made up of students from different universities with various skills who are united by the same drive to give back and empower the marginalized in Indonesia. We believe our lives are to be lived for the betterment of those around us. Use what you have and start somewhere.
+seattle_quote: |
+  ...
 ---

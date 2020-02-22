@@ -6,7 +6,7 @@ custom_css:
   - '/assets/css/michigan.css'
 # Content
 background_image: |
-  /assets/media/michigan/michigan_team_1.jpg
+  /assets/media/michigan/FALL_19_TEAM_PHOTO/michigan_team_1.jpg
 
 president_image: |
   /assets/media/michigan/FALL_19_TEAM_PHOTO/Winny Soerianto.jpg
