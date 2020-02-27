@@ -23,28 +23,28 @@ layout: base
 </div>
 <div class="section chapter-one">
   <div class="waves-container">
-    <svg class="waves wave-one" width="200%" preserveAspectRatio="none" viewBox="0 0 597 131" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    <svg class="waves wave-one" width="300%" preserveAspectRatio="none" viewBox="0 0 597 131" version="1.1" xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink">
       <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.7">
         <path
           d="M-1.13686838e-13,57.3537344 C-1.13686838e-13,41.3939061 -1.13686838e-13,15.2561552 -1.13686838e-13,6.19313845 C52.4447131,-17.1304256 81.8488034,41.3939061 118.723803,49.2415624 C155.598803,57.0892186 171.416025,36.2652786 200.553076,25.6302778 C229.690128,14.9952771 275.739334,65.0270314 320.168098,49.2415624 C364.596862,33.4560933 358.42168,21.0538708 405.882618,14.9952771 C437.523243,10.9562146 455.668951,49.2415624 497.726172,49.2415624 C526.863223,49.2415624 555.154256,-3.75046356 596.613281,6.19313845 C596.613281,30.2794414 596.613281,83.836002 596.613281,130.310766 L-1.13686838e-13,130.310766"
-          id="Path" fill="#5edfff"></path>
+          id="Path" fill="#189AB4"></path>
       </g>
     </svg>
-    <svg class="waves wave-two" width="200%" preserveAspectRatio="none" viewBox="0 0 597 129" version="1.1"
+    <svg class="waves wave-two" width="300%" preserveAspectRatio="none" viewBox="0 0 597 129" version="1.1"
       xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
       <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.7">
         <path
           d="M-5.68434189e-14,55.8956152 C18.5680117,45.3533836 65.6948515,0.181350913 108.910156,0.544052739 C173.733113,1.08810548 176.62347,39.935787 213.49847,47.7834432 C250.37347,55.6310995 232.53639,37.6050154 292.419202,13.2534529 C352.302015,-11.0981096 371.28373,63.5689123 415.712494,47.7834432 C460.141258,31.9979742 454.697209,10.7936131 502.158146,4.7350193 C533.798771,0.695956802 579.690274,50.6895962 596.613281,55.8956152 C596.613281,61.688116 596.613281,86.0071264 596.613281,128.852646 L-5.68434189e-14,128.852646 C-5.68434189e-14,88.5680324 -5.68434189e-14,64.249022 -5.68434189e-14,55.8956152 Z"
-          id="Path" fill="#b2fcff"></path>
+          id="Path" fill="#75E6DA"></path>
       </g>
     </svg>
-    <svg class="waves wave-three" width="200%" preserveAspectRatio="none" viewBox="0 0 597 129" version="1.1"
+    <svg class="waves wave-three" width="300%" preserveAspectRatio="none" viewBox="0 0 597 129" version="1.1"
       xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
       <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.7">
         <path
           d="M-5.68434189e-14,55.8956152 C18.5680117,45.3533836 65.6948515,0.181350913 108.910156,0.544052739 C173.733113,1.08810548 176.62347,39.935787 213.49847,47.7834432 C250.37347,55.6310995 232.53639,37.6050154 292.419202,13.2534529 C352.302015,-11.0981096 371.28373,63.5689123 415.712494,47.7834432 C460.141258,31.9979742 454.697209,10.7936131 502.158146,4.7350193 C533.798771,0.695956802 579.690274,50.6895962 596.613281,55.8956152 C596.613281,61.688116 596.613281,86.0071264 596.613281,128.852646 L-5.68434189e-14,128.852646 C-5.68434189e-14,88.5680324 -5.68434189e-14,64.249022 -5.68434189e-14,55.8956152 Z"
-          id="Path" fill="#ecfcff"></path>
+          id="Path" fill="#D4F1F4"></path>
       </g>
     </svg>
   </div>
@@ -63,6 +63,15 @@ layout: base
       </div>
       <div class="offset-md-1 col-md-6">
         <div id="chapter-one-carousel" class="carousel slide" data-ride="carousel" data-interval="0">
+          <ol class="carousel-indicators">
+            {% for url in page.chapterOneGallery %}
+              {% if forloop.index == 1 %}
+              <li data-target="#chapter-one-carousel" data-slide-to="{{forloop.index | minus:1}}" class="active"></li>
+              {% else %}
+              <li data-target="#chapter-one-carousel" data-slide-to="{{forloop.index | minus:1}}"></li>
+              {% endif %}
+            {% endfor %}
+          </ol>
           <div class="carousel-inner">
             {% for url in page.chapterOneGallery %}
               {% if forloop.index == 1 %}
@@ -133,6 +142,15 @@ layout: base
       </div>
       <div class="offset-md-1 col-md-6">
         <div id="chapter-three-carousel" class="carousel slide" data-ride="carousel" data-interval="0">
+          <ol class="carousel-indicators">
+            {% for url in page.chapterThreeGallery %}
+              {% if forloop.index == 1 %}
+              <li data-target="#chapter-three-carousel" data-slide-to="{{forloop.index | minus:1}}" class="active"></li>
+              {% else %}
+              <li data-target="#chapter-three-carousel" data-slide-to="{{forloop.index | minus:1}}"></li>
+              {% endif %}
+            {% endfor %}
+          </ol>
           <div class="carousel-inner">
             {% for url in page.chapterThreeGallery %}
             {% if forloop.index == 1 %}

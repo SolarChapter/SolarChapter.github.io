@@ -3,7 +3,7 @@ const controller = new ScrollMagic.Controller();
 // Waves
 new ScrollMagic.Scene({
   triggerElement: ".chapter-one",
-  duration: $(".chapter-one .card").height()
+  duration: '100%'
 })
   .setTween(".wave-one", {
     x: '0%',
@@ -28,6 +28,16 @@ new ScrollMagic.Scene({
   .setTween(".wave-three", {
     x: '-40%',
     ease: Linear.easeIn
+  })
+  .addTo(controller);
+
+new ScrollMagic.Scene({
+  triggerElement: ".chapter-one",
+  duration: '100%'
+})
+  .setTween(".waves", {
+    height: '50%',
+    ease: Sine.easeIn
   })
   .addTo(controller);
 

@@ -31,6 +31,11 @@ body {
   position: relative;
 }
 
+.navbar-dark .sc-navbar.navbar-toggler {
+  color: rgba(255,255,255,1);
+  border-color: rgba(255,255,255,1);
+}
+
 #main-nav {
   height: $navHeight;
   position: absolute;
@@ -53,8 +58,14 @@ body {
 
 @media(max-width: 576px) {
   .content .container.video {
-    position: relative !important;
     padding: 10px;
+  }
+
+  .section-content {
+    video {
+      height: 500px;
+      object-fit: cover;
+    }
   }
 }
 
