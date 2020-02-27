@@ -5,6 +5,7 @@ new ScrollMagic.Scene({
   triggerElement: ".chapter-one",
   duration: '100%'
 })
+  .triggerHook('onEnter')
   .setTween(".wave-one", {
     x: '0%',
     ease: Linear.easeNone
@@ -15,6 +16,7 @@ new ScrollMagic.Scene({
   triggerElement: ".chapter-one",
   duration: '100%'
 })
+  .triggerHook('onEnter')
   .setTween(".wave-two", {
     x: '-10%',
     ease: Sine.easeIn
@@ -25,6 +27,7 @@ new ScrollMagic.Scene({
   triggerElement: ".chapter-one",
   duration: '100%'
 })
+  .triggerHook('onEnter')
   .setTween(".wave-three", {
     x: '-40%',
     ease: Linear.easeIn
@@ -35,6 +38,7 @@ new ScrollMagic.Scene({
   triggerElement: ".chapter-one",
   duration: '100%'
 })
+  .triggerHook('onEnter')
   .setTween(".waves", {
     height: '50%',
     ease: Sine.easeIn
