@@ -59,8 +59,10 @@ body {
 @media(max-width: 576px) {
   #main-nav {
     .navbar-collapse {
+      border-radius: 5px;
       background-color: white;
       margin-top: 10px;
+      padding: 10px 20px;
       
       .navbar-nav, form {
         padding: 10px;

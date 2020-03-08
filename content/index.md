@@ -11,6 +11,7 @@ custom_js:
   - '/assets/js/jquery.keyframes.min.js'
   - '/assets/js/home.js'
 # Content
+heroVideoPoster: 'https://res.cloudinary.com/db1a3rvdf/image/upload/v1583635551/Solar%20Chapter%20Website/poster_xz6jr4.jpg'
 heroVideoPath: 'https://res.cloudinary.com/db1a3rvdf/video/upload/v1580872118/Solar%20Chapter%20Website/landing_video_r6hcta.mp4'
 heroMessage: |
   <mark class='yellow'><b>Solar Chapter</b></mark> is a non-profit organization formed by students from various universities. We are committed to <mark class='yellow'><b>helping and developing remote areas in Indonesia</b></mark> through sustainable methods.
