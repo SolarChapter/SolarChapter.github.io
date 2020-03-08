@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-<div class="container">
+<div class="container full">
   <div class="section-content">
     <video preload autoplay muted loop>
       <source src="{{page.heroVideoPath}}" type="video/mp4" />
@@ -18,7 +18,7 @@ layout: base
 <div class="container">
   <div class="chapters-title">
     <p>Chapters</p>
-    <img src='/assets/media/daun.png' />
+    <div class='daun'></div>
   </div>
 </div>
 <div class="section chapter-one">
@@ -174,5 +174,26 @@ layout: base
         </div>
       </div>
     </div>
+  </div>
+</div>
+<div class="container">
+  <div class="chapters-title">
+    <p>Sponsors</p>
+    <div class='daun'></div>
+  </div>
+</div>
+<div class="container">
+  <div class="row align-items-center">
+    {% for sponsor in page.sponsors %}
+        <div class="col col-12 col-md-3 sponsor-img-box">
+          {% if sponsor.link %}
+            <a href="{{ sponsor.link }}" target="_blank">
+          {% endif %}
+          <img class="sponsor-img" src="{{ sponsor.image_url }}" />
+          {% if sponsor.link != blank %}
+            </a>
+          {% endif %}
+        </div>
+    {% endfor %}
   </div>
 </div>

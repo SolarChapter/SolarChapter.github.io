@@ -57,6 +57,38 @@ body {
 }
 
 @media(max-width: 576px) {
+  #main-nav {
+    .navbar-collapse {
+      background-color: white;
+      margin-top: 10px;
+      
+      .navbar-nav, form {
+        padding: 10px;
+      }
+      
+      .nav-item {
+        .nav-link {
+          color: black;
+        }
+      }
+    }
+  }
+
+  .container.full {
+    padding-right: 0;
+    padding-left: 0;
+
+    .row {
+      margin-right: 0;
+      margin-left: 0;
+
+      .col {
+        padding-right: 0;
+        padding-left: 0;
+      }
+    }
+  }
+
   .content .container.video {
     padding: 10px;
   }
@@ -148,9 +180,14 @@ span.block {
   display: block;
 }
 
+.daun {
+  display: inline-block;
+  content: url('/assets/media/daun.png');
+}
+
 // Footer
 footer {
-  padding: 30px 0px;
+  padding: 50px 0px 20px 0;
 
   .icon-list {
     padding-top: 15px;

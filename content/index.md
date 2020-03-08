@@ -54,4 +54,22 @@ chapterThreeGallery:
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1581220708/Solar%20Chapter%20Website/chapter_three_kain_makna/RK_05564_harw4a.jpg
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1581220708/Solar%20Chapter%20Website/chapter_three_kain_makna/RK_05582_xwsoei.jpg
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1581220708/Solar%20Chapter%20Website/chapter_three_kain_makna/RK_05616_b3qzjc.jpg
+sponsors:
+  - pt_wahana_duta_jaya_rucika:
+    link: http://rucika.co.id/
+    image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1583622486/Solar%20Chapter%20Website/sponsors/wahana_duta_jaya_rucika_ocskdp.png
+  - pt_multi_spunindo_jaya:
+    link: http://www.spunindo.com/
+    image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1583622486/Solar%20Chapter%20Website/sponsors/spunindo_koisat.png
+  - jsl_levico:
+    image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1583622976/Solar%20Chapter%20Website/sponsors/levico_e9qgbv.png
+  - atonergi:
+    link: https://www.atonergi.com/
+    image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1583622486/Solar%20Chapter%20Website/sponsors/atonergi_ed08aj.png
+  - ica_solar:
+    link: https://www.icasolar.com/
+    image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1583622486/Solar%20Chapter%20Website/sponsors/icasolar_uco6bo.png
+  - lorentz:
+    link: https://www.lorentz.de/en/partners/asia/indonesia
+    image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1583622486/Solar%20Chapter%20Website/sponsors/lorentz_bpbndl.png
 ---
