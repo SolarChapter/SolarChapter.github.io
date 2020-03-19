@@ -2,7 +2,8 @@
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   letter-spacing: 5px;
-  margin: 40px 0;
+  position: relative;
+  z-index: -1;
 
   p {
     font-size: 24px;
@@ -12,22 +13,41 @@
 }
 
 .card.chapters {
-  margin: 30px 0;
+  margin: 50px 0 50px 0;
+}
+
+.waves-background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
 }
 
 .waves-container {
-  position: absolute;
   width: 100%;
-  bottom: 0;
-  height: 100%;
-  display: block;
-  overflow: hidden;
+  position: relative;
 
   .waves {
     position: absolute;
-    height: 100%;
-    bottom: 0;
+    // bottom: 0;
+    width: 200%;
   }
+}
+
+.waves-dyn-height {
+  background: #8CE8ED;
+  height: 100%;
+  width: 100%;
+}
+
+.waves-blender {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100px;
+  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(140,232,237,1) 55%);
+  margin-bottom: 50px;
 }
 
 .img-container {
@@ -61,7 +81,7 @@
   top: 5px; // Somehow there is a 1px spacing between this div and the following one. This is to remove that spacing
 }
 
-.carousel::before {
+.carousel-album::before {
   position: absolute;
   content: '';
   width: 100%;
@@ -70,24 +90,56 @@
   transform: rotate(-2deg);
 }
 
+.carousel-board {
+  border-top: 5px;
+  border-bottom: 10px;
+  border-left: 5px;
+  border-right: 5px;
+  border-color: #7d5e2a;
+  border-style: solid;
+}
+
 .chapter-two {
   margin: 50px 0 100px 0;
   padding: 30px 0;
 }
 
-.education-background-gallery {
-  display: inline-flex;
+.education-background {
   position: absolute;
-  overflow-x: hidden;
-  top: 50%;
-  transform: translate(0, -50%);
+  height: 100%;
+  width: 100%;
 
-  .slide {
-    display: inline-block;
-    align-items: center;
+  .wall-bottom {
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    bottom: 0;
+    background-image: url('/assets/media/wall-brushed.png');
+    background-size: contain;
+    // background: rgb(212,197,17);
+    // background: linear-gradient(0deg, rgba(212,197,17,1) 75%, rgba(255,255,255,1) 100%);
+  }
+}
 
-    img {
-      height: 600px;
+.section.impacts {
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+  .impacts-background-gallery {
+    display: inline-flex;
+    position: absolute;
+    overflow-x: hidden;
+    top: 50%;
+    transform: translate(0, -50%);
+
+    .slide {
+      display: inline-block;
+      align-items: center;
+
+      img {
+        height: 600px;
+      }
     }
   }
 }
@@ -97,6 +149,7 @@
   background-repeat: no-repeat;
   background-position: bottom right;
   margin-bottom: 50px;
+  position: relative;
 
   .tenun {
     position: absolute;
@@ -109,23 +162,70 @@
   }
 }
 
-.waves-blender {
-  display: block;
-  position: relative;
-  width: 100%;
-  height: 100px;
-  background: rgb(220,246,255);
-  background: linear-gradient(0deg, rgba(220,246,255,0) 0%, #b8e9ec 55%);
-  margin-bottom: 50px;
+.ambassadors-container {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-y: top;
+  background-position-x: right;
+
+  min-height: 500px;
+  margin: 100px 0;
+}
+
+.youtube-container {
+  iframe {
+    width: 100%;
+  }
+}
+
+.container.full-height {
+  // height: 500px;
+  .row {
+    height: 100%;
+  }
 }
 
 // SPONSORS
+.sponsor-container {
+  background-color: rgb(212, 197, 17);
+  padding: 50px 0;
+}
+
 .sponsor-img-box {
   padding: 20px;
   vertical-align: middle;
+}
 
-  .sponsor-img {
-    width: 100%;
+.section.sponsors {
+  overflow-x: hidden;
+}
+
+.sponsors-box {
+  display: block;
+  position: relative;
+  padding: 50px 0;
+}
+
+.sponsors-carousel {
+  display: inline-flex;
+  transform: translate(0, -50%);
+  margin-top: 50px;
+
+  .slide {
+    position: relative;
+    display: inline-block;
+    align-items: center;
+    width: 200px;
+    margin: 0 20px;
+
+    a {
+      position: absolute;
+      top: 50%; 
+    }
+
+    img {
+      width: 100%;
+    }
   }
 }
 
