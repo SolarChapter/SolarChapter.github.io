@@ -36,7 +36,7 @@ $.keyframe.define([{
 }]);
 impactsGallerySlides.playKeyframe({
   name: 'impacts-background-carousel',
-  duration: '200s',
+  duration: '120s',
   timingFunction: 'linear',
   iterationCount: 'infinite',
 });
@@ -54,7 +54,7 @@ $.keyframe.define([{
 }]);
 sponsorsCarousel.playKeyframe({
   name: 'sponsors-carousel',
-  duration: '60s',
+  duration: '120s',
   timingFunction: 'linear',
   iterationCount: 'infinite',
 });

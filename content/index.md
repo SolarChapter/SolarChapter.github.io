@@ -36,8 +36,8 @@ chapterTwoMessage: |
   We believe that early childhood literacy is important because the earlier a person has access to information, the more efficient that access will be.
   This is why, we hope that this library will be a vital tool in improving the literacy skills of the future generation.
 chapterTwoGallery:
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584592330/Solar%20Chapter%20Website/chapter_two_education/DSC02009_iaszge.jpg
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1581215218/Solar%20Chapter%20Website/chapter_two_education/DSC01647_yn7ssj.jpg
-  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1581177026/Solar%20Chapter%20Website/chapter_two_education/DSC01625_oiiqza.jpg
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1581177026/Solar%20Chapter%20Website/chapter_two_education/DSC01612_s3blwk.jpg
 # Chapter three
 chapterThreeTitle: |
@@ -52,14 +52,27 @@ chapterThreeGallery:
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1581220708/Solar%20Chapter%20Website/chapter_three_kain_makna/RK_05582_xwsoei.jpg
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1581220708/Solar%20Chapter%20Website/chapter_three_kain_makna/RK_05616_b3qzjc.jpg
 impactsImageGallery:
-  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1581177026/Solar%20Chapter%20Website/impacts/DSC01532_lk4sfp.jpg
-  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1581177026/Solar%20Chapter%20Website/impacts/DSC01526_raljih.jpg
-  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1581177026/Solar%20Chapter%20Website/impacts/DSC01537_mgrkam.jpg
-  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1581177026/Solar%20Chapter%20Website/impacts/DSC01559_p29etq.jpg
-ambassadors:
-  name: Gege Elisa
-  image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1583671746/Solar%20Chapter%20Website/ambassadors/gege_uioocb.png
-  youtube_share_code: <iframe height="315" src="https://www.youtube.com/embed/u3DOELevIkg?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584589350/Solar%20Chapter%20Website/impacts/IMG_0199_kzvzzu.jpg
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584589350/Solar%20Chapter%20Website/impacts/dda40f43-6423-41dc-aea3-7d5c2d1f139b_c8xns6.jpg
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584589350/Solar%20Chapter%20Website/impacts/IMG_0196_kwq4nm.jpg
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584589350/Solar%20Chapter%20Website/impacts/DSC01723_t8v0qa.jpg
+impacts:
+  funded: 
+    title: "Funded"
+    value: "Rp 304,500,000"
+  people: 
+    title: "Reached Out"
+    value: "1080 people"
+  waterPumped:
+    title: "Water Pumped"
+    value: "32k liters water"
+  projects:
+    title: "Created"
+    value: "5 Projects"
+# ambassadors:
+#   name: Gege Elisa
+#   image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1583671746/Solar%20Chapter%20Website/ambassadors/gege_uioocb.png
+#   youtube_share_code: <iframe height="315" src="https://www.youtube.com/embed/u3DOELevIkg?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 sponsors:
   - pt_wahana_duta_jaya_rucika:
     link: http://rucika.co.id/
