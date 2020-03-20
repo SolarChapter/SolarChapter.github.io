@@ -64,15 +64,11 @@ impacts:
     title: "Reached Out"
     value: "1080 people"
   waterPumped:
-    title: "Water Pumped"
+    title: "Pumped"
     value: "32k liters water"
   projects:
     title: "Created"
     value: "5 Projects"
-# ambassadors:
-#   name: Gege Elisa
-#   image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1583671746/Solar%20Chapter%20Website/ambassadors/gege_uioocb.png
-#   youtube_share_code: <iframe height="315" src="https://www.youtube.com/embed/u3DOELevIkg?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 sponsors:
   - pt_wahana_duta_jaya_rucika:
     link: http://rucika.co.id/
@@ -91,4 +87,10 @@ sponsors:
   - lorentz:
     link: https://www.lorentz.de/en/partners/asia/indonesia
     image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1583622486/Solar%20Chapter%20Website/sponsors/lorentz_bpbndl.png
+ambassadors:
+  name: Gege Elisa
+  image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1584677025/Solar%20Chapter%20Website/ambassadors/gege_vbf9nk.png
+  youtube_share_code: <iframe width="100%" height="400px" src="https://www.youtube.com/embed/u3DOELevIkg?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+contact:
+  email: Solar.Chapter.Official@gmail.com
 ---

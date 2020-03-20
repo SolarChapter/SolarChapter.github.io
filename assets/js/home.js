@@ -58,3 +58,12 @@ sponsorsCarousel.playKeyframe({
   timingFunction: 'linear',
   iterationCount: 'infinite',
 });
+
+// Ambassadors
+$(".ambassadors-container").css({
+  "min-height": $(".ambassadors-background").height()
+});
+
+$(".modal").on('hidden.bs.modal', function (e) {
+  $(this).find("iframe").attr("src", $(this).find("iframe").attr("src"));
+});

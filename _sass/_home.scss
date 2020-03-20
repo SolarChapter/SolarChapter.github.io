@@ -100,8 +100,15 @@
 }
 
 .chapter-two {
-  margin: 50px 0 100px 0;
-  padding: 30px 0;
+  margin: 50px 0 0 0;
+  padding: 0 0 30px 0;
+}
+
+.wall-bottom {
+  width: 100%;
+  height: 100px;
+  background-image: url('/assets/media/wall-brushed.png');
+  background-size: contain;
 }
 
 .education-background {
@@ -109,15 +116,70 @@
   height: 100%;
   width: 100%;
 
-  .wall-bottom {
-    width: 100%;
-    height: 150px;
+  .draw {
     position: absolute;
-    bottom: 0;
-    background-image: url('/assets/media/wall-brushed.png');
-    background-size: contain;
-    // background: rgb(212,197,17);
-    // background: linear-gradient(0deg, rgba(212,197,17,1) 75%, rgba(255,255,255,1) 100%);
+  }
+
+  .draw.var-1 {
+    animation: floating-var-1 5s infinite alternate;
+    animation-delay: 0s;
+    animation-timing-function: linear;
+  }
+
+  .draw.var-2 {
+    animation: floating-var-2 5s infinite alternate;
+    animation-delay: 0s;
+    animation-timing-function: linear;
+  }
+
+  .draw.house {
+    top: 0%;
+    left: 2%;
+  }
+
+  .draw.flowerInVase {
+    top: 10%;
+    left: 15%;
+  }
+
+  .draw.sun {
+    top: 40%;
+    left: 45%;
+  }
+
+  .draw.heart {
+    top: 3%;
+    right: 5%;
+  }
+
+  .draw.smiley-face {
+    bottom: 10%;
+    right: 15%;
+  }
+
+  .draw.flower {
+    bottom: 40%;
+    right: 10%;
+  }
+
+  .draw.butterfly {
+    top: 5%;
+    left: 50%;
+  }
+
+  .draw.car {
+    top: 70%;
+    left: 3%;
+  }
+
+  .draw.hand {
+    top: 1%;
+    left: 70%;
+  }
+  
+  .draw.tree {
+    top: 80%;
+    left: 30%;
   }
 }
 
@@ -140,6 +202,10 @@
         padding: 20px;
       }
     }
+  }
+
+  .card-body {
+    margin: 20px 0;
   }
 
   .impacts-background-gallery {
@@ -165,6 +231,7 @@
   background-repeat: no-repeat;
   background-position: bottom right;
   margin-bottom: 50px;
+  padding: 50px 0;
   position: relative;
 
   .tenun {
@@ -184,19 +251,48 @@
     font-size: 30px;
   } 
 }
-.ambassadors-container {
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position-y: top;
-  background-position-x: right;
 
-  min-height: 500px;
-  margin: 100px 0;
+.cta {
+  vertical-align: middle;
+
+  button {
+    margin: 0 10px;
+  }
 }
 
-.youtube-container {
-  iframe {
-    width: 100%;
+.ambassadors-contact {
+  position: relative;
+  overflow: hidden;
+  
+  .contact-container {
+    min-height: 300px;
+  }
+
+  .ambassadors-background {
+    position: absolute;
+    margin-left: -15px;
+  }
+  
+  .ambassadors-content, .contact-content {
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    margin: 0 10px;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .contact-content {
+    word-break: break-word;
+
+    a {
+      color: inherit;
+    }
+
+    a:hover {
+      text-decoration: none;
+    }
   }
 }
 
@@ -257,5 +353,26 @@
   }
   to {
     transform: translateX(-100%);
+  }
+}
+
+@keyframes floating-var-1 {
+  from {
+    transform: rotate(0deg);
+    transform: translate(0, 0);
+  }
+  to {
+    transform: rotate(10deg);
+    transform: translate(20px, 20px);
+  }
+}
+
+
+@keyframes floating-var-2 {
+  from {
+    transform: translate(0, 0) rotate(0deg);
+  }
+  to {
+    transform: translate(-20px, -10px) rotate(-10deg);
   }
 }
