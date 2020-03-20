@@ -159,11 +159,11 @@
 
   .draw.flower {
     bottom: 40%;
-    right: 10%;
+    right: 1%;
   }
 
   .draw.butterfly {
-    top: 5%;
+    top: 1%;
     left: 50%;
   }
 
@@ -180,6 +180,16 @@
   .draw.tree {
     top: 80%;
     left: 30%;
+  }
+
+  .draw.doctor {
+    bottom: 5%;
+    left: 60%;
+  }
+
+  .draw.rocket {
+    bottom: 20%;
+    left: 10%;
   }
 }
 
@@ -230,7 +240,6 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom right;
-  margin-bottom: 50px;
   padding: 50px 0;
   position: relative;
 
