@@ -1,6 +1,7 @@
 ---
 permalink: /
 layout: index
+menu-color: 'dark'
 title: Solar Chapter
 custom_css:
   - '/assets/css/home.css'
