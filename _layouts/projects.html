@@ -1,10 +1,61 @@
 ---
 layout: base
 ---
-<div class="container-fluid">
+<div class="container first">
   <div class="row">
     <div class="col">
-      
+      <div class="text-center">
+        <div class="daun"></div>
+        <h2 class="card-title">{{ page.prefaceTitle }}</h2>
+        <h4>{{ page.preface }}</h4>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col offset-md-1 col-md-10">
+      <div id="map-container"></div>
+    </div>
+  </div>
+  <div class="row">
+    <div style="width: 100%;" class="text-center">
+      <h3 class="card-title">
+        Our Projects
+      </h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col offset-md-1 col-md-10">
+      <table class="table table-bordered">
+        <tbody>
+          {% for province in page.projects %}
+            <tr class="row-solarchapter">
+              <th>Province: {{ province.provinceName }}</th>
+            </tr>
+            {% for regency in province.regencies %}
+              <tr class="row-solarchapter">
+                <th class="regency">Regency: {{ regency.regencyName }}</th>
+              </tr>
+              {% for place in regency.places %}
+                <tr class="row-solarchapter">
+                  <th class="place">{{ place.placeName }}</th>
+                </tr>
+                {% for chapter in place.chapters %}
+                <tr class="clickable-row" data-href="{{ chapter.chapterLink }}">
+                  <th class="chapter">{{ chapter.chapterTitle }}
+                    {% if chapter.chapterStatus == 'completed' %}
+                      <span class="badge badge-success">Completed</span>
+                    {% else if chapter.chapterStatus == 'in-progress' %}
+                      <span class="badge badge-primary">In Progress</span>
+                    {% else %}
+                    {% endif %}
+                  </th>
+                </tr>
+                {% endfor %}
+              {% endfor %}
+            {% endfor %}
+          {% endfor %}
+        </tbody>
+      </table>
     </div>
   </div>
 </div>

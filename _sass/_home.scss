@@ -54,13 +54,6 @@
   text-align: center;
 }
 
-.card-title {
-  font-family: 'Montserrat', sans-serif;
-  text-transform: uppercase;
-  text-align: center;
-  letter-spacing: 2px;
-}
-
 .card-text::first-letter {
   font-size: 45px;
   line-height: 1.5px;
@@ -280,7 +273,6 @@
   }
 
   .ambassadors-background {
-    position: absolute;
     margin-left: -15px;
   }
   

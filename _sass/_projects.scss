@@ -1,7 +1,59 @@
+@import './_variables.scss';
+
 #main-nav {
   .nav-item {
     .nav-link.menu-link, .nav-link.menu-link:hover, .nav-link.menu-link:focus, .nav-link {
       color: black;
     }
+  }
+}
+
+.container.first {
+  padding-top: 100px;
+}
+
+table {
+  .regency {
+    text-indent: 25px;
+  }
+
+  .chapter {
+    text-indent: 50px;
+  }
+
+  .place {
+    text-indent: 75px;
+  }
+
+  .chapter {
+    text-indent: 100px;
+
+    .badge {
+      margin-left: 20px;
+      display: inline;
+    }
+  }
+
+  .row-solarchapter {
+    background-color: $sc-primary-color;
+  }
+
+  .clickable-row {
+    cursor: pointer;
+  }
+
+  .clickable-row:hover {
+    background-color: rgba(0,0,0,.075);
+  }
+}
+
+.hover-info {
+  padding: 10px;
+  border: 1px solid gray;
+  background-color: white;
+  border-radius: 2px; 
+
+  .card-title {
+    margin: 5px 0;
   }
 }

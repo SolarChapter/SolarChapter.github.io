@@ -523,27 +523,27 @@ layout: base
             <div class="container">
               <div class="row">
                 <div class="col col-md-3 impact">
-                  <p class="card-title"><b>{{page.impacts.funded.title}}</b></p>
-                  <div class="impact-number">
-                    {{page.impacts.funded.value}}
-                  </div>
-                </div>
-                <div class="col col-md-3 impact">
                   <p class="card-title"><b>{{page.impacts.people.title}}</b></p>
                   <div class="impact-number">
                     {{page.impacts.people.value}}
                   </div>
                 </div>
                 <div class="col col-md-3 impact">
-                  <p class="card-title"><b>{{page.impacts.waterPumped.title}}</b></p>
+                  <p class="card-title"><b>{{page.impacts.villages.title}}</b></p>
                   <div class="impact-number">
-                    {{page.impacts.waterPumped.value}}
+                    {{page.impacts.villages.value}}
                   </div>
                 </div>
                 <div class="col col-md-3 impact">
-                  <p class="card-title"><b>{{page.impacts.projects.title}}</b></p>
+                  <p class="card-title"><b>{{page.impacts.branches.title}}</b></p>
                   <div class="impact-number">
-                    {{page.impacts.projects.value}}
+                    {{page.impacts.branches.value}}
+                  </div>
+                </div>
+                <div class="col col-md-3 impact">
+                  <p class="card-title"><b>{{page.impacts.students.title}}</b></p>
+                  <div class="impact-number">
+                    {{page.impacts.students.value}}
                   </div>
                 </div>
               </div>
@@ -613,7 +613,9 @@ layout: base
         </button>
       </div>
       <div class="modal-body">
-        {{ page.ambassadors.youtube_share_code }}
+        <div class="embed-responsive embed-responsive-16by9">
+          {{ page.ambassadors.youtube_share_code }}
+        </div>
       </div>
     </div>
   </div>

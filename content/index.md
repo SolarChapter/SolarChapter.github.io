@@ -58,18 +58,18 @@ impactsImageGallery:
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584589350/Solar%20Chapter%20Website/impacts/IMG_0196_kwq4nm.jpg
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584589350/Solar%20Chapter%20Website/impacts/DSC01723_t8v0qa.jpg
 impacts:
-  funded: 
-    title: "Funded"
-    value: "Rp 304,500,000"
   people: 
-    title: "Reached Out"
+    title: "Reached out to"
     value: "1080 people"
-  waterPumped:
-    title: "Pumped"
-    value: "32k liters water"
-  projects:
+  villages:
+    title: "Served"
+    value: "4 villages"
+  branches:
     title: "Created"
-    value: "5 Projects"
+    value: "5 branches"
+  students:
+    title: "Involved"
+    value: "50 students"
 sponsors:
   - pt_wahana_duta_jaya_rucika:
     link: http://rucika.co.id/
@@ -91,7 +91,8 @@ sponsors:
 ambassadors:
   name: Gege Elisa
   image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1584677025/Solar%20Chapter%20Website/ambassadors/gege_vbf9nk.png
-  youtube_share_code: <iframe width="100%" height="400px" src="https://www.youtube.com/embed/u3DOELevIkg?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  # Please include class="embed-responsive-item" in the Youtube share code. See below as example
+  youtube_share_code: <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u3DOELevIkg?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 contact:
   email: Solar.Chapter.Official@gmail.com
 ---

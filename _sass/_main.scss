@@ -1,3 +1,4 @@
+@import './_variables.scss';
 $navHeight: 73px;
 
 body {
@@ -17,7 +18,7 @@ body {
 }
 
 .btn-outline-solarchapter {
-  color: rgb(212, 197, 17);
+  color: $sc-primary-color;
   border-color: rgb(212, 197, 17);
 }
 
@@ -168,6 +169,10 @@ body {
     background: rgba(212, 197, 17, 0.8);
   }
 
+  mark.green {
+    background: #6eb252;
+  }
+
   .section-content::before {
     content: '';
     position: absolute;
@@ -195,6 +200,13 @@ span.block {
 .daun {
   display: inline-block;
   content: url('/assets/media/daun.png');
+}
+
+.card-title {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
 }
 
 // Footer
