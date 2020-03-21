@@ -1,24 +1,33 @@
 ---
 layout: base
 ---
-<div class="container">
-    <div class="bg" style="background-image: url({{ page.background_image }});">
-        <div class="spacing"></div>
+<div class="bg" style="background-image: url({{ page.background_image }});">
+    <div class="container">
+        <div class="py-5"></div>
+
+        <div style="text-align: center">
+            <div class="py-3"></div>
+        </div>
+
+
         <div class="row">
-            <div class="col-sm-1"></div>
-            <div class="col-sm-7">
-                <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/bab-surya-test-campaign" style="max-width: 500px; min-width: 310px; max-height:none!important" width="100%"></iframe>
+
+            <div class="col-sm-6">
+                <script src="https://donorbox.org/widget.js" paypalExpress="true"></script>
+                <iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/solar-chapter"
+                style="max-width: 500px; min-width: 310px; max-height:none!important" width="100%"></iframe>
             </div>
 
 
-            <div class="col-sm-4">
-                <p>{{ page.header_message }}</p>
-
+            <div class="col-sm-6">
+                <b><p>{{ page.header_message }}</p> </b>
                 <br>
-                <p>For Offline donations:</p>
+                <b><p>For Offline Donations:</p></b>
                 <p>{{ page.offline_donation }}</p>
             </div>
+
         </div> 
-        <div class="spacing"></div>
+
+        <div class="py-3"></div>
     </div>
 </div>
