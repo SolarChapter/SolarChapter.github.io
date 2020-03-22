@@ -20,8 +20,8 @@ stats:
     title: "Supported by"
     value: "7 companies"
   branch:
-    title: 'Created Branches'
-    value: 5
+    title: 'Created'
+    value: "5 branches"
   students:
     title: 'Has Involved'
     value: "50 students"
