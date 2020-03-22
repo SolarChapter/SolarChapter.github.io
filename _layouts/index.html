@@ -507,7 +507,7 @@ layout: base
 </div>
 <!-- IMPACTS -->
 <div class="section impacts">
-  <div class="impacts-background-gallery">
+  <div class="impacts-background-gallery bg-carousel">
     {% for url in page.impactsImageGallery %}
       <div class='slide'>
         <img src='{{url}}' />
@@ -570,7 +570,7 @@ layout: base
       </div>
     </div>
   </div>
-  <div class="sponsors-carousel">
+  <div class="sponsors-carousel bg-carousel">
     {% for sponsor in page.sponsors %}
     <div class="slide sponsor-img-box">
       {% if sponsor.link %}

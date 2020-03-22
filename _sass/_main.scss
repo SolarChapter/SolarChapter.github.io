@@ -230,6 +230,15 @@ span.block {
   letter-spacing: 2px;
 }
 
+.bg-carousel {
+  animation: carousel 120s linear infinite;
+}
+
+@keyframes carousel {
+  from { transform: translate(0, -50%) }
+  to { transform: translate(-50%, -50%) }
+}
+
 // Footer
 footer {
   padding: 50px 0px 20px 0;

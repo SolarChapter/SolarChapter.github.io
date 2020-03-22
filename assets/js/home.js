@@ -34,17 +34,6 @@ $(document).ready(function() {
   for (let a = 0; a < impactsGallerySlidesWidthTimes; a++) {
     $(".impacts-background-gallery .slide").clone().appendTo(".impacts-background-gallery");
   }
-  $.keyframe.define([{
-    name: 'impacts-background-carousel',
-    '0%': { transform: `translate(0, -50%)` },
-    '100%': { transform: `translate(-50%, -50%)` }
-  }]);
-  impactsGallerySlides.playKeyframe({
-    name: 'impacts-background-carousel',
-    duration: '120s',
-    timingFunction: 'linear',
-    iterationCount: 'infinite',
-  });
   
   // Sponsors
   const sponsorsCarousel = $(".sponsors-carousel");
@@ -52,17 +41,6 @@ $(document).ready(function() {
   for (let a = 0; a < sponsorsCarouselWidthTimes; a++) {
     $(".sponsors-carousel .slide").clone().appendTo(".sponsors-carousel");
   }
-  $.keyframe.define([{
-    name: 'sponsors-carousel',
-    '0%': { transform: `translate(0, -50%)` },
-    '100%': { transform: `translate(-50%, -50%)` }
-  }]);
-  sponsorsCarousel.playKeyframe({
-    name: 'sponsors-carousel',
-    duration: '120s',
-    timingFunction: 'linear',
-    iterationCount: 'infinite',
-  });
   
   // Ambassadors
   $(".ambassadors-container").css({

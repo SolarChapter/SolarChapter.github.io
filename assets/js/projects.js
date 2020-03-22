@@ -109,20 +109,7 @@ $(document).ready(function() {
       .clone()
       .appendTo(".stats-background-gallery");
   }
-  $.keyframe.define([
-    {
-      name: "stats-background-gallery",
-      "0%": { transform: `translate(0, -50%)` },
-      "100%": { transform: `translate(-50%, -50%)` }
-    }
-  ]);
-  statsGallery.playKeyframe({
-    name: "stats-background-gallery",
-    duration: "120s",
-    timingFunction: "linear",
-    iterationCount: "infinite"
-  });
-
+  
   // Project table
   $(".clickable-row").click(function() {
     window.location = $(this).data("href");

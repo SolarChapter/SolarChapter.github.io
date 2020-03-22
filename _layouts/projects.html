@@ -2,7 +2,7 @@
 layout: base
 ---
 <div class="section first stats-gallery">
-  <div class="stats-background-gallery">
+  <div class="stats-background-gallery bg-carousel">
     {% for url in page.statsImageGallery %}
       <div class='slide'>
         <img src='{{url}}' />
@@ -77,15 +77,15 @@ layout: base
       <table class="table table-bordered">
         <tbody>
           {% for province in page.projects %}
-            <tr class="row-solarchapter">
+            <tr class="table-active">
               <th>Province: {{ province.provinceName }}</th>
             </tr>
             {% for regency in province.regencies %}
-              <tr class="row-solarchapter">
+              <tr class="table-active">
                 <th class="regency">Regency: {{ regency.regencyName }}</th>
               </tr>
               {% for place in regency.places %}
-                <tr class="row-solarchapter">
+                <tr class="table-active">
                   <th class="place">{{ place.placeName }}</th>
                 </tr>
                 {% for chapter in place.chapters %}
