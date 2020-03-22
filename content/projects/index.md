@@ -47,14 +47,12 @@ projects:
             chapters:
               - chapterTwo:
                 chapterTitle: 'Chapter Two: Education for As Manulea'
-                chapterLink: '/projects/chapter-two-education-for-as-manulea'
                 chapterStatus: 'completed'
           - biau:
             placeName: 'Biau'
             chapters:
               - chapterOne:
                 chapterTitle: 'Chapter One: Water for Biau'
-                chapterLink: '/projects/chapter-one-water-for-biau'
                 chapterStatus: 'in-progress'
           - umutnana:
             placeName: 'Umutnana'

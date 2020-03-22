@@ -29,5 +29,5 @@ implementationText: |
   From January 9th to the 14th of 2018, Solar Chapter implemented its first chapter. With a plan and design in hand, we journeyed to the Umutnana Village. We were received positively by the villagers, as we came to fulfill a promise we made in August 2017, that we would ease their efforts in obtaining clean water. As we built our solar water pump, the villagers were eager to help, aiding us in digging a route for the pipes, and constructing the solar panels. Now the villagers of Umutnana do not have to walk two kilometers daily to obtain water. Instead, the water will be available at 16 different public faucets, available in less than ten meters from their homes
 fundraisingImageUrl: https://res.cloudinary.com/db1a3rvdf/image/upload/v1584853152/Solar%20Chapter%20Website/projects/chapter_one_umutnana/IMG_0302_bpztwc.jpg
 fundraisingText: ""
-fundraisingUrl: ""
+fundraisingUrl:
 ---

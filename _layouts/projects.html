@@ -89,7 +89,11 @@ layout: base
                   <th class="place">{{ place.placeName }}</th>
                 </tr>
                 {% for chapter in place.chapters %}
-                <tr class="clickable-row" data-href="{{ chapter.chapterLink }}">
+                {% if chapter.chapterLink %}
+                  <tr class="clickable-row" data-href="{{ chapter.chapterLink }}">
+                {% else %}
+                  <tr>
+                {% endif %}
                   <th class="chapter">{{ chapter.chapterTitle }}
                     {% if chapter.chapterStatus == 'completed' %}
                       <span class="badge badge-success">Completed</span>
