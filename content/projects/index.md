@@ -61,6 +61,6 @@ projects:
             chapters:
               - chapterOne:
                 chapterTitle: 'Chapter One: Water for Umutnana'
-                chapterLink': '/projects/chapter-one-water-for-umutnana'
+                chapterLink: '/projects/chapter-one-water-for-umutnana'
                 chapterStatus: 'completed'
 ---
