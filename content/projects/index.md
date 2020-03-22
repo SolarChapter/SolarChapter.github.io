@@ -45,17 +45,16 @@ projects:
           - asmanulea:
             placeName: 'As Manulea'
             chapters:
-              - chapterOne:
-                chapterTitle: 'Chapter One: Water for As Manulea'
-                chapterLink: '/projects/chapter-one-water-for-as-manulea'
-                chapterStatus: 'completed'
               - chapterTwo:
                 chapterTitle: 'Chapter Two: Education for As Manulea'
                 chapterLink: '/projects/chapter-two-education-for-as-manulea'
                 chapterStatus: 'completed'
-              - chapterTwo:
-                chapterTitle: 'Chapter Three: Makna Movement for As Manulea'
-                chapterLink: '/projects/chapter-three-makna-movement-for-as-manulea'
+          - biau:
+            placeName: 'Biau'
+            chapters:
+              - chapterOne:
+                chapterTitle: 'Chapter One: Water for Biau'
+                chapterLink: '/projects/chapter-one-water-for-biau'
                 chapterStatus: 'in-progress'
           - umutnana:
             placeName: 'Umutnana'

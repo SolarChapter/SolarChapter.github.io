@@ -8,21 +8,19 @@ const data = [
     data: {
       "As Manulea": [
         {
-          title: "Chapter One: Water for As Manulea",
-          status: "Completed"
-        },
-        {
           title: "Chapter Two: Education for As Manulea",
           status: "Completed"
-        },
-        {
-          title: "Chapter Three: Makna Movement for As Manulea",
-          status: "In-Progress"
         }
       ],
-      Umutnana: [
+      "Biau": [
         {
-          title: "Chapter Two: Water for Umutnana",
+          title: "Chapter One: Water for Biau",
+          status: "In-Progress" 
+        }
+      ],
+      "Umutnana": [
+        {
+          title: "Chapter One: Water for Umutnana",
           status: "Completed"
         }
       ]
