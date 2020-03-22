@@ -27,11 +27,11 @@ stats:
     value: "50 students"
     help_message: "from universities across the world"
 statsImageGallery:
-  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838758/Solar%20Chapter%20Website/projects_page/RK_05953_bbfw73.jpg
-  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838758/Solar%20Chapter%20Website/projects_page/DSC00821_phwela.jpg
-  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838757/Solar%20Chapter%20Website/projects_page/IMG_20170817_113747_uij0wu.jpg
-  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838757/Solar%20Chapter%20Website/projects_page/RK_05181_by4ydl.jpg
-  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838757/Solar%20Chapter%20Website/projects_page/DSC02083_a8adwa.jpg
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584855201/Solar%20Chapter%20Website/projects_page/stats_carousel/RK_05953_bbfw73_i8tb3r.jpg
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838758/Solar%20Chapter%20Website/projects_page/stats_carousel/DSC00821_phwela.jpg
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838757/Solar%20Chapter%20Website/projects_page/stats_carousel/IMG_20170817_113747_uij0wu.jpg
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838757/Solar%20Chapter%20Website/projects_page/stats_carousel/RK_05181_by4ydl.jpg
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838757/Solar%20Chapter%20Website/projects_page/stats_carousel/DSC02083_a8adwa.jpg
 prefaceTitle: ''
 preface: |
   Solar Chapter has worked on several projects in Indonesia, and still counting. Collaborating with students across the world, companies, and local government in identifying and providing solutions in getting basic commodities to rural areas.
