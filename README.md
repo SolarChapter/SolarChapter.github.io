@@ -2,9 +2,16 @@ Solar Chapter
 ---
 
 ## Editing pages' content?
-- All page content lives in the [src/content](src/content) directory.
+- All page content lives in the [content](content) directory.
 - All page content have a file extension, namely `.md` (Markdown). This type of file is used to format your text. See what formatting you can do to your text using this [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
-- All media content lives in the [src/assets](src/assets) directory and can be referenced in your content.
+- All media content lives in the [assets](assets) directory and can be referenced in your content.
+
+## Adding a new project page?
+- Check the [first project page](content/projects/chapter-one-umutnana.md) and use it as a template
+
+## Editing map in the projects page?
+- Open [projects.js](assets/js/projects.js#L1) file
+- Update `chaptersData` variable. It's pretty self-explanatory. It contains list of "Kabupaten" and villages where Solar Chapter's projects are
 
 ## Technical notes
 ### Technologies

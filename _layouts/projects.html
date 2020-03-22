@@ -1,0 +1,114 @@
+---
+layout: base
+---
+<div class="section first stats-gallery">
+  <div class="stats-background-gallery bg-carousel">
+    {% for url in page.statsImageGallery %}
+      <div class='slide'>
+        <img src='{{url}}' />
+      </div>
+    {% endfor %}
+  </div>
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col">
+        <div class="card stats">
+          <div class="card-body">
+            <h4 class="card-title">Our Projects</h4>
+            <div class="container">
+              <div class="row">
+                <div class="col col-md-3 stat">
+                  <p class="card-title"><b>{{page.stats.fund.title}}</b></p>
+                  <div class="stat-number">
+                    {{page.stats.fund.value}}
+                  </div>
+                </div>
+                <div class="col col-md-3 stat">
+                  <p class="card-title"><b>{{page.stats.sponsors.title}}</b></p>
+                  <div class="stat-number">
+                    {{page.stats.sponsors.value}}
+                  </div>
+                </div>
+                <div class="col col-md-3 stat">
+                  <p class="card-title"><b>{{page.stats.branch.title}}</b></p>
+                  <div class="stat-number">
+                    {{page.stats.branch.value}}
+                  </div>
+                </div>
+                <div class="col col-md-3 stat">
+                  <p class="card-title"><b>{{page.stats.students.title}}</b></p>
+                  <div class="stat-number">
+                    {{page.stats.students.value}}
+                  </div>
+                  <p class="text-center">{{page.stats.students.help_message}}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="text-center">
+        <div class="daun"></div>
+        <h2 class="card-title">{{ page.prefaceTitle }}</h2>
+        <h4>{{ page.preface }}</h4>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col offset-md-1 col-md-10">
+      <div id="map-container"></div>
+    </div>
+  </div>
+  <div class="row">
+    <div style="width: 100%;" class="text-center">
+      <h3 class="card-title">
+        Our Projects
+      </h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col offset-md-1 col-md-10">
+      <table class="table table-bordered">
+        <tbody>
+          {% for province in page.projects %}
+            <tr class="table-active">
+              <th>Province: {{ province.provinceName }}</th>
+            </tr>
+            {% for regency in province.regencies %}
+              <tr class="table-active">
+                <th class="regency">Regency: {{ regency.regencyName }}</th>
+              </tr>
+              {% for place in regency.places %}
+                <tr class="table-active">
+                  <th class="place">{{ place.placeName }}</th>
+                </tr>
+                {% for chapter in place.chapters %}
+                {% if chapter.chapterLink %}
+                  <tr class="clickable-row" data-href="{{ chapter.chapterLink }}">
+                {% else %}
+                  <tr>
+                {% endif %}
+                  <th class="chapter">{{ chapter.chapterTitle }}
+                    {% if chapter.chapterStatus == 'completed' %}
+                      <span class="badge badge-success">Completed</span>
+                    {% else if chapter.chapterStatus == 'in-progress' %}
+                      <span class="badge badge-primary">In Progress</span>
+                    {% else %}
+                    {% endif %}
+                  </th>
+                </tr>
+                {% endfor %}
+              {% endfor %}
+            {% endfor %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
