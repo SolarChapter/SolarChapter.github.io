@@ -6,9 +6,9 @@ title: Solar Chapter
 custom_css:
   - '/assets/css/home.css'
 custom_js: 
-  - '//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js'
-  - '//cdnjs.cloudflare.com/ajax/libs/gsap/1.16.1/TweenMax.min.js'
-  - '//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.2/plugins/animation.gsap.js'
+  - 'https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js'
+  - 'https://cdnjs.cloudflare.com/ajax/libs/gsap/1.16.1/TweenMax.min.js'
+  - 'https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.2/plugins/animation.gsap.js'
   - '/assets/js/jquery.keyframes.min.js'
   - '/assets/js/home.js'
 # Content

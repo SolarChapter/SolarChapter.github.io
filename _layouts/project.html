@@ -1,10 +1,59 @@
 ---
 layout: base
 ---
-<div class="container first">
+<div
+  class="container first project-header"
+  style="background-image: url('{{ page.headerImageUrl }}')"
+>
+</div>
+<div class="chapters-title">
+  <div class='daun'></div>
+  <p>{{ page.title }}</p>
+</div>
+<div class="container">
   <div class="row">
-    <div class="col">
-      Test
+    <div class="col-sm-12 col-md-9">
+      <div class="container">
+        <div class="row">
+          <h4 class="project-content-title"><mark class="yellow">Background</mark></h4>
+          <div class="project-content-section">
+            {{ page.backgroundText }}
+          </div>
+        </div>
+        <div class="row">
+          <h4 class="project-content-title"><mark class="yellow">Solution</mark></h4>
+          <div class="project-content-section">
+            {{ page.solutionText }}
+          </div>
+        </div>
+        <div class="row">
+          <h4 class="project-content-title"><mark class="yellow">Implementation</mark></h4>
+          <div class="project-content-section">
+            {{ page.implementationText }}
+          </div>
+        </div>
+        <div class="row">
+          <div class="cta-section">
+            <a class="btn btn-solarchapter" href="/projects">Go back to projects</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-3">
+      <div class="card donation-section">
+        {% if page.fundraisingUrl == "" %}
+          <div class="card-body">
+            <p class="card-text">You help is always appreciated. To support our project, you can make a donation to us</p>
+            <a href="/donate" class="btn btn-solarchapter">Donate</a>
+          </div>
+        {% else %}
+          <img src="{{ page.fundraisingImageUrl }}" class="card-img-top">
+          <div class="card-body">
+            <p class="card-text">{{ page.fundraisingText }}</p>
+            <a href="{{ page.fundraisingUrl }}" class="btn btn-solarchapter">Donate</a>
+          </div>
+        {% endif %}
+      </div>
     </div>
   </div>
 </div>
