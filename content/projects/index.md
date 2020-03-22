@@ -1,16 +1,37 @@
 ---
 permalink: /projects
 layout: projects
-menu-color: 'light'
+menu-color: 'dark'
 title: Solar Chapter - Projects
 custom_css:
   - '/assets/css/projects.css'
 custom_js: 
+  - '/assets/js/jquery.keyframes.min.js'
   - 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js'
   - 'https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js'
   - 'https://cdnjs.cloudflare.com/ajax/libs/datamaps/0.5.9/datamaps.idn.min.js'
   - '/assets/js/projects.js'
 # Content
+stats:
+  fund:
+    title: "Has Raised"
+    value: "Rp. 320,000,000"
+  sponsors:
+    title: "Supported by"
+    value: "7 companies"
+  branch:
+    title: 'Created Branches'
+    value: 5
+  students:
+    title: 'Has Involved'
+    value: "50 students"
+    help_message: "from universities across the world"
+statsImageGallery:
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838758/Solar%20Chapter%20Website/projects_page/RK_05953_bbfw73.jpg
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838758/Solar%20Chapter%20Website/projects_page/DSC00821_phwela.jpg
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838757/Solar%20Chapter%20Website/projects_page/IMG_20170817_113747_uij0wu.jpg
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838757/Solar%20Chapter%20Website/projects_page/RK_05181_by4ydl.jpg
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584838757/Solar%20Chapter%20Website/projects_page/DSC02083_a8adwa.jpg
 prefaceTitle: ''
 preface: |
   Solar Chapter has worked on several projects in Indonesia, and still counting. Collaborating with students across the world, companies, and local government in identifying and providing solutions in getting basic commodities to rural areas.

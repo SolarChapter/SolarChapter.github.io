@@ -6,6 +6,26 @@ body {
   position: relative;
 }
 
+#main-nav.navbar-dark {
+  .nav-item {
+    .nav-link.menu-link, .nav-link.menu-link:hover, .nav-link.menu-link:focus, .nav-link {
+      color: white;
+    }
+  }
+}
+
+#main-nav.navbar-light {
+  .nav-item {
+    .nav-link.menu-link, .nav-link.menu-link:hover, .nav-link.menu-link:focus, .nav-link {
+      color: black;
+    }
+  }
+}
+
+.container.first, .section.first {
+  padding-top: 100px;
+}
+
 // Buttons
 .btn-outline-success {
   color: #6eb252;
@@ -40,6 +60,7 @@ body {
 // Header Navigation
 #main-nav-container {
   position: relative;
+  z-index: 1000; // Should take precedent over anything
 }
 
 .navbar-dark .sc-navbar.navbar-toggler {

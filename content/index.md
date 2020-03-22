@@ -64,12 +64,14 @@ impacts:
   villages:
     title: "Served"
     value: "4 villages"
-  branches:
-    title: "Created"
-    value: "5 branches"
-  students:
-    title: "Involved"
-    value: "50 students"
+  pumped:
+    title: "Pumped"
+    value: "32k liters"
+    help_message: "water"
+  cut_down:
+    title: "Cut down"
+    value: "300 meters"
+    help_message: "travel distance to get water"
 sponsors:
   - pt_wahana_duta_jaya_rucika:
     link: http://rucika.co.id/
