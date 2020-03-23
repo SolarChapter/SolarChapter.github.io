@@ -28,17 +28,19 @@ $(document).ready(function() {
   });
     
   const windowWidth = $(window).width();
+  // This is to cap the number of clone times because jQuery may not always be ready to calculate width and get the correct number of clones
+  const cloneTimes = 1;
   // Impacts gallery
-  const impactsGallerySlides = $(".impacts-background-gallery");
-  const impactsGallerySlidesWidthTimes = Math.ceil(windowWidth / impactsGallerySlides.width());
-  for (let a = 0; a < impactsGallerySlidesWidthTimes; a++) {
+  // const impactsGallerySlides = $(".impacts-background-gallery");
+  // const impactsGallerySlidesWidthTimes = Math.ceil(windowWidth / impactsGallerySlides.width());
+  for (let a = 0; a < cloneTimes; a++) {
     $(".impacts-background-gallery .slide").clone().appendTo(".impacts-background-gallery");
   }
   
   // Sponsors
-  const sponsorsCarousel = $(".sponsors-carousel");
-  const sponsorsCarouselWidthTimes = Math.ceil(windowWidth / sponsorsCarousel.width());
-  for (let a = 0; a < sponsorsCarouselWidthTimes; a++) {
+  // const sponsorsCarousel = $(".sponsors-carousel");
+  // const sponsorsCarouselWidthTimes = Math.ceil(windowWidth / sponsorsCarousel.width());
+  for (let a = 0; a < cloneTimes; a++) {
     $(".sponsors-carousel .slide").clone().appendTo(".sponsors-carousel");
   }
   

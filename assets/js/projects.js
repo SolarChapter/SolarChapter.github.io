@@ -102,9 +102,11 @@ $(document).ready(function() {
   });
 
   // Stats Gallery
-  const statsGallery = $(".stats-background-gallery");
-  const statsGalleryWidthTimes = Math.ceil($(window).width() / statsGallery.width());
-  for (let a = 0; a < statsGalleryWidthTimes; a++) {
+  // This is to cap the number of clone times because jQuery may not always be ready to calculate width and get the correct number of clones
+  const cloneTimes = 1;
+  // const statsGallery = $(".stats-background-gallery");
+  // const statsGalleryWidthTimes = Math.ceil($(window).width() / statsGallery.width());
+  for (let a = 0; a < cloneTimes; a++) {
     $(".stats-background-gallery .slide")
       .clone()
       .appendTo(".stats-background-gallery");
@@ -114,4 +116,6 @@ $(document).ready(function() {
   $(".clickable-row").click(function() {
     window.location = $(this).data("href");
   });
-});
+});// This is to cap the number of clone times because jQuery may not always be ready to calculate width and get the correct number of clones
+  const cloneTimes = 1;
+  
