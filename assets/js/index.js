@@ -29,7 +29,7 @@ $(document).ready(function() {
     
   const windowWidth = $(window).width();
   // This is to cap the number of clone times because jQuery may not always be ready to calculate width and get the correct number of clones
-  const cloneTimes = 1;
+  const cloneTimes = 2;
   // Impacts gallery
   // const impactsGallerySlides = $(".impacts-background-gallery");
   // const impactsGallerySlidesWidthTimes = Math.ceil(windowWidth / impactsGallerySlides.width());

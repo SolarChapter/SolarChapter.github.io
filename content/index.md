@@ -58,17 +58,19 @@ impactsImageGallery:
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1585058594/Solar%20Chapter%20Website/homepage/impacts/RK_06058_yzyefp.jpg
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584855850/Solar%20Chapter%20Website/homepage/impacts/DSC01723_t8v0qa_ycwbmr.jpg
 impacts:
-  people: 
+  first: 
     title: "Reached out to"
     value: "1080 people"
-  villages:
+    help_message:
+  second:
     title: "Served"
     value: "4 villages"
-  pumped:
+    help_message:
+  third:
     title: "Pumped"
     value: "32k liters"
     help_message: "water"
-  cut_down:
+  fourth:
     title: "Cut down"
     value: "300 meters"
     help_message: "travel distance to get water"

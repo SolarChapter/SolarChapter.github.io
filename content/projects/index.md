@@ -13,16 +13,19 @@ custom_js:
   - '/assets/js/projects.js'
 # Content
 stats:
-  fund:
+  first:
     title: "Has Raised"
     value: "Rp. 320,000,000"
-  sponsors:
+    help_message:
+  second:
     title: "Supported by"
     value: "7 companies"
-  branch:
+    help_message:
+  third:
     title: 'Created'
     value: "5 branches"
-  students:
+    help_message:
+  fourth:
     title: 'Has Involved'
     value: "50 students"
     help_message: "from universities across the world"
