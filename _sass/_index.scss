@@ -246,8 +246,8 @@
   position: relative;
   overflow: hidden;
   
-  .contact-container {
-    min-height: 300px;
+  .ambassadors-right-container {
+    min-height: 520px;
   }
 
   .ambassadors-left-background {
@@ -271,6 +271,7 @@
     top: 5%;
     left: 50%;
     transform: translate(-50%, 0%);
+    min-height: 700px;
   }
 
   .ambassadors-right-background {
