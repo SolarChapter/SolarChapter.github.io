@@ -93,10 +93,18 @@ sponsors:
     link: https://www.lorentz.de/en/partners/asia/indonesia
     image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1583622486/Solar%20Chapter%20Website/homepage/sponsors/lorentz_bpbndl.png
 ambassadors:
-  name: Gege Elisa
-  image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1584677025/Solar%20Chapter%20Website/homepage/ambassadors/gege_vbf9nk.png
-  # Please include class="embed-responsive-item" in the Youtube share code. See below as example
-  youtube_share_code: <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u3DOELevIkg?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  left:
+    quote: "Pada umumnya kita semua membutuhkan air, namun mereka sangat sulit mendapatkan hal itu."
+    name: Gege Elisa
+    image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1584677025/Solar%20Chapter%20Website/homepage/ambassadors/gege_vbf9nk.png
+    # Please include class="embed-responsive-item" in the Youtube share code. See below as example
+    youtube_share_code: <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u3DOELevIkg?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  right:
+    quote: "Kita harus kontribusi untuk generasi penerus bangsa. Kalau bukan kita, siapa lagi. Kalau bukan sekarang, kapan lagi"
+    name: Chelsea Islan
+    image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1585064247/Solar%20Chapter%20Website/homepage/ambassadors/chelsea_islan_qrbhjm.png
+    # Please include class="embed-responsive-item" in the Youtube share code. See below as example
+    youtube_share_code: <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/88Vk5QyZCnA?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 contact:
   email: Solar.Chapter.Official@gmail.com
 ---

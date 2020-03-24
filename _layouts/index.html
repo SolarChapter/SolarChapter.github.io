@@ -591,23 +591,30 @@ layout: base
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 col-md-6 ambassadors-container">
-        <img class="ambassadors-background" src="{{ page.ambassadors.image_url }}" />
-        <div class="ambassadors-content">
-          <div class="card-title"><mark class='yellow'>Our Ambassador: {{ page.ambassadors.name }}</mark></div>
-          <button class="btn btn-solarchapter" data-toggle="modal" data-target="#ambassadors-video">Watch Her video</button>
+        <img class="ambassadors-left-background" src="{{ page.ambassadors.left.image_url }}" />
+        <div class="ambassadors-content ambassadors-content-left">
+          <div class="lead-quote">
+            <b>{{ page.ambassadors.left.quote }}</b>
+            <p>– {{ page.ambassadors.left.name }}</p>
+          </div>
+          <button class="btn btn-solarchapter" data-toggle="modal" data-target="#ambassadors-left-video">Watch Her video</button>
         </div>
       </div>
       <div class="col-xs-12 col-md-6 contact-container">
-        <div class="contact-content">
-          <div class='daun'></div>
-          <div class="card-title">Contact us at: <a target="_blank" href="mailto:{{page.contact.email}}">{{ page.contact.email }}</a></div>
+        <img class="ambassadors-right-background" src="{{ page.ambassadors.right.image_url }}" />
+        <div class="ambassadors-content ambassadors-content-right">
+          <div class="lead-quote">
+            <b>{{ page.ambassadors.right.quote }}</b>
+            <p>– {{ page.ambassadors.right.name }}</p>
+          </div>
+          <button class="btn btn-solarchapter" data-toggle="modal" data-target="#ambassadors-right-video">Watch Her video</button>
         </div>
       </div>
     </div>
   </div>
 </div>
 <!-- MODAL: AMBASSADORS VIDEO -->
-<div class="modal fade" id="ambassadors-video" tabindex="-1" role="dialog" aria-labelledby="ambassadors-video"
+<div class="modal fade" id="ambassadors-left-video" tabindex="-1" role="dialog" aria-labelledby="ambassadors-left-video"
   aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
@@ -618,7 +625,24 @@ layout: base
       </div>
       <div class="modal-body">
         <div class="embed-responsive embed-responsive-16by9">
-          {{ page.ambassadors.youtube_share_code }}
+          {{ page.ambassadors.left.youtube_share_code }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="ambassadors-right-video" tabindex="-1" role="dialog" aria-labelledby="ambassadors-right-video"
+  aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="embed-responsive embed-responsive-16by9">
+          {{ page.ambassadors.right.youtube_share_code }}
         </div>
       </div>
     </div>
