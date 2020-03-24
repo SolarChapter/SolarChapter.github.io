@@ -53,9 +53,9 @@ chapterThreeGallery:
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584856092/Solar%20Chapter%20Website/homepage/chapter_three_section/RK_05582_xwsoei_avl03q.jpg
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584856092/Solar%20Chapter%20Website/homepage/chapter_three_section/RK_05616_b3qzjc_nisgb9.jpg
 impactsImageGallery:
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1585058594/Solar%20Chapter%20Website/homepage/impacts/10F2042A-912F-43B6-8DC2-9AC8DC0C7E5F_mposyz.jpg
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584589350/Solar%20Chapter%20Website/homepage/impacts/dda40f43-6423-41dc-aea3-7d5c2d1f139b_c8xns6.jpg
-  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584589350/Solar%20Chapter%20Website/homepage/impacts/IMG_0199_kzvzzu.jpg
-  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584589350/Solar%20Chapter%20Website/homepage/impacts/IMG_0196_kwq4nm.jpg
+  - https://res.cloudinary.com/db1a3rvdf/image/upload/v1585058594/Solar%20Chapter%20Website/homepage/impacts/RK_06058_yzyefp.jpg
   - https://res.cloudinary.com/db1a3rvdf/image/upload/v1584855850/Solar%20Chapter%20Website/homepage/impacts/DSC01723_t8v0qa_ycwbmr.jpg
 impacts:
   people: 
