@@ -21,7 +21,6 @@ body {
 }
 
 div.lead-quote {
-  font-family: 'PT Serif', serif;
   font-size: 20px;
   background-color: rgba(252,248,227, 0.5);
   padding: 20px 5px;
@@ -46,7 +45,11 @@ div.lead-quote {
   vertical-align: -0.4em;
 }
 
-.project-content-section::first-letter, .chapter-text::first-letter {
+.first-reading-paragraph {
+  margin: 10px 0;
+}
+
+.first-reading-paragraph::first-letter, .chapter-text::first-letter {
   font-size: 45px;
   line-height: 1.5px;
   padding-right: 5px;
