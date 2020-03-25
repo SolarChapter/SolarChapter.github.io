@@ -1,3 +1,5 @@
+@import './variables.scss';
+
 .project-header {
   background-size: cover;
   background-position: center center;
@@ -34,6 +36,36 @@ blockquote {
 .img-container {
   width: 100%;
   text-align: center;
+}
+
+.books-tab-container {
+  width: 100%;
+  padding-top: 20px;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 1;
+}
+
+.book-tabs {
+  width: 100%;
+
+  .nav-link.active {
+    background-color: $sc-primary-color;
+  }
+
+  .nav-link {
+    background-color: white;
+    border-color: #dee2e6;
+  }
+
+  a {
+    color: black;
+  }
+}
+
+.tab-content {
+  padding: 25px 0;
 }
 
 .donation-section {

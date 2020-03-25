@@ -1,3 +1,5 @@
+@import './variables';
+
 .card.chapters {
   margin: 50px 0 50px 0;
 }
@@ -246,23 +248,38 @@
   position: relative;
   overflow: hidden;
   
-  .contact-container {
-    min-height: 300px;
-    background-color: rgba(212, 197, 17, 0.8);
+  .ambassadors-right-container {
+    min-height: 520px;
   }
 
-  .ambassadors-background {
+  .ambassadors-left-background {
     margin-left: -15px;
   }
   
-  .ambassadors-content, .contact-content {
+  .ambassadors-content {
     position: absolute;
     z-index: 1;
-    top: 50%;
-    left: 50%;
     margin: 0 10px;
-    transform: translate(-50%, -50%);
     text-align: center;
+  }
+
+  .ambassadors-content-left {
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+  }
+
+  .ambassadors-content-right {
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    min-height: 700px;
+  }
+
+  .ambassadors-right-background {
+    position: absolute;
+    bottom: 0;
+    right: 0;
   }
 
   .contact-content {

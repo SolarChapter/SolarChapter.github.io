@@ -4,8 +4,7 @@ layout: base
 <!-- LANDING SECTION -->
 <div class="container full" id="landing-section">
   <div class="section-content">
-    <video preload autoplay muted loop poster="{{ page.heroVideoPoster }}">
-      <source src="{{page.heroVideoPath}}" type="video/mp4" />
+    <video preload autoplay muted loop poster="{{ page.heroVideoPoster }}" src="{{page.heroVideoPath}}">
     </video>
     <div class="container video">
       <div class="row align-items-center hero-content">
@@ -523,30 +522,32 @@ layout: base
             <div class="container">
               <div class="row">
                 <div class="col col-md-3 impact">
-                  <p class="card-title"><b>{{page.impacts.people.title}}</b></p>
+                  <p class="card-title"><b>{{page.impacts.first.title}}</b></p>
                   <div class="impact-number">
-                    {{page.impacts.people.value}}
+                    {{page.impacts.first.value}}
                   </div>
+                  <p class="text-center">{{page.impacts.first.help_message}}</p>
                 </div>
                 <div class="col col-md-3 impact">
-                  <p class="card-title"><b>{{page.impacts.villages.title}}</b></p>
+                  <p class="card-title"><b>{{page.impacts.second.title}}</b></p>
                   <div class="impact-number">
-                    {{page.impacts.villages.value}}
+                    {{page.impacts.second.value}}
                   </div>
+                  <p class="text-center">{{page.impacts.second.help_message}}</p>
                 </div>
                 <div class="col col-md-3 impact">
-                  <p class="card-title"><b>{{page.impacts.pumped.title}}</b></p>
+                  <p class="card-title"><b>{{page.impacts.third.title}}</b></p>
                   <div class="impact-number">
-                    {{page.impacts.pumped.value}}
+                    {{page.impacts.third.value}}
                   </div>
-                  <p class="text-center">{{page.impacts.pumped.help_message}}</p>
+                  <p class="text-center">{{page.impacts.third.help_message}}</p>
                 </div>
                 <div class="col col-md-3 impact">
-                  <p class="card-title"><b>{{page.impacts.cut_down.title}}</b></p>
+                  <p class="card-title"><b>{{page.impacts.fourth.title}}</b></p>
                   <div class="impact-number">
-                    {{page.impacts.cut_down.value}}
+                    {{page.impacts.fourth.value}}
                   </div>
-                  <p class="text-center">{{page.impacts.cut_down.help_message}}</p>
+                  <p class="text-center">{{page.impacts.fourth.help_message}}</p>
                 </div>
               </div>
               <div class="row justify-content-center cta">
@@ -589,23 +590,30 @@ layout: base
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 col-md-6 ambassadors-container">
-        <img class="ambassadors-background" src="{{ page.ambassadors.image_url }}" />
-        <div class="ambassadors-content">
-          <div class="card-title"><mark class='yellow'>Our Ambassador: {{ page.ambassadors.name }}</mark></div>
-          <button class="btn btn-solarchapter" data-toggle="modal" data-target="#ambassadors-video">Watch Her video</button>
+        <img class="ambassadors-left-background" src="{{ page.ambassadors.left.image_url }}" />
+        <div class="ambassadors-content ambassadors-content-left">
+          <div class="lead-quote">
+            <b>{{ page.ambassadors.left.quote }}</b>
+            <p>– {{ page.ambassadors.left.name }}</p>
+          </div>
+          <button class="btn btn-solarchapter" data-toggle="modal" data-target="#ambassadors-left-video">Watch Her video</button>
         </div>
       </div>
-      <div class="col-xs-12 col-md-6 contact-container">
-        <div class="contact-content">
-          <div class='daun'></div>
-          <div class="card-title">Contact us at: <a target="_blank" href="mailto:{{page.contact.email}}">{{ page.contact.email }}</a></div>
+      <div class="col-xs-12 col-md-6 ambassadors-right-container">
+        <img class="ambassadors-right-background" src="{{ page.ambassadors.right.image_url }}" />
+        <div class="ambassadors-content ambassadors-content-right">
+          <div class="lead-quote">
+            <b>{{ page.ambassadors.right.quote }}</b>
+            <p>– {{ page.ambassadors.right.name }}</p>
+          </div>
+          <button class="btn btn-solarchapter" data-toggle="modal" data-target="#ambassadors-right-video">Watch Her video</button>
         </div>
       </div>
     </div>
   </div>
 </div>
 <!-- MODAL: AMBASSADORS VIDEO -->
-<div class="modal fade" id="ambassadors-video" tabindex="-1" role="dialog" aria-labelledby="ambassadors-video"
+<div class="modal fade" id="ambassadors-left-video" tabindex="-1" role="dialog" aria-labelledby="ambassadors-left-video"
   aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
@@ -616,7 +624,24 @@ layout: base
       </div>
       <div class="modal-body">
         <div class="embed-responsive embed-responsive-16by9">
-          {{ page.ambassadors.youtube_share_code }}
+          {{ page.ambassadors.left.youtube_share_code }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="ambassadors-right-video" tabindex="-1" role="dialog" aria-labelledby="ambassadors-right-video"
+  aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="embed-responsive embed-responsive-16by9">
+          {{ page.ambassadors.right.youtube_share_code }}
         </div>
       </div>
     </div>
