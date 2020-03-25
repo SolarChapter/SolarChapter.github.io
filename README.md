@@ -20,18 +20,21 @@
         - `title`: Page's title
         - `custom_css`: List of CSS files for the page
         - `custom_js`: List of JS files for the page
+    - Value can be in `html` format too for complex styling if needed.
 
 ### Adding a new project page?
-1. Check the [first project page](content/projects/chapter-one-umutnana.md) and use it as an example
+1. Check the [first project page](content/projects/chapter-one-umutnana.md) and use it as an example.
 
 ### Editing map in the projects page?
 1. Open [projects.js](assets/js/projects.js#L1) file
 2. Update `chaptersData` variable. It's pretty self-explanatory. It contains list of "Province", "Kabupaten" and villages where Solar Chapter's projects are
 
 ### <a id="where-to-store-image-resources"></a>Where to store image resources?
-If possible, always serve files through Content Delivery Network (CDN) because repository is not designed to control revision of images. Other than that, storing images in the CDN will make them be highly available and accessed quicker.
-- Upload media files (pictures/videos) at Solar Chapter's Google Photos account. Contact Solar Chapter for account access.
-- Use the URL from the hosted files
+If possible, always serve files through Google Photos because repository is not designed to control revision of images. Other than that, storing images in the CDN will make them be highly available and accessed quicker.
+1. Google Photos for images
+- Upload media files (pictures/videos) at Solar Chapter's Google Photos account at the "SolarChapter.com Website" album. Contact Solar Chapter for account access.
+- View the image and right-click the image and select "Copy image address". The image address should be hosted at `lh3.googleusercontent.com`.
+2. Cloudinary for video. Contact Solar Chapter for account access 
 
 ## Technologies
 - Jekyll: Static site generator.

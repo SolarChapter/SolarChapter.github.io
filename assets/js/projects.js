@@ -92,7 +92,7 @@ $(document).ready(function() {
         }
         infoHtml.append(villageHtml);
       }
-      console.log(infoHtml[0].outerHTML);
+
       return infoHtml[0].outerHTML;
     }
   })
