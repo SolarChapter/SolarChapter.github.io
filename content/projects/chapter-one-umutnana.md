@@ -19,8 +19,8 @@ sections:
         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-RNLg9QljP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <br/>
-      <p>
-        The limited access to clean water, for the people of Umutnana, made us aware of the substandard living conditions still experienced by many Indonesian citizens. It is a challenge to obtain clean water in Umutnana. More than 700 people in the Umutnana Village, East Nusa Tenggara, lack access to clean water. These villagers must walk two kilometers from their homes in order to obtain water. Each day they need to make three trips, which is about four hours of their time. Time that could be spent doing something productive or their own lives. This problem gave rise to the birth of Solar Chapter
+      <p class="first-reading-paragraph">
+        The limited access to clean water, for the people of Umutnana, made us aware of the substandard living conditions still experienced by many Indonesian citizens. It is a challenge to obtain clean water in Umutnana. More than 700 people in the Umutnana Village, East_ Nusa Tenggara, lack access to clean water. These villagers must walk two kilometers from their homes in order to obtain water. Each day they need to make three trips, which is about four hours of their time. Time that could be spent doing something productive or their own lives. This problem gave rise to the birth of Solar Chapter
       </p>
       <div class="lead-quote">
         <b>"It was never enough water for their homes, and it left them little time to earn money, study, and achieve their dreams."</b>
@@ -28,7 +28,7 @@ sections:
   solution:
     tabName: "Solution"
     tabContent: |
-      <p>
+      <p class="first-reading-paragraph">
         Solar Chapter will collaborate with PAMSIMAS (A National Platform for Rural Water Supply and Sanitation) to provide easier access for clean water. Our plan is to build a reservoir to collect water from three water sources, which will then deliver the water to the distribution tank near the village by using solar pumps. From the distribution tank, the water will be distributed to 16 public faucets across the village.
       </p>
       <div class="img-container">
@@ -40,7 +40,9 @@ sections:
   implementation:
     tabName: "Implementation"
     tabContent: |
-      From January 9th to the 14th of 2018, Solar Chapter implemented its first chapter. With a plan and design in hand, we journeyed to the Umutnana Village. We were received positively by the villagers, as we came to fulfill a promise we made in August 2017, that we would ease their efforts in obtaining clean water. As we built our solar water pump, the villagers were eager to help, aiding us in digging a route for the pipes, and constructing the solar panels. Now the villagers of Umutnana do not have to walk two kilometers daily to obtain water. Instead, the water will be available at 16 different public faucets, available in less than ten meters from their homes
+      <p class="first-reading-paragraph">
+        From January 9th to the 14th of 2018, Solar Chapter implemented its first chapter. With a plan and design in hand, we journeyed to the Umutnana Village. We were received positively by the villagers, as we came to fulfill a promise we made in August 2017, that we would ease their efforts in obtaining clean water. As we built our solar water pump, the villagers were eager to help, aiding us in digging a route for the pipes, and constructing the solar panels. Now the villagers of Umutnana do not have to walk two kilometers daily to obtain water. Instead, the water will be available at 16 different public faucets, available in less than ten meters from their homes
+      </p>
 gallery:
   - https://lh3.googleusercontent.com/XCz10Narn7ZR4lPp4w7Fj8vzvVwNVomSwBA4eJaTbZ9ijlDXhXzPRJhXcKaGTSOvp5rvOQIdgKd92k54znoHt3ZmSxS7UqE-PIjpCAiJKI7Ni1q6e-q64QS8lFhkv_q4I5KfjcXE-EdM17tUTuJ8P1XxMHL1CzBAEUsNZGXExP08GtFYlURpwuOK564rFcCBhWS2xT3G9hwQJyWIJNZbzA2FBMmtOx-WNw5DnY8GGGJWiX2lIO88UXLB5mjsltCHpc_Ra1eB9IibWa1JqP-MYR6I8xjoupdfgGzfNI1k5ypwrm4nTYZVWyJYQyzx0FVLniB8sB814rXyEDVRLQySBcyAdUlRXqHefN8nMbniT6_hNxmJNTontbwNY_ochRmpoqFdgvKWLQLUCXE2hXMkoYbw0sW51JOYnt8kSRUehFoFwgp0vgl1Ipf-Z3xqlMcQuW5dlTLlkNLvUG0zr2xGIScSkMVjOs8U1oTMkQykzazpXXWvAxn8hd40H2fDXWcOTcziIPPmwo6msuASYnW7CGGsDK4dqwB0VpQ-I4URiCWsYoF9gncx45xeB98T2dqz6bU1-Epbqr59sjaBeElRftMc3NNLt_x2f9S5ntMqqLUHtkGp8AXMULjEnEGnsfESOwCFrixVf27w235EdyKbmdA0oDwZad7r0HXCzrFMMGyKWHPVaOUMzqCcAt94hhbS9nMU_lMPOuHD74qrfLWYKGxutWVJwvPKefstuXHyVU2_8C0TbtrhuQs=w1280-h720-no
   - https://lh3.googleusercontent.com/Wbjg7qCpZtgBp72ZpHqvTvPGLzOG0wbLhJj5bi_D6GEXHGSaNByzv4_-fsn2FXeY0PLvBqzwwl752_Vs0lMYmDU66SDL0irJtus21JITVYOGjQc0482N8V8Kw-B_8d66y8jj4RGilCKCBa8TfZ_nFX2_oVL-i0h2HKGcwTPyNw0uAsVKYwe5ufKjSAXtIljxTdWYieyvHpCtEM9wqCgbOmysG696wm46rzP3vvMYuh45dwWahWMsQy_99R-vAShIfGMNf8fYqXsdLN5HeVSivdgnQI2ZHowk18Bw5j29pRL16oE3hBGtE393Fx-Feo_Bo9fHhQ34nIf_iY5ynoYq7J-prv6Snx0SYsUEuNxFxBdYFSplOuzW83zkw30ssAFlA6F5rLpEI8mqsJH4mIOruu_5DEjTY5kFYuCG--WxHRIBy04hyzuA9rhneZknRVq9nEmiwrCpt14J0Kd9_TWa70S9YWJKbqNSIh0CdAri4vEPvZhSB_xH6yHjz0EtYDO-EW2W8WU6qpZuvImeKR5jl-N_vaeNPyCelPFkoxaB8Wk30P50xOtEu0QJXp_lKrWTvnwgyBu_eWbKA4LZkcnQqKgPnklnOH9QPzXlIRVWaVxeBwT1_Or6stbhWyGvZYL5DCTGsh7JZSc8Vzfsyr2i7zrUb8lKjfbHcWjQcHWBNne7PNwWS6O6EsEGlhVIN3_vOautFAvfs5MGExf6ONzBDk5NaLxYDlklsuCw1isCJn7Rc71t9H9gYfw=w1280-h720-no
