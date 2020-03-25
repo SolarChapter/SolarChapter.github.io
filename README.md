@@ -28,7 +28,7 @@
 1. Open [projects.js](assets/js/projects.js#L1) file
 2. Update `chaptersData` variable. It's pretty self-explanatory. It contains list of "Province", "Kabupaten" and villages where Solar Chapter's projects are
 
-### <a id="where-to-store-image-resources"></a>Where to store resources?
+### <a id="where-to-store-image-resources"></a>Where to store image resources?
 If possible, always serve files through Content Delivery Network (CDN) because repository is not designed to control revision of images. Other than that, storing images in the CDN will make them be highly available and accessed quicker.
 - Upload media files (pictures/videos) at Solar Chapter's Google Photos account. Contact Solar Chapter for account access.
 - Use the URL from the hosted files
