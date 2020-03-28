@@ -11,4 +11,10 @@ header_message: |
   All of your donation goes directly towards our projects to combat social inequalities.
 offline_donation: |
   Venmo to @solarchapter
+donorbox_link: |
+  https://donorbox.org/embed/solar-chapter
+kitabisa_link: |
+  https://www.kitabisa.com/WaterforNibaaf
+gofundme_link: |
+  https://www.gofundme.com/f/water-for-nibaaf
 ---
