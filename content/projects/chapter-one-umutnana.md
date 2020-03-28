@@ -50,7 +50,9 @@ sections:
         Eventually, we figured out that the school assigns the students daily chores to bring water to school using those buckets. The children of Umutnana village would start walking hours before dawn to the spring to collect water for their homes and also for their schools
       </p>
       <div class="lead-quote">
-        “Hearing this from anyone is hard. Despite no running water, every day the classrooms are full of kids in white and red uniforms, still eager to learn”.
+        <b>
+          “Hearing this from anyone is hard. Despite no running water, every day the classrooms are full of kids in white and red uniforms, still eager to learn”.
+        </b>
       </div>
   solution:
     tabName: "Solution"

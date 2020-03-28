@@ -107,4 +107,5 @@ ambassadors:
     youtube_share_code: <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/88Vk5QyZCnA?start=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 contact:
   email: Solar.Chapter.Official@gmail.com
+faq: "In developing countries, as much as 80% of illnesses are linked to poor water and sanitation conditions."
 ---
