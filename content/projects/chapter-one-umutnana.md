@@ -25,6 +25,33 @@ sections:
       <div class="lead-quote">
         <b>"It was never enough water for their homes, and it left them little time to earn money, study, and achieve their dreams."</b>
       </div>
+  story:
+    tabName: "Stories from the field"
+    tabContent: |
+      <div class="img-container">
+        <img src="https://lh3.googleusercontent.com/jcO-ECbroL5Ttyt59cSPnEupSyKdsO9iGzAIL7LUabj3fUm8sClhUI6pUqNERx0RUW8dchr_j_6mtDdubYmbPaGkNPQN11v4yCwIIurgr5s2x-Ke-Oto-WIoWant2XgRVsiSUAJ-zJvF7KqFVRj010QoDaaIpOp1jjAW3ahNKSp0wcLnJ8NXVKgh9rwd1UgDKJKY7s_17RC9vFg6JREfFKa3rJyFrPZDHTSx3eSwRIDckoMdw_0PIx8_XyZMEFVnkCBVG6_ZQoNuelUegh0qVGx6Bbr8w_H6MJ6HRO7t-98MxkB_3d3RJIkHxEh1o6lyWfz6dqizaxEIyNiac40tj9oUPS18SHOLxk5aR7VdAkkR1p8rot_eWeKclgBwefYDMxqIEJWIH9dljJyOOk4K6MSGgd0PaDLIdpO52tpy5MEzI0XorS8_yZjattl0tdagF9aHZ9LyWk2e-RWoxA6qSRCrISyVsscNdIaH8PrA4wRO9LuKG9hXbHftT0nloJ0DDdid0ghgwUiSnGy5gXc0-PQIg1VaYU2ukFNxabUJ3FZYR7mSZLe9mVwNQfCugPu6nVshSzTckmxqEaNZeaCcKTtsO-kTsc3hSPlaAjX7mNmUGK2oDk7KaL0VGbsfmK8N6CTAYehYs0iK5TSaQaxKrX-pycGj4gI-5dnTleM0G0MUg6OzZl4XZrmfKVyYQYI1GA8KFS3ttmVWB4Uhkya07LjPUwDgnuakyPN4ZOT7wxymFo4o3ed4eI8=w500-h375-no" class="img-fluid" />
+      </div>
+      <p>
+        By the time we arrived at an elementary school in Umutnana, a small crowd of students and teachers had already gathered to welcome us. We will never be able to forget the warm welcome and seeing those excited faces. One of the teachers, Mrs. Angela, led us to rows of chairs in the middle of the field. As we walked by, I saw plenty of empty buckets outside the classrooms. Curious, I asked Mrs. Angela what the buckets were there for.
+      </p>
+      <p>
+        “Those are from our students,” She answered.
+      </p>
+      <p>
+        Hold on, I thought, a little bit confused by her answer. “I thought the water for the school came from the water trucks that deliver the water every week”, I responded.
+      </p>
+      <p>
+        “That’s true”, she smiled. “However, the water from the trucks is very expensive and our school cannot afford to buy water for all of the students”.
+      </p>
+      <div class="img-container">
+        <img src="https://lh3.googleusercontent.com/4AOgRI05Hjn_Ix3QaU_YA5gjLYPIoprWGj6W7parAhSYUIVUzhkhVbl1zdvpkVJb8Y-etZGg2hiZ_HdHz3rs7YijBRLx_ZbBvKCMq_3lMEyyRDJgH0jOOXZt1oP6daK2IMX58oOGWC9Dm74CiBl6z03KbQr_EgZcbNPiSStUVt5Xg-tBYIur3biUFy9_RQhH0nY1uIe_5Pv2_-0k5t_7JlPOgn8P9d0Ror18i3DxVD0iEXnk5CeypMTH4xVxNFE0VWImSNgygFOzETFQQCcR4BrAo1P5s2QpuqafSOllGYBwOklWzjGyicrVeq5Ow03V1aRD1b2LNQoMTQoEYXF1MxdPH8RdH8m4pBbUGqOm261EpMVPJtFnmlhPmPCfmxwX-9jKykK9S0VUoRGyBJmgwg8u-kKZlaYSHD_rkuYRY4Oue4tTqS3pVyKwYL6pCrLQ1fuuAsfIUAbikYVVmEc77h4SDyaXkAw55Cf35vE8oiuvV_1JKOzc5wUEBpm0kxqxUpYmNuChM63X433iKLet3Jv4ibeSqix1MGTa5MLD4QvEXcbnl8M9C-NDLdM8F108dPsVEzBce175TMlEE7YqidtZdGeADdEg-UHejkKHEpeFLUs9fNN4PJ6WtDlnzXnLfW8wdfk3kyes4Bz8EmEq6o01ZMHUTxoZ5P6Le4LNFDsVJdfwVZd4lXeSnkx5DDiQVHuWHxKziDuExtjNNZDf3WVv62WdJlW-iAlG3isuqR4JJX_oG9-nicM=w500-h333-no" class="img-fluid" />
+      </div>
+      <p>
+        Eventually, we figured out that the school assigns the students daily chores to bring water to school using those buckets. The children of Umutnana village would start walking hours before dawn to the spring to collect water for their homes and also for their schools
+      </p>
+      <div class="lead-quote">
+        “Hearing this from anyone is hard. Despite no running water, every day the classrooms are full of kids in white and red uniforms, still eager to learn”.
+      </div>
   solution:
     tabName: "Solution"
     tabContent: |
