@@ -1,6 +1,5 @@
-const booksTabContainerPaddingTop = parseInt($(".books-tab-container").css("padding-top"));
 const tabContentPaddingTop = parseInt($(".tab-content").css("padding-top"));
-
+const projectTabHeight = $("#project-tab").height();
 
 $("a[data-toggle='tab']").on('shown.bs.tab', function (e) {
   const iframe = $(e.relatedTarget.hash).find("iframe");
@@ -10,6 +9,6 @@ $("a[data-toggle='tab']").on('shown.bs.tab', function (e) {
 
   // Scroll tab content to top
   $(window).scrollTop(
-    $(".tab-content").offset().top - tabContentPaddingTop - booksTabContainerPaddingTop
+    $(".tab-content").offset().top - projectTabHeight - tabContentPaddingTop
   );
 });
