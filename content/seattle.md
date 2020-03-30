@@ -6,7 +6,7 @@ custom_css:
   - '/assets/css/seattle.css'
 # Content
 background_image: |
-  /assets/media/seattle/FALL_19_TEAM_PHOTO/seattle_team.png
+  /assets/media/seattle/FALL_19_TEAM_PHOTO/seattle_team.jpg
 
 president_image: |
   /assets/media/seattle/FALL_19_TEAM_PHOTO/Shawny Yuristian.png
@@ -16,7 +16,7 @@ vp_image: |
   /assets/media/seattle/FALL_19_TEAM_PHOTO/Amanda Tedjawinata.png
 vp_name: |
   Amanda Tedjawinata
-  
+
 treasurer_image: |
   /assets/media/seattle/FALL_19_TEAM_PHOTO/Celine Sutedja.png
 treasurer_name: |
