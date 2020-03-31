@@ -6,7 +6,7 @@ custom_css:
   - '/assets/css/seattle.css'
 # Content
 background_image: |
-  /assets/media/seattle/FALL_19_TEAM_PHOTO/seattle_team.jpg
+  https://res.cloudinary.com/db1a3rvdf/image/upload/v1585683322/Solar%20Chapter%20Website/teams_page/seattle/FALL_19_TEAM_PHOTO/seattle_team_q9wlia.jpg
 
 officers:
   - image_url: /assets/media/seattle/FALL_19_TEAM_PHOTO/Shawny Yuristian.png

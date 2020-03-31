@@ -2,6 +2,10 @@ body, html {
   height: 100%;
 }
 
+.content {
+  width: 100%;
+}
+
 .section-content.bg {
   padding: 25px;
   background-color: rgba(232, 200, 17, 1);
@@ -72,6 +76,7 @@ body, html {
 .card-body {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
+  height: auto;
 }
 
 .card-title {

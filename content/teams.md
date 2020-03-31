@@ -6,17 +6,17 @@ custom_css:
   - '/assets/css/teams.css'
 # Content
 background_image: |
-  /assets/media/world_map.png
+  https://res.cloudinary.com/db1a3rvdf/image/upload/v1585684149/Solar%20Chapter%20Website/teams_page/world_map_q6cryh.png
 uiuc_image: |
-  /assets/media/uiuc/almamater.png
+  https://res.cloudinary.com/db1a3rvdf/image/upload/v1585684105/Solar%20Chapter%20Website/teams_page/uiuc/almamater_hfef8c.png
 michigan_image: |
-  /assets/media/michigan/michiganlaw.png
+  https://res.cloudinary.com/db1a3rvdf/image/upload/v1585684044/Solar%20Chapter%20Website/teams_page/michigan/michiganlaw_yvhmut.png
 purdue_image: |
-  /assets/media/purdue/purduebanner.png
+  https://res.cloudinary.com/db1a3rvdf/image/upload/v1585684005/Solar%20Chapter%20Website/teams_page/purdue/purduebanner_ml22yn.png
 melbourne_image: |
-  /assets/media/melbourne/melbourne.jpg
+  https://res.cloudinary.com/db1a3rvdf/image/upload/v1585683819/Solar%20Chapter%20Website/teams_page/melbourne/melbourne_u0iujm.jpg
 seattle_image: |
-  /assets/media/seattle/seattle.jpg
+  https://res.cloudinary.com/db1a3rvdf/image/upload/v1585683326/Solar%20Chapter%20Website/teams_page/seattle/seattle_ytoyct.jpg
 uiuc_quote: |
   Some people are born into families where they have to walk for hours just to get water, all we have to do is turn on the faucet. Founded in 2017, we are Solar Chapter: a non-profit
   organization consisting of students and alumni from the University of Illinois at Urbana-Champaign.
