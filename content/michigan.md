@@ -8,49 +8,39 @@ custom_css:
 background_image: |
   /assets/media/michigan/FALL_19_TEAM_PHOTO/michigan_team_1.jpg
 
-president_image: |
-  /assets/media/michigan/FALL_19_TEAM_PHOTO/Winny Soerianto.jpg
-president_name: |
-  Winny Soerianto
-vp_int_image: |
-  /assets/media/michigan/FALL_19_TEAM_PHOTO/Nikita Bella.jpg
-vp_int_name: |
-  Nikita Bella
-vp_ext_image: |
-  /assets/media/michigan/FALL_19_TEAM_PHOTO/Keshia Samantha Setiawan.jpg
-vp_ext_name: |
-  Keshia Setiawan
 
-secretary_image: |
-  /assets/media/michigan/FALL_19_TEAM_PHOTO/Steven Dirjayanto.jpg
-secretary_name: |
-  Steven Dirjayanto
-fin_image: |
-  /assets/media/michigan/FALL_19_TEAM_PHOTO/Reinhard Wilmer.jpg
-fin_name: |
-  Reinhard Wilmer
-fund_image: |
-  /assets/media/michigan/FALL_19_TEAM_PHOTO/Sean Vieri Anggani.jpg
-fund_name: |
-  Sean Vieri Anggani
-logistics_image: |
-  /assets/media/michigan/FALL_19_TEAM_PHOTO/Jerick Hartono.jpg
-logistics_name: |
-  Jerick Hartono
-pr_image: |
-  /assets/media/michigan/FALL_19_TEAM_PHOTO/Laurence Setiawan.jpg
-pr_name: |
-  Laurence Setiawan
-marketing_image: |
-  /assets/media/michigan/FALL_19_TEAM_PHOTO/Clarissa Halim.jpg
-marketing_name: |
-  Eugenia Clarissa Halim
-project_dev_image: |
-  /assets/media/michigan/FALL_19_TEAM_PHOTO/Karen Winoto.jpg
-project_dev_name: |
-  Karen Winoto
-outreach_image: |
-  /assets/media/michigan/FALL_19_TEAM_PHOTO/Juan Tampubolon.jpg
-outreach_name: |
-  Juan Tampubolon
+officers:
+  - image_url: /assets/media/michigan/FALL_19_TEAM_PHOTO/Winny Soerianto.jpg
+    name: Winny Soerianto
+    title: President
+  - image_url: /assets/media/michigan/FALL_19_TEAM_PHOTO/Keshia Samantha Setiawan.jpg
+    name: Keshia Setiawan
+    title: External Vice President
+  - image_url: /assets/media/michigan/FALL_19_TEAM_PHOTO/Nikita Bella.jpg
+    name: Nikita Bella
+    title: Internal Vice President
+  - image_url: /assets/media/michigan/FALL_19_TEAM_PHOTO/Steven Dirjayanto.jpg
+    name: Steven Dirjayanto
+    title: Secretary
+  - image_url: /assets/media/michigan/FALL_19_TEAM_PHOTO/Reinhard Wilmer.jpg
+    name: Reinhard Wilmer
+    title: Finance Chair
+  - image_url: /assets/media/michigan/FALL_19_TEAM_PHOTO/Sean Vieri Anggani.jpg
+    name: Sean Vieri Anggani
+    title: Fundraising Chair
+  - image_url: /assets/media/michigan/FALL_19_TEAM_PHOTO/Laurence Setiawan.jpg
+    name: Laurence Setiawan
+    title: Public Relations Chair
+  - image_url: /assets/media/michigan/FALL_19_TEAM_PHOTO/Clarissa Halim.jpg
+    name: Eugenia Clarissa Halim
+    title: Marketing and Social Media Chair
+  - image_url: /assets/media/michigan/FALL_19_TEAM_PHOTO/Karen Winoto.jpg
+    name: Karen Winoto
+    title: Project Development Chair
+  - image_url: /assets/media/michigan/FALL_19_TEAM_PHOTO/Jerick Hartono.jpg
+    name: Jerick Hartono
+    title: Logistics Chair
+  - image_url: /assets/media/michigan/FALL_19_TEAM_PHOTO/Juan Tampubolon.jpg
+    name: Juan Tampubolon
+    title: Events and Outreach Chair
 ---

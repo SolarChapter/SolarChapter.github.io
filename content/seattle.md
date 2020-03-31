@@ -8,45 +8,35 @@ custom_css:
 background_image: |
   /assets/media/seattle/FALL_19_TEAM_PHOTO/seattle_team.jpg
 
-president_image: |
-  /assets/media/seattle/FALL_19_TEAM_PHOTO/Shawny Yuristian.png
-president_name: |
-  Shawny Yuristian
-vp_image: |
-  /assets/media/seattle/FALL_19_TEAM_PHOTO/Amanda Tedjawinata.png
-vp_name: |
-  Amanda Tedjawinata
-
-treasurer_image: |
-  /assets/media/seattle/FALL_19_TEAM_PHOTO/Celine Sutedja.png
-treasurer_name: |
-  Celine Sutedja
-proj_1_image: |
-  /assets/media/seattle/FALL_19_TEAM_PHOTO/Michael Orlando.png
-proj_1_name: |
-  Michael Orlando
-proj_2_image: |
-  /assets/media/seattle/FALL_19_TEAM_PHOTO/Stefan Layanto.png
-proj_2_name: |
-  Stefan Layanto
-sponsor_image: |
-  /assets/media/seattle/FALL_19_TEAM_PHOTO/Kathleen Santoso Suwito.png
-sponsor_name: |
-  Kathleen Santoso Suwito
-design_1_image: |
-  /assets/media/seattle/FALL_19_TEAM_PHOTO/Jiyenita Anastasia Angeline.png
-design_1_name: |
-  Jiyenita Anastasia Angeline
-design_2_image: |
-  /assets/media/seattle/FALL_19_TEAM_PHOTO/Alexander Mario.png
-design_2_name: |
-  Alexander Mario
-marketing_image: |
-  /assets/media/seattle/FALL_19_TEAM_PHOTO/Olivia Budiono.png
-marketing_name: |
-  Olivia Budiono
-fund_image: |
-  /assets/media/seattle/FALL_19_TEAM_PHOTO/Vina Magdalena.png
-fund_name: |
-  Vina Magdalena
+officers:
+  - image_url: /assets/media/seattle/FALL_19_TEAM_PHOTO/Shawny Yuristian.png
+    name: Shawny Yuristian
+    title: President
+  - image_url: /assets/media/seattle/FALL_19_TEAM_PHOTO/Amanda Tedjawinata.png
+    name: Amanda Tedjawinata
+    title: Vice President
+  - image_url: /assets/media/seattle/FALL_19_TEAM_PHOTO/Celine Sutedja.png
+    name: Celine Sutedja
+    title: Treasurer
+  - image_url: /assets/media/seattle/FALL_19_TEAM_PHOTO/Michael Orlando.png
+    name: Michael Orlando
+    title: Project Manager
+  - image_url: /assets/media/seattle/FALL_19_TEAM_PHOTO/Stefan Layanto.png
+    name: Stefan Layanto
+    title: Project Manager
+  - image_url: /assets/media/seattle/FALL_19_TEAM_PHOTO/Kathleen Santoso Suwito.png
+    name: Kathleen Santoso Suwito
+    title: Sponsorship
+  - image_url: /assets/media/seattle/FALL_19_TEAM_PHOTO/Jiyenita Anastasia Angeline.png
+    name: Jiyenita Anastasia Angeline
+    title: Design
+  - image_url: /assets/media/seattle/FALL_19_TEAM_PHOTO/Alexander Mario.png
+    name: Alexander Mario
+    title: Design
+  - image_url: /assets/media/seattle/FALL_19_TEAM_PHOTO/Olivia Budiono.png
+    name: Olivia Budiono
+    title: Marketing
+  - image_url: /assets/media/seattle/FALL_19_TEAM_PHOTO/Vina Magdalena.png
+    name: Vina Magdalena
+    title: Fundraising
 ---

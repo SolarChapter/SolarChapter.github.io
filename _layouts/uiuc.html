@@ -11,7 +11,7 @@ layout: base
   </div>
 </div>
 <div class="container">
-  <div class="row align-items-center" style="min-height: 300px;">
+  <div class="row align-items-center" style="min-height: 100px;">
     <div class="title">
       <img src='/assets/media/daun.png' />
     </div>
@@ -20,213 +20,16 @@ layout: base
 <div class="container">
   <div class="row">
 
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.president_image }}" class="img-responsive alt="...">
-        <h4>{{page.president_name}}</h4>
-        <p>President</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.vp_strat_image }}" class="img-responsive alt="...">
-        <h4>{{page.vp_strat_name}}</h4>
-        <p>Vice President of Strategy & Planning</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.vp_op_image }}" class="img-responsive alt="...">
-        <h4>{{page.vp_op_name}}</h4>
-        <p>Vice President of Operations</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.president_image }}" class="img-responsive alt="...">
-        <h4>{{page.sa_head_name}}</h4>
-        <p>Head of Social Affairs</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.secretary_image }}" class="img-responsive alt="...">
-        <h4>{{page.secretary_name}}</h4>
-        <p>Secretary</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.treasurer_image }}" class="img-responsive alt="...">
-        <h4>{{page.treasurer_name}}</h4>
-        <p>Treasurer</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.web_team_1_image }}" class="img-responsive alt="...">
-        <h4>{{page.web_team_1_name}}</h4>
-        <p>Web Development</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.web_team_2_image }}" class="img-responsive alt="...">
-        <h4>{{page.web_team_2_name}}</h4>
-        <p>Web Development</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.pr_head_image }}" class="img-responsive alt="...">
-        <h4>{{page.pr_head_name}}</h4>
-        <p>Head of Public Relations</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.pr_team_1_image }}" class="img-responsive alt="...">
-        <h4>{{page.pr_team_1_name}}</h4>
-        <p>Public Relations</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.pr_team_2_image }}" class="img-responsive alt="...">
-        <h4>{{page.pr_team_2_name}}</h4>
-        <p>Public Relations</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.fin_head_image }}" class="img-responsive alt="...">
-        <h4>{{page.fin_head_name}}</h4>
-        <p>Head of Finance and Fundraising</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.fin_team_1_image }}" class="img-responsive alt="...">
-        <h4>{{page.fin_team_1_name}}</h4>
-        <p>Finance and Fundraising</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.fin_team_2_image }}" class="img-responsive alt="...">
-        <h4>{{page.fin_team_2_name}}</h4>
-        <p>Finance and Fundraising</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.fin_team_3_image }}" class="img-responsive alt="...">
-        <h4>{{page.fin_team_3_name}}</h4>
-        <p>Finance and Fundraising</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.tech_head_image }}" class="img-responsive alt="...">
-        <h4>{{page.tech_head_name}}</h4>
-        <p>Head of Technical Team</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.tech_team_1_image }}" class="img-responsive alt="...">
-        <h4>{{page.tech_team_1_name}}</h4>
-        <p>Technical Team</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.tech_team_2_image }}" class="img-responsive alt="...">
-        <h4>{{page.tech_team_2_name}}</h4>
-        <p>Technical Team</p>
-      </div>
-    </div>
+    {% for officer in page.officers %}
+        <div class="col-md-3">
+            <div class="our-team-box">
+                <img src="{{ officer.image_url }}" class="img-responsive alt="...">
+                <h4>{{ officer.name }}</h4>
+                <p>{{ officer.title }}</p>
+            </div>
+        </div>
+    {% endfor %}
 
   </div>
 </div>
 <div class="spacing"></div>
-
-<!--
-<div class="row align-items-center" style="min-height: 300px;">
-  <div class="row row-cols-1 row-cols-md-3">
-    <div class="col mb-4">
-      <div class="card h-100">
-        <img src="{{ page.president_image }}" class="card-img-top" class="img-responsive alt="...">
-        <div class="card-body">
-          <h5 class="card-title">
-              <small class="text-muted">President</small>
-          </h5>
-          <p class="card-text">Peter</p>
-        </div>
-      </div>
-    </div>
-    <div class="col mb-4">
-      <div class="card h-100">
-        <img src="..." class="card-img-top" class="img-responsive alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">This is a short card.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col mb-4">
-      <div class="card h-100">
-        <img src="..." class="card-img-top" class="img-responsive alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col mb-4">
-      <div class="card h-100">
-        <img src="..." class="card-img-top" class="img-responsive alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col mb-4">
-      <div class="card h-100">
-        <img src="..." class="card-img-top" class="img-responsive alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col mb-4">
-      <div class="card h-100">
-        <img src="..." class="card-img-top" class="img-responsive alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
--->

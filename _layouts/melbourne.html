@@ -11,7 +11,7 @@ layout: base
   </div>
 </div>
 <div class="container">
-  <div class="row align-items-center" style="min-height: 300px;">
+  <div class="row align-items-center" style="min-height: 100px;">
     <div class="title">
       <img src='/assets/media/daun.png' />
     </div>
@@ -20,53 +20,15 @@ layout: base
 <div class="container">
   <div class="row">
 
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.president_image }}" class="img-responsive alt="...">
-        <h4>{{page.president_name}}</h4>
-        <p>President</p>
+    {% for officer in page.officers %}
+      <div class="col-md-3">
+          <div class="our-team-box">
+              <img src="{{ officer.image_url }}" class="img-responsive alt="...">
+              <h4>{{ officer.name }}</h4>
+              <p>{{ officer.title }}</p>
+          </div>
       </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.secretary_image }}" class="img-responsive alt="...">
-        <h4>{{page.secretary_name}}</h4>
-        <p>Secretary</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.treasurer_image }}" class="img-responsive alt="...">
-        <h4>{{page.treasurer_name}}</h4>
-        <p>Treasurer</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.sos_med_image }}" class="img-responsive alt="...">
-        <h4>{{page.sos_med_name}}</h4>
-        <p>Social Media</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.graphics_1_image }}" class="img-responsive alt="...">
-        <h4>{{page.graphics_1_name}}</h4>
-        <p>Graphic Designer</p>
-      </div>
-    </div>
-
-    <div class="col-md-3">
-      <div class="our-team-box">
-        <img src="{{ page.graphics_2_image }}" class="img-responsive alt="...">
-        <h4>{{page.graphics_2_name}}</h4>
-        <p>Graphic Designer</p>
-      </div>
-    </div>
+    {% endfor %}
 
   </div>
 </div>
