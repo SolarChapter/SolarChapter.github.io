@@ -16,6 +16,7 @@ body, html {
 
   /* Full height */
   height: 100%;
+  width: auto;
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -61,10 +62,6 @@ body, html {
     margin: 10px auto;
   }
 
-  .title-img {
-    max-width:60%;
-    max-height: 60%;
-  }
 }
 
 .our-team-box img{
