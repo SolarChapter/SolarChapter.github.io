@@ -32,10 +32,18 @@ chapterOneGallery:
 chapterTwoTitle: |
   Education
 chapterTwoMessage: |
-  The Solar Chapter Michigan team will work on creating a more conducive learning environment for the children of Desa Umutnana and Desa As Manulea in SDN As Manulea.
-  Our main goal is to improve the library to get kids more excited about being in school and also giving them access to learning materials out of class.
-  We believe that early childhood literacy is important because the earlier a person has access to information, the more efficient that access will be.
-  This is why, we hope that this library will be a vital tool in improving the literacy skills of the future generation.
+  Solar Chapter decided to make Education as its second chapter after seeing the students of
+  SDN As Manulea during their first implementation visit for Chapter 1: Water in Desa Umutnana,
+  a neighboring village to Desa As Manulea. SDN As Manulea, at the time of visit, did not have
+  running water in the school and students had to spend approximately 2 hours to retrieve water
+  before school and during school. Additionally, the ceilings were run down, the library was left
+  unused and many doors and locks were broken. Solar Chapter saw the potential to add piping to
+  SDN As Manulea from Chapter 1’s water reservoir as well as doing a construction project to
+  renovate the school. Concurrently, Solar Chapter is starting a new branch in the University of
+  Michigan. This situation was seen as an opportunity to get the new branch on board with a project
+  together with Solar Chapter at the University of Illinois, Urbana-Champaign. Therefore, it was
+  decided that the new University of Michigan branch will be working with the founding branch to
+  help with the construction project of Chapter 2: Education.
 chapterTwoGallery:
   - https://lh3.googleusercontent.com/uqIv1PxR4fPPJpICogT8-obg3OttYug51Uynq-FpZIAWmZT93n-Id5G4H9qbmYJApfeRrPwT-zGKbylj3rpM8ecsvVvbSismc95QN9IfRKFslxaXnxsghuyHIFP2APx7zU68AgH53s2WGMlF923HZ_K_Fk0DN0U1Qmc9t5bRy6GwisJ6ECb5qumxSh-X8y0Ru30gZRu2ZSPVhP1G8uvvuRBdzkDsKZPoiaKcD39iwbxJcOe0elYtmLs8MZrXZMcC6up7jNltaq_Rs3LhRBekH6d_btqGR1kdE6ZOCSkP1sGZ0v4YT37LxuwSoOZl_aTxkAO4rr3eY1bBbX-Zlca9PwhiF2rEIYNzwYRZ6p0uYRznu-ef0afdtmE8He4b9mi2cpBXXAwYt6sNZ40uz_CX4OTSD-xET4bf5dp1CAzHyxHS5ept5jRWIU6OXo91jhXemB2UqG1iK71QUsgAP991zs_bFiFNjuY4CUJqDh5ygQI0tknEJu4hTD1QXUmubySN1SVnbnBlmbi4o3ghz9k5qClLinQPy6hdsWm8bEo12OZoTEzYI4xPU79ZEHRKr88e3mtZ4QWu5Hw9yxfKeSCg8r1mfslhMXv_BSMhQP8Me1qGX0HeNj6ZURcea_AIvd1D3Vaipq5yIfvQZaXddDpNCB8_AxbBmirh48KL4ui81JSxaOE_esK-r2m1bs_odIFLUN7XWWwP95RGe4al-DKj0686Mo1XWbLpOsNUxKHWifOBqAE-1wdlplU=w1075-h717-no
   - https://lh3.googleusercontent.com/S3gmy5t_Z0eihMPMh5JEDfGg8sgc5NlmjiUorbsQ_FIxyUZH472sBJwnHX6bfus8cQy0CETjWy121dLN5-5zxO69sCAzsjvwkQriOK9HrGZclfB4NLk8xpcTPbzGEP3D8RXe-WPSqLbqsZ9YtFsUt0mFV-8Qj9YEZa25vKtHIpcu3VWOlxmek8yy2F-2-dFTZOKSmx2O8tXXyP5YcTaT7YLFcOk0Yvx1J29u1sqDYau_AoMc-oHnncgN8FDmQ_2FCewmPLFq4Hk-3HAwcRhfmQ855yZtYuXtFnkl4PG73SCDB1KxFboZtLJ1f5cXjdtEePUway9x45zEjeUteEzxJuRQ_qk6Wxz1RbfbNMHCftOgPlXzUydWMQN1yxj42fssgw59kmRmHAs6gSxifLx7UQtzneXRCKgSyXUBhJ4FNLwZjee9KhnxRoLkBG9raKoRF7IgfJg53plgK2VxrlaKnTC-HkNtvVPHPjcfbUINAF0sO5aET9LQwnn8EkPz0kRT9j9hhxoQxNv4cA-jl5vl4qT6Tnp7Z3WoSW7Cw291bmAGLVLfyHJs5VGx45awmhWrYz1JsOPnR08hOH6d1KI7UG0oyFA0YxC4RT4C8rUfu7QxJ183qeJbkag803VAQLE2G9WjDq-2xwx2gTLZuNJH5R-IyEOW4FJ67Re3aOtGrTamLTGWAz_F4bZmcoWt3qyJUCaG4KO7gAcUB6JcSQIgU4_lRgysZFtZplEazpzNYg-KjF3cRH52bmU=w1075-h717-no
