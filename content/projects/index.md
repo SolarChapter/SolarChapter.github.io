@@ -12,23 +12,6 @@ custom_js:
   - 'https://cdnjs.cloudflare.com/ajax/libs/datamaps/0.5.9/datamaps.idn.min.js'
   - '/assets/js/projects.js'
 # Content
-stats:
-  first:
-    title: "Has Raised"
-    value: "Rp. 320,000,000"
-    help_message:
-  second:
-    title: "Supported by"
-    value: "7 companies"
-    help_message:
-  third:
-    title: 'Created'
-    value: "5 branches"
-    help_message:
-  fourth:
-    title: 'Has Involved'
-    value: "50 students"
-    help_message: "from universities across the world"
 statsImageGallery:
   - https://lh3.googleusercontent.com/NxrpsmbZswO-YXbCWEpznCjR2dDorwREP_LdqBqvdbGgeYXDJClDvh15Skm3ykcz3jp6iK4r1mzHGlKfTJ14mTymlKK-rEH3NdUHwxf9L49k7i8Rw14YgdjmEIggoG4av7gtZ-fgDLDXOVeyr2yq_es06j8rv37fVr5LAbMskyHFc6IHTr-xYVa_WujS5ewX0ratgGJ8QKeI1BVtFSYZJc8iBH2NIO9TqHeCX2qZJO6glXIdFP1KIZ_V0g-sIC6YxNGvU1yx5vheAqpIscVLfni8RURX8oMXSTeQiqtAizcwJxbE3jedrPsFKpJyPv5uqJxEiN5K5DZBn8pK-vfz1bv9ivKKEHrafTVx5CTcCjYyHI6SRb5Z8Mj2vT1XhW51c9E6sNIb0CzdYpPlIVCf6U5Gah8IDZv14Ol8LuukoXXrpEQcf0D2tSfsf2VdyU1uvLwX6IdmVtLy53KommmJO_MhSLA4EYlcV2ew6DmCuRBtKvlAGWoNIT2085LxUoMGCwJ61uVwLjcUMKqrFKEuBFEO-pMECrKAzIerTJPqz5ydo6I7dbSzAOCV66CuE0rqh0oE8vJJwQvFpgQrEn491gEvQ5SL6etDgBLpvT5MTObipkN3MHIHjZp4kGRPCUVX7KSLaQ3v3k7WLjVASy3b1QSU1TDZHMladwJvOYSEVQmL9b0c5w-RXPhPY7_7k5VK6hUJws3OVHujSQ9fs6SL-4xScOH08xvTurdRdFQirqqk8u5SwkqCAP8=w1379-h920-no
   - https://lh3.googleusercontent.com/YOjTx7CDgQGDuedep-UZgGbqxTZvEBZShhdbSRqISLoy7eP3DVuS3Z6hkKWpF8veGkIQr17MO4SkKkUAWTemUiFtJAJ5IUmHlHjeli-FYUhsxYEUvTJH-FATluGosUqWl6HkpeR88kOvQfUKTJBrM9rK1tu76qLi39Im-XWEBSV17zwJwoyeBdAqNMaBdS6SehBhJ4YU8lBx6-Rbq1IlJkOQDSnl3fr16KzxWfz24ul66Wu6nRwz2qeB981EHvtYzgiwwdZ7Dpi0jTLxrxDXvy943ejPl8h9VPp-SKzMfWLVySzG1Xm4jYJMjgT7X7SS1S0l4eEGCx4G0Lxkbs6D1N7YvBp1pPb8KbFni2v1NSlZgyI0elQ1S5gJpgmj3GJoFF3l88fJOJblS1v0mgKUtTq_xIi4KMVcClSSQtpRMf5QvW6dxxtIWrzOXF4W_e3BOgQ_aFudtlNQMLxoQ79Tywza6jF-nJoqWQBK33QsIxq8HGhT_IY1zzwtcR1jxxFiBIjg7WBF7Eb202C1Z9KhjT7GloBmA4g2SYU_jLIdNBuzlNraWOu8_THW6G0-n3TmZZC8JKFlzrNYtuvFS9g9ncqoWQ-K66k4-PMY_8c-gC938GQ6quDacV1QL9YTupL1R5Vagaia9w-N0d7PDXHbbiKF_OpjhrWIhiCPkm9_cQcfGtGyX3RGWLbazSJRi5UMUWpfh0mpTzfis7zMRzusg6GErU6Ti1VjGHETy71ibG7fggrDD4I9jU8=w1380-h920-no
@@ -42,8 +25,8 @@ projects:
   - ntt:
     provinceName: 'East Nusa Tenggara'
     regencies:
-      - malaka:
-        regencyName: 'Malaka'
+      - central_sumba:
+        regencyName: "Central Sumba"
         places:
           - anapalu:
             placeName: 'Anapalu'
@@ -51,7 +34,10 @@ projects:
               - chapterOne:
                 chapterTitle: 'Chapter One: Water for Anapalu'
                 chapterLink: '/projects/chapter-one-water-for-anapalu'
-                chapterStatus: 'completed'
+                chapterStatus: 'in-progress'
+      - malaka:
+        regencyName: 'Malaka'
+        places:
           - asmanulea:
             placeName: 'As Manulea'
             chapters:
@@ -59,20 +45,13 @@ projects:
                 chapterTitle: 'Chapter Two: Education for As Manulea'
                 chapterLink: '/projects/chapter-two-education-for-as-manulea'
                 chapterStatus: 'completed'
-          - biau:
-            placeName: 'Biau'
-            chapters:
-              - chapterOne:
-                chapterTitle: 'Chapter One: Water for Biau'
-                chapterLink: '/projects/chapter-one-water-for-biau'
-                chapterStatus: 'completed'
           - Nibaaf:
             placeName: 'Nibaaf'
             chapters:
               - chapterOne:
                 chapterTitle: 'Chapter One: Water for Nibaaf'
                 chapterLink: '/projects/chapter-one-water-for-nibaaf'
-                chapterStatus: 'completed'
+                chapterStatus: 'in-progress'
           - umutnana:
             placeName: 'Umutnana'
             chapters:
@@ -80,4 +59,14 @@ projects:
                 chapterTitle: 'Chapter One: Water for Umutnana'
                 chapterLink: '/projects/chapter-one-water-for-umutnana'
                 chapterStatus: 'completed'
+      - northTimurTengah:
+        regencyName: 'North Timur Tengah'
+        places:
+          - biau:
+            placeName: 'Biau'
+            chapters:
+              - chapterOne:
+                chapterTitle: 'Chapter One: Water for Biau'
+                chapterLink: '/projects/chapter-one-water-for-biau'
+                chapterStatus: 'in-progress'
 ---
