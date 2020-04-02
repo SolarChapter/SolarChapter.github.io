@@ -77,41 +77,43 @@ layout: base
   </div>
   <div class="row">
     <div class="col offset-md-1 col-md-10">
-      <table class="table table-bordered table-responsive">
-        <tbody>
-          {% for province in page.projects %}
-            <tr class="table-active">
-              <th>Province: {{ province.provinceName }}</th>
-            </tr>
-            {% for regency in province.regencies %}
+      <div class="table-responsive">
+        <table class="table table-bordered">
+          <tbody>
+            {% for province in page.projects %}
               <tr class="table-active">
-                <th class="regency">Regency: {{ regency.regencyName }}</th>
+                <th>Province: {{ province.provinceName }}</th>
               </tr>
-              {% for place in regency.places %}
+              {% for regency in province.regencies %}
                 <tr class="table-active">
-                  <th class="place">{{ place.placeName }}</th>
+                  <th class="regency">Regency: {{ regency.regencyName }}</th>
                 </tr>
-                {% for chapter in place.chapters %}
-                {% if chapter.chapterLink %}
-                  <tr class="clickable-row" data-href="{{ chapter.chapterLink }}">
-                {% else %}
-                  <tr>
-                {% endif %}
-                  <th class="chapter">{{ chapter.chapterTitle }}
-                    {% if chapter.chapterStatus == 'completed' %}
-                      <span class="badge badge-success">Completed</span>
-                    {% else if chapter.chapterStatus == 'in-progress' %}
-                      <span class="badge badge-primary">In Progress</span>
-                    {% else %}
-                    {% endif %}
-                  </th>
-                </tr>
+                {% for place in regency.places %}
+                  <tr class="table-active">
+                    <th class="place">{{ place.placeName }}</th>
+                  </tr>
+                  {% for chapter in place.chapters %}
+                  {% if chapter.chapterLink %}
+                    <tr class="clickable-row" data-href="{{ chapter.chapterLink }}">
+                  {% else %}
+                    <tr>
+                  {% endif %}
+                    <th class="chapter">{{ chapter.chapterTitle }}
+                      {% if chapter.chapterStatus == 'completed' %}
+                        <span class="badge badge-success">Completed</span>
+                      {% else if chapter.chapterStatus == 'in-progress' %}
+                        <span class="badge badge-primary">In Progress</span>
+                      {% else %}
+                      {% endif %}
+                    </th>
+                  </tr>
+                  {% endfor %}
                 {% endfor %}
               {% endfor %}
             {% endfor %}
-          {% endfor %}
-        </tbody>
-      </table>
+          </tbody>
+        </table>
+    </div>
     </div>
   </div>
 </div>

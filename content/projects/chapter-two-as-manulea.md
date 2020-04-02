@@ -23,55 +23,57 @@ sections:
         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Iq4lWUq2xlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <br/>
-      <table class="table table-sm table-bordered table-responsive">
-        <tbody>
-          <tr class="text-center">
-            <td colspan="2">
-              <strong>Project Information</strong>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">School Name&nbsp;</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">SDN As Manuela&nbsp;</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Location</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Malaka, East Nusa Tenggara&nbsp;</span>
-            </td>
+      <div class="table-responsive">
+        <table class="table table-sm table-bordered">
+          <tbody>
+            <tr class="text-center">
+              <td colspan="2">
+                <strong>Project Information</strong>
+              </td>
             </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Target&nbsp;</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">202 Students, 13 Teachers&nbsp;</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Total Funding&nbsp;</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp.154.000.000&nbsp;</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Implementation Date&nbsp;</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">4 - 8 August 2018&nbsp;</span>
-            </td>
-          </tr>
-        </tbody>
-      </table>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">School Name&nbsp;</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">SDN As Manuela&nbsp;</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Location</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Malaka, East Nusa Tenggara&nbsp;</span>
+              </td>
+              </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Target&nbsp;</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">202 Students, 13 Teachers&nbsp;</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Total Funding&nbsp;</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp.154.000.000&nbsp;</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Implementation Date&nbsp;</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">4 - 8 August 2018&nbsp;</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
       <p class="first-reading-paragraph">
         Solar Chapter decided to make Education as its second chapter after seeing the students of SDN As Manulea during their first implementation visit for Chapter 1: Water for Umutnana, a neighboring village to As Manulea village. SDN As Manulea, at the time of visit, did not have running water in the school. The successful creation of new water channels, during Solar Chapter’s first project, led our team to believe the greater good we can engender to other places outside of Umutnana. One of the team’s ideas focuses on how the abundance of water near Umutnana can be used to the village’s advantage. Our team saw that we could build more waterways to resolve the water crisis still experienced in the surrounding villages. Lack of clean water in school is detrimental to the health and hygiene of students in SDN As Manulea and students misuse 2 hours of their study time to fetch water instead of productive learning. Additionally, the poor condition of the school building and unused library needs to be fixed to minimize the risk of fallen debris or further damage
       </p>
@@ -90,316 +92,318 @@ sections:
   budget:
     tabName: "Budget"
     tabContent: |
-      <table class="table table-sm table-bordered table-responsive">
-        <tbody>
-          <tr>
-            <td>&nbsp;</td>
-            <td>
-              <span style="font-weight: 400;">Price</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Unit</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Unit Price</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Total Price</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <strong>SCHOOL REHABILITATION</strong>
-            </td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Library Materials</span>
-            </td>
-            <td>
+      <div class="table-responsive">
+        <table class="table table-sm table-bordered">
+          <tbody>
+            <tr>
+              <td>&nbsp;</td>
+              <td>
+                <span style="font-weight: 400;">Price</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Unit</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Unit Price</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Total Price</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <strong>SCHOOL REHABILITATION</strong>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Library Materials</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">1</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Project</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,500,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,500,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+              <span style="font-weight: 400;">Fix broken, run down ceilings</span>
+              </td>
+              <td>
               <span style="font-weight: 400;">1</span>
-            </td>
-            <td>
+              </td>
+              <td>
               <span style="font-weight: 400;">Project</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 5,500,000.00</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 5,500,000.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-            <span style="font-weight: 400;">Fix broken, run down ceilings</span>
-            </td>
-            <td>
-            <span style="font-weight: 400;">1</span>
-            </td>
-            <td>
-            <span style="font-weight: 400;">Project</span>
-            </td>
-            <td>
-            <span style="font-weight: 400;">Rp. 41,122,500.00</span>
-            </td>
-            <td>
-            <span style="font-weight: 400;">Rp. 41,122,500.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Plafond triplek 4mm</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">175</span>
-            </td>
-            <td>&nbsp;</td>
-            <td>
-              <span style="font-weight: 400;">Rp. 50,700.00</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 8,872,500.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Site Preparation</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">1</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Project</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 7,300,000.00</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 7,300,000.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <strong>SANITATION</strong>
-            </td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Materials</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">1</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Project</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 5,400,000.00</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 5,400,000.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Water Tank 3600 L Merk Profil</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">1</span>
-            </td>
-            <td>&nbsp;</td>
-            <td>
-              <span style="font-weight: 400;">Rp. 5,000,000.00</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 5,000,000.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Solar Lighting</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">2</span>
-            </td>
-            <td>&nbsp;</td>
-            <td>
-              <span style="font-weight: 400;">Rp. 300,000.00</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 600,000.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <strong>PIPING</strong>
-            </td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">HDPE Black D40mm</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">450</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">m</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 22,700.00</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 10,215,000.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <strong>RESEVOIR EXPANSION(12000L to 24000L)</strong>
-            </td>
-            <td>
-              <span style="font-weight: 400;">1</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Project</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 25,000,000.00</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 25,000,000.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <strong>SITE VISIT EXPENSE</strong>
-            </td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>
-            <span style="font-weight: 400;">Airplane Ticket</span>
-            </td>
-            <td>
-            <span style="font-weight: 400;">5</span>
-            </td>
-            <td>&nbsp;</td>
-            <td>
-            <span style="font-weight: 400;">Rp. 3,500,000.00</span>
-            </td>
-            <td>
-            <span style="font-weight: 400;">Rp. 17,500,000.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Ground Transport</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">4</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Days</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 500,000.00</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 2,000,000.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Accomodation</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">4</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Days</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 500,000.00</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 2,000,000.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <strong>ADDITIONAL COST</strong>
-            </td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Labor Cost</span>
-            </td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>
-              <span style="font-weight: 400;">Rp. 5,000,000.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">Shipping</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">1</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Project</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 5,000,000.00</span>
-            </td>
-            <td>
-              <span style="font-weight: 400;">Rp. 5,000,000.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">UNFORSEEN EXPENSE (10%)</span>
-            </td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>
-              <span style="font-weight: 400;">Rp. 14,051,000.00</span>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <span style="font-weight: 400;">GRAND TOTAL</span>
-            </td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>
-              <strong>Rp. 154,561,000.00</strong>
-            </td>
-          </tr>
-        </tbody>
-      </table>
+              </td>
+              <td>
+              <span style="font-weight: 400;">Rp. 41,122,500.00</span>
+              </td>
+              <td>
+              <span style="font-weight: 400;">Rp. 41,122,500.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Plafond triplek 4mm</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">175</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>
+                <span style="font-weight: 400;">Rp. 50,700.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 8,872,500.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Site Preparation</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">1</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Project</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 7,300,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 7,300,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <strong>SANITATION</strong>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Materials</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">1</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Project</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,400,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,400,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Water Tank 3600 L Merk Profil</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">1</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,000,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,000,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Solar Lighting</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">2</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>
+                <span style="font-weight: 400;">Rp. 300,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 600,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <strong>PIPING</strong>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">HDPE Black D40mm</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">450</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">m</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 22,700.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 10,215,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <strong>RESEVOIR EXPANSION(12000L to 24000L)</strong>
+              </td>
+              <td>
+                <span style="font-weight: 400;">1</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Project</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 25,000,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 25,000,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <strong>SITE VISIT EXPENSE</strong>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>
+              <span style="font-weight: 400;">Airplane Ticket</span>
+              </td>
+              <td>
+              <span style="font-weight: 400;">5</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>
+              <span style="font-weight: 400;">Rp. 3,500,000.00</span>
+              </td>
+              <td>
+              <span style="font-weight: 400;">Rp. 17,500,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Ground Transport</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">4</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Days</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 500,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 2,000,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Accomodation</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">4</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Days</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 500,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 2,000,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <strong>ADDITIONAL COST</strong>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Labor Cost</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,000,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Shipping</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">1</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Project</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,000,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,000,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">UNFORSEEN EXPENSE (10%)</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>
+                <span style="font-weight: 400;">Rp. 14,051,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">GRAND TOTAL</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>
+                <strong>Rp. 154,561,000.00</strong>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
   implementation:
     tabName: "Implementation"
     tabContent: |
