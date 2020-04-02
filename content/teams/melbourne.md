@@ -2,11 +2,13 @@
 permalink: /teams/melbourne/
 layout: team
 title: Melbourne Team
-location: Melbourne, AUS
+metadataImage: |
+  https://res.cloudinary.com/db1a3rvdf/image/upload/v1585683840/Solar%20Chapter%20Website/teams_page/melbourne/FALL_19_TEAM_PHOTO/melbourne_team_y0syzd.png
 custom_css:
   - '/assets/css/teams.css'
   - '/assets/css/team.css'
 # Content
+location: Melbourne, AUS
 background_image: |
   https://res.cloudinary.com/db1a3rvdf/image/upload/v1585683840/Solar%20Chapter%20Website/teams_page/melbourne/FALL_19_TEAM_PHOTO/melbourne_team_y0syzd.png
 

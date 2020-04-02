@@ -2,11 +2,13 @@
 permalink: /teams/michigan/
 layout: team
 title: Michigan Team
-location: Michigan, USA
+metadataImage: |
+  https://res.cloudinary.com/db1a3rvdf/image/upload/v1585683000/Solar%20Chapter%20Website/teams_page/michigan/FALL_19_TEAM_PHOTO/michigan_team_2_sqcc6t.jpg
 custom_css:
   - '/assets/css/teams.css'
   - '/assets/css/team.css'
 # Content
+location: Michigan, USA
 background_image: |
   https://res.cloudinary.com/db1a3rvdf/image/upload/v1585683000/Solar%20Chapter%20Website/teams_page/michigan/FALL_19_TEAM_PHOTO/michigan_team_2_sqcc6t.jpg
 

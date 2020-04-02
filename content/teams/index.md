@@ -1,7 +1,7 @@
 ---
 permalink: /teams/
 layout: teams
-title: Teams
+title: Solar Chapter - Teams
 custom_css:
   - '/assets/css/teams.css'
 # Content

@@ -3,6 +3,8 @@ permalink: /
 layout: index
 menu-color: 'dark'
 title: Solar Chapter
+description: "Solar Chapter"
+metadataImage: ''
 custom_css:
   - '/assets/css/index.css'
 custom_js: 

@@ -18,6 +18,8 @@
         - `layout`: Layout's file name. It lives under [_layouts](_layouts) directory
         - `menu-color`: Color of the menu. Either `dark` or `light`
         - `title`: Page's title
+        - `description`: Page's description. Used in the metadata for SEO purposes
+        - `metadataImage`: Image displayed when the page is being shared in social media.
         - `custom_css`: List of CSS files for the page
         - `custom_js`: List of JS files for the page
     - Value can be in `html` format too for complex styling if needed.

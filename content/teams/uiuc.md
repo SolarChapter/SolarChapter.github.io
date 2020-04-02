@@ -2,11 +2,13 @@
 permalink: /teams/uiuc/
 layout: team
 title: UIUC Team
-location: University of Illinois Urbana - Champaign, IL, USA
+metadataImage: |
+  https://res.cloudinary.com/db1a3rvdf/image/upload/v1585682673/Solar%20Chapter%20Website/teams_page/uiuc/FALL_19_TEAM_PHOTO/uiuc_team_ohwtk1.jpg
 custom_css:
   - '/assets/css/teams.css'
   - '/assets/css/team.css'
 # Content
+location: University of Illinois Urbana - Champaign, IL, USA
 background_image: |
   https://res.cloudinary.com/db1a3rvdf/image/upload/v1585682673/Solar%20Chapter%20Website/teams_page/uiuc/FALL_19_TEAM_PHOTO/uiuc_team_ohwtk1.jpg
 
