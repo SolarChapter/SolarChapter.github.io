@@ -1,33 +1,36 @@
 const data = [
   {
-    name: "Malaka",
+    name: "Central Sumba",
     radius: 20,
     fillKey: "in_progress",
-    latitude: -9.512735,
-    longitude: 124.905442,
+    latitude: -9.555181,
+    longitude: 119.649682,
     data: {
       "Anapalu": [
         {
           title: "Chapter One: Water for Anapalu",
-          status: "Completed"
+          status: "In-Progress"
         }
       ],
+    }
+  },
+  {
+    name: "Malaka",
+    radius: 40,
+    fillKey: "in_progress",
+    latitude: -9.512735,
+    longitude: 124.905442,
+    data: {
       "As Manulea": [
         {
           title: "Chapter Two: Education for As Manulea",
           status: "Completed"
         }
       ],
-      "Biau": [
-        {
-          title: "Chapter One: Water for Biau",
-          status: "Completed" 
-        }
-      ],
       "Nibaaf": [
         {
           title: "Chapter One: Water for Nibaaf",
-          status: "Completed"
+          status: "In-Progress"
         }
       ],
       "Umutnana": [
@@ -36,6 +39,21 @@ const data = [
           status: "Completed"
         }
       ]
+    }
+  },
+  {
+    name: "North Timur Tengah",
+    radius: 20,
+    fillKey: "in_progress",
+    latitude: -9.387957,
+    longitude: 124.561905,
+    data: {
+      "Biau": [
+        {
+          title: "Chapter One: Water for Biau",
+          status: "In-Progress"
+        }
+      ],
     }
   }
 ];

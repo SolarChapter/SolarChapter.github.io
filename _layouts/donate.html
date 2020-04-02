@@ -3,40 +3,47 @@ layout: base
 ---
 <div class="bg-image" style="background-image: url({{ page.background_image }});">
     <div class="container">
-        <div class="py-5"></div>
-
-        <div style="text-align: center">
+        <div class="row">
+            <div class="py-5"></div>
+            <div style="text-align: center">
+                <div class="py-3"></div>
+            </div>
+                <div class="col-sm-6">
+                    <script src="https://donorbox.org/widget.js" paypalExpress="true"></script>
+                    <iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src={{ page.donorbox_link }}
+                    style="max-width: 500px; min-width: 310px; max-height:none!important" width="100%"></iframe>
+                </div>
+                <div class="col-sm-6">
+                    <p><b>{{ page.header_message }}</b></p>
+                    <div class="py-4"></div>
+                    <p><b>For Offline Donations:</b></p>
+                    <p>{{ page.offline_donation }}</p>
+                    <div class="py-4"></div>
+                </div>
             <div class="py-3"></div>
         </div>
-
-
-        <div class="row">
-
-            <div class="col-sm-6">
-                <script src="https://donorbox.org/widget.js" paypalExpress="true"></script>
-                <iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src={{ page.donorbox_link }}
-                style="max-width: 500px; min-width: 310px; max-height:none!important" width="100%"></iframe>
-            </div>
-
-
-            <div class="col-sm-6">
-                <b><p>{{ page.header_message }}</p> </b>
-
-                <div class="py-4"></div>
-
-                <b><p>For Offline Donations:</p></b>
-                <p>{{ page.offline_donation }}</p>
-
-                <div class="py-4"></div>
-
-                <b><p>Links for Other Online Donations:</p></b>
-                <a href={{ page.kitabisa_link }} class="donate-cta btn btn-success" role="button">Kitabisa</a>
-                <a href={{ page.gofundme_link }} class="donate-cta btn btn-success" role="button">GoFundMe</a>
-
-            </div>
-
-        </div> 
-
-        <div class="py-3"></div>
+        <div class="text-center">
+            <div class="daun"></div>
+            <h3 class="card-title light">Other Online Donation</h3>
+        </div>
+        <div class="row donation-cards align-items-center">
+            {% for donation_card in page.donation_cards %}
+                <div class="col-xs-12 col-md-4 card-item">
+                    <div class="card border-secondary">
+                        {% if donation_card[1].imageUrl %}
+                        <img src="{{ donation_card[1].imageUrl }}" class="card-img-top" />
+                        {% endif %}
+                        <div class="card-body text-secondary">
+                            <h5 class="card-title">{{ donation_card[1].title }}</h5>
+                            <a class="donate-card-cta btn btn-solarchapter-sec btn-sm btn-block" target="_blank" href="{{ donation_card[1].projectLink }}">Project Details</a>
+                            <hr />
+                            {% for donationLink in donation_card[1].donationLinks %}
+                            <a class="donate-card-cta btn btn-solarchapter btn-sm btn-block" href="{{ donationLink[1].link }}">{{ donationLink[1].title }}</a>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
     </div>
 </div>

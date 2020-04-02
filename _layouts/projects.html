@@ -11,42 +11,11 @@ layout: base
   </div>
   <div class="container">
     <div class="row align-items-center">
-      <div class="col">
+      <div class="offset-md-2 col-md-8">
         <div class="card stats">
-          <div class="card-body">
-            <h4 class="card-title">Our Projects</h4>
-            <div class="container">
-              <div class="row">
-                <div class="col col-md-3 stat">
-                  <p class="card-title"><b>{{page.stats.first.title}}</b></p>
-                  <div class="stat-number">
-                    {{page.stats.first.value}}
-                  </div>
-                  <p class="text-center">{{page.stats.first.help_message}}</p>
-                </div>
-                <div class="col col-md-3 stat">
-                  <p class="card-title"><b>{{page.stats.second.title}}</b></p>
-                  <div class="stat-number">
-                    {{page.stats.second.value}}
-                  </div>
-                  <p class="text-center">{{page.stats.second.help_message}}</p>
-                </div>
-                <div class="col col-md-3 stat">
-                  <p class="card-title"><b>{{page.stats.third.title}}</b></p>
-                  <div class="stat-number">
-                    {{page.stats.third.value}}
-                  </div>
-                  <p class="text-center">{{page.stats.third.help_message}}</p>
-                </div>
-                <div class="col col-md-3 stat">
-                  <p class="card-title"><b>{{page.stats.fourth.title}}</b></p>
-                  <div class="stat-number">
-                    {{page.stats.fourth.value}}
-                  </div>
-                  <p class="text-center">{{page.stats.fourth.help_message}}</p>
-                </div>
-              </div>
-            </div>
+          <div class="card-body text-center">
+            <div class="daun"></div>
+            <p class="card-title">{{ page.preface }}</p>
           </div>
         </div>
       </div>
@@ -54,15 +23,6 @@ layout: base
   </div>
 </div>
 <div class="container">
-  <div class="row">
-    <div class="col">
-      <div class="text-center">
-        <div class="daun"></div>
-        <h2 class="card-title">{{ page.prefaceTitle }}</h2>
-        <h4>{{ page.preface }}</h4>
-      </div>
-    </div>
-  </div>
   <div class="row">
     <div class="col offset-md-1 col-md-10">
       <div id="map-container"></div>

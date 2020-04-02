@@ -20,9 +20,7 @@ heroMessage: |
 chapterOneTitle: |
   Water
 chapterOneMessage: |
-  Solar Chapter will collaborate with PAMSIMAS (A National Platform for Rural Water Supply and Sanitation) to provide easier access for clean water.
-  Our plan is to build a reservoir to collect water from three water sources, which will then deliver the water to the distribution tank near the village by using solar pumps.
-  From the distribution tank, the water will be distributed to 16 locations across the village.
+  The limited access to clean water made us aware of the substandard living conditions still experienced by many Indonesian citizens. We have first-hand experience seeing the villagers walk 2 kilometers per day to access clean water. Residents of all ages, including the elderly and adolescence, spend 4 hours traversing through rocky roads on foot just to retrieve water. We are on a mission to change that!
 chapterOneGallery:
   - https://lh3.googleusercontent.com/BApHZsv_sntV0KrcKS44UiQc3cxV6OKyrlKZVXcYDhbny31KYbRtWiNBj7OeBkVU9zUyU7h6JQqa30Ib2rAKPrb7etVER_O5Cx6RXZbxYIrN4EjV5YMmbjMGes_uw6Xv5PtK_Cn-rNiJUlaul3x2jpr2h3v-_MeYUp3KBFVhtpaNcWWM4oNpeRncdcbJV1YZEqeTjkqtkTPnGbPK4RZYxwHLENUG_76Ziu9Pwxf5_9Nm_rpR6MQ1TYsGc8DRCtMcj29KN9EM87F7AW_L2xOofrWi-bS-FjmFERPqrq93ehLI5xN1b0esB641PomCy8lyS2dHYFywEZt41dtKDQcurVqaTOP_oXnziqehnoQnesTFX9XcFu9ttT4QzsEzDYfP_J2c_AjN7z3Esb2u6FQkW6bvgA9tOZWJP1uZ6Tjy54Wg4Cgh0jC7K8Sejfh0GgMnT5amuVnvmsr_ftn7-InG7hu7pdnmiAe3gE_mypCZXQMEWKHn7EKC4zeQnxn-JGs_I-LnrKGLt8CDPtb_9b5AvvKYHAd4CDzMttagQlY5qPwUFHYIeeMhXK6-9uXm_LSoyxYq3pXcWrF4T_MxOL0AkiFFLlv7qn3OVtucimDhLLpVMNJKOSeIZGLrpnjRkKMWmh4dPamEX_3idSy6hMp4WJrhy7swgNbRBDMHHWP8R4eThn6Njrf6M0XhfnHxeLSuQUTijzVjsoQ3YDHKuSnHc3FgVJqSwWutbM4_8CfqwS31SFiX8syHLG0=w1075-h718-no
   - https://lh3.googleusercontent.com/daxqLMkBWNIlXefBI-ey5TkxTGjAee4MdI9HWJsz3xmBuepjHtl7dZwNC8nSM_6sYFruNuQ5avQ1iCxwymO1Pd_opfG8UjcQkjcp_DJMCFklUWIVsg2byJZkLrAHkSxwc566fALcZdN2fsMOhYBYwgbFcPAMn1mWrPKyEinL7F1borgje8rDM2g3RrAErMbbK_iuaszdMSQMK2U5oN_j5DqSqBcWS1YT6Kz-TWqBF_JtDAQlTgvuXPLCBkDoapfYnE5eYRZ1o5WMXaXSYIVtlDP17R8JsAOy_6ghofLWMHrrP3wvy8T9RzIk9UjQgswcJfH_nN7RtBoqUJptPv2jAtpFoKpZkuQ8XvpXu68mOXpW3MTfeHeme9s8aUsV0Gk3baPvVQ8sgUYbDuOYdeay4SuXh7bKA5bj33HCF8wGjaq1hdjzUn1lbhdM8D9lyqk4MRKIdmE6pmvKBGuFqJmNSJ9ZQj-Lg3qs3quCnV26wp_9dGWfBzJmPTT7-8mP3YHSADKXUZ8uA_ejTBtwMLoxoyol1Sha-rpkdubygshAVyUTtCCxZ3G0Orc8831RgNh4BIf2GhL9rkPN1hx6IC2I_LWU08eUW_2cHo3jhT-LBfTWEOA44bUfCAdb8UBAIZ_x_Oj6erqjrHYWyKqdvvba2Hd_YKNz-cDf1e8JeyztyNlf-3NzzZq1vNkJ53608PMLvhWJfCtgVibVfExLcta3iN2UXj6mfeTcFR5VYHTltLgTkoWYGAnlq3Q=w1075-h717-no
@@ -32,30 +30,16 @@ chapterOneGallery:
 chapterTwoTitle: |
   Education
 chapterTwoMessage: |
-  Solar Chapter decided to make Education as its second chapter after seeing the students of
-  SDN As Manulea during their first implementation visit for Chapter 1: Water in Desa Umutnana,
-  a neighboring village to Desa As Manulea. SDN As Manulea, at the time of visit, did not have
-  running water in the school and students had to spend approximately 2 hours to retrieve water
-  before school and during school. Additionally, the ceilings were run down, the library was left
-  unused and many doors and locks were broken. Solar Chapter saw the potential to add piping to
-  SDN As Manulea from Chapter 1’s water reservoir as well as doing a construction project to
-  renovate the school. Concurrently, Solar Chapter is starting a new branch in the University of
-  Michigan. This situation was seen as an opportunity to get the new branch on board with a project
-  together with Solar Chapter at the University of Illinois, Urbana-Champaign. Therefore, it was
-  decided that the new University of Michigan branch will be working with the founding branch to
-  help with the construction project of Chapter 2: Education.
+  Every day, the kids must bring jerry cans filled with clean water from their homes just to meet their individual needs in school. On top of that, their school facilities are run down and overall hygiene is very poor. Seeing these problems moved the hearts of our team members and led them to initiate the second Chapter. We hope that students can focus on their school and spend more time in library
 chapterTwoGallery:
   - https://lh3.googleusercontent.com/uqIv1PxR4fPPJpICogT8-obg3OttYug51Uynq-FpZIAWmZT93n-Id5G4H9qbmYJApfeRrPwT-zGKbylj3rpM8ecsvVvbSismc95QN9IfRKFslxaXnxsghuyHIFP2APx7zU68AgH53s2WGMlF923HZ_K_Fk0DN0U1Qmc9t5bRy6GwisJ6ECb5qumxSh-X8y0Ru30gZRu2ZSPVhP1G8uvvuRBdzkDsKZPoiaKcD39iwbxJcOe0elYtmLs8MZrXZMcC6up7jNltaq_Rs3LhRBekH6d_btqGR1kdE6ZOCSkP1sGZ0v4YT37LxuwSoOZl_aTxkAO4rr3eY1bBbX-Zlca9PwhiF2rEIYNzwYRZ6p0uYRznu-ef0afdtmE8He4b9mi2cpBXXAwYt6sNZ40uz_CX4OTSD-xET4bf5dp1CAzHyxHS5ept5jRWIU6OXo91jhXemB2UqG1iK71QUsgAP991zs_bFiFNjuY4CUJqDh5ygQI0tknEJu4hTD1QXUmubySN1SVnbnBlmbi4o3ghz9k5qClLinQPy6hdsWm8bEo12OZoTEzYI4xPU79ZEHRKr88e3mtZ4QWu5Hw9yxfKeSCg8r1mfslhMXv_BSMhQP8Me1qGX0HeNj6ZURcea_AIvd1D3Vaipq5yIfvQZaXddDpNCB8_AxbBmirh48KL4ui81JSxaOE_esK-r2m1bs_odIFLUN7XWWwP95RGe4al-DKj0686Mo1XWbLpOsNUxKHWifOBqAE-1wdlplU=w1075-h717-no
   - https://lh3.googleusercontent.com/S3gmy5t_Z0eihMPMh5JEDfGg8sgc5NlmjiUorbsQ_FIxyUZH472sBJwnHX6bfus8cQy0CETjWy121dLN5-5zxO69sCAzsjvwkQriOK9HrGZclfB4NLk8xpcTPbzGEP3D8RXe-WPSqLbqsZ9YtFsUt0mFV-8Qj9YEZa25vKtHIpcu3VWOlxmek8yy2F-2-dFTZOKSmx2O8tXXyP5YcTaT7YLFcOk0Yvx1J29u1sqDYau_AoMc-oHnncgN8FDmQ_2FCewmPLFq4Hk-3HAwcRhfmQ855yZtYuXtFnkl4PG73SCDB1KxFboZtLJ1f5cXjdtEePUway9x45zEjeUteEzxJuRQ_qk6Wxz1RbfbNMHCftOgPlXzUydWMQN1yxj42fssgw59kmRmHAs6gSxifLx7UQtzneXRCKgSyXUBhJ4FNLwZjee9KhnxRoLkBG9raKoRF7IgfJg53plgK2VxrlaKnTC-HkNtvVPHPjcfbUINAF0sO5aET9LQwnn8EkPz0kRT9j9hhxoQxNv4cA-jl5vl4qT6Tnp7Z3WoSW7Cw291bmAGLVLfyHJs5VGx45awmhWrYz1JsOPnR08hOH6d1KI7UG0oyFA0YxC4RT4C8rUfu7QxJ183qeJbkag803VAQLE2G9WjDq-2xwx2gTLZuNJH5R-IyEOW4FJ67Re3aOtGrTamLTGWAz_F4bZmcoWt3qyJUCaG4KO7gAcUB6JcSQIgU4_lRgysZFtZplEazpzNYg-KjF3cRH52bmU=w1075-h717-no
   - https://lh3.googleusercontent.com/B0H8J1Cx0lkamQIGD3gCtjzs4B-LDXuAoqrFR2MaBft2P0_-SBv0_WhyHoRDgZVi8nLJgxJy0-2k-ZpsWYtc39KGxYHXNw0o5XMaKmRCYtVzZMsgte6Vg_5jPj_M7ufHzdp3KiFGGcEG7FEqsyIvqPE1uoAyu5uQE8a5Ymjzvzf04Ursb3o9a1QZYOx8XeFgVQdq_lG2H6cniZHQfig7hlQBBm-aXx0ZC1j_Nno22M21PYxat0vpdDqqLlDDPWH2nyjAXkwGKFabDo--dR1smrGjybFIfWnbsfZDG8Mj8LRrSbIk0EAR_9AdlJC27MmrOnYeFUyC_11zaNsfMED91Ct283V49dxHhQKZKofblVEy_GqG8k6dTockH9bS7Nhk-AambaldeFuSdr8MmXfoI5DJ_KgT84CBUVVGMq1YGXvm8YE4ykVLgA6Bnjh6_TiOJXO_Oc_3IFTcXcKafD6EftIEgVKo_4bZ8iKLFrAISiLmbbjNupyz-hyRgiC1jw5EOY3925MeavwCQwi-AF51vTgFKGzcos7W07H8iev-SFLYd1Ezkr6r5x819fWao_1ypi_JJhGcBhQG91uqumWEU6-pEInYTIu8IKubycdNVOtamNQ5iQqmdkcJ8321ks1S3kizc6xsVQIwtFh5QeGNnILycIQFC3XM-pODNGu72cN8ybs-hcylqsf7sfA4IIg44IzoXFpgtrlEogzQPhWJMCQ8RO5_qtTm9PLYpZkofSKDLv6LyMRWD6w=w1075-h717-no
 # Chapter three
 chapterThreeTitle: |
-  Kain Makna
+  Community Development
 chapterThreeMessage: |
-  Our initiative, MAKNA (/mak·na/), means purpose.
-  This initiative is inspired by the Umutnana's women tenun community. Consisting of 20 village women, their work is to weave and produce tenun products.
-  They used to have a ‘tenun-house’ that was rebuilt to become a health clinic (Puskesmas) due to not able to sell their products to a market or a distributor.
-  These products are only available to sell whenever visitors come from the neighboring city of Kupang or given as gifts to government officials.
+  Continuing on with the success of Chapters One and Two, we launch our initiative called MAKNA (/mak·na/) which means purpose. We aim to elevate the voices of the women though exhibiting and promoting their tenin heritage to the global community. Therefore, women in the villages can use 4 hours that they used previously to obtain water more productively
 chapterThreeGallery: 
   - https://lh3.googleusercontent.com/XJxJcN1cYd8R_arD6Si9HPQ4nfXmd6YGviHnp9_00qRTQJBFKyDoYDgurMZrvW5ZiOw3EgVPHxsJPa89G6rR6eg2AfIFHoc8dhfuNrouDEhQB7rer8ibTvYIeTw19svMtIzLpfwd4rdQb9X0IEw_6rk3xfngyTYCpqsHTAgpMC5tDSh5_ZnytW_NO4C8kL-jCti5jf-YgytSrHHMkYuPxLujVjTECJe3Pk_fF2Fq1m3yTGc_VhMaEjXz6FiQeBs5CeL8tYkLVqZaRtfyPWiNEZWW8j_4A0xu723rzCUCj0383RQHj7uRnMVzqE680PqzAoSGmIuWR-ZYtOXYpdh1v__aRAvpKx2VZHfpPBb9IxVhK3ZkNF5mbYImb4oyG10nRYkhTYKFD8IM-294k55mjk6v1yZI3k2Y-IuHq8d63Sm3yx4X9XIc28GFaMOtzhEsaWUH-Eym_BECab-5RhFmapfe2xhRF9VpbSBnpTYowm7PXtNmY0eBFt31hz7WT4Bu2SfdduYBZFLGgKWbb18Lcnjzfi1lKrWrPJFXBlbKcy1k1m-sTttMFL76ioFHSJ320xGq8JegkOEsU78QqHXmj38iYQ3pYL50VdcCjftd3OFiRf7IuwQV5DfN7yTPyx3_sEEZQm77V6tsZhx00qwv6t6SUCHaRGnK1pIIQv9RdkmNaprMfME8JJk-Di0f1H0GnWfw3AC7g_ChKJe3i6PWFMOE3OYQt2RyfaPkSJJ8pcFC3ZR_3a2alus=w1075-h718-no
   - https://lh3.googleusercontent.com/IulOZsX2-K3cvJN4O7-k9O5M_KB4N1aKgcbnzUecvcggdp82NtDh6ELsKI1tamlMBtLiTmAw0DMu0yhd4lkNP_MDbn3dITZ9W1UoPsfgtZ6mj-IsqjZrVTi1k3xMdXeUp1TTXYtYYbP-9rKzjVmeJH3E_PU0IVw6-8kYH4y1FYVtZdfcvlHXpvi_E4cXydwBj3u0Kc82HVlOO6RPfcd2XMXfLvH8nRe97viKTtj_Ng-uhqoPrgxeKyC6_9nWitbP2RyEMJBuD8MSwIqTsoptxJe1gS1yHLhD8qkjjbrfdVxgByGcdWPwDt5csqX2X_uhmAtaY5Ek0-srmugK7xxFF5cq2rqg5gXx18-8gA2UCJG3ieFfVErIHbuClk_waXXZwKHPBJEYcfE8c_SGJlVQKyrUDRobT_8oT8I-bNFm6Yz3fzDNyI0rfumA-ka0GW8VD_pGtVRkbOaus1YdyCIBMSUFF_3VO_RIJ2OLU0kInBN4A2R8SMMYaTlzKMQ-pSGSKaOwq8MSPelHl3FGEhPhjrw22knsgRZjwKBkl2WkQOwhTdYApFaQtqMlNlT8w-ix7nflB6CuOZNA75VkPrwHVROqw4nDigK7N35OsD_iSfeBJ_4YPi4G8TtXzcBTGkDNd1tG5-rM4BA7FMUYD6QSzQJB6d1kJ4eMgRVyd8ZrH75WBbKIdGxgvSGb2D0QWHc5PJXGxsxyYe1MZOmGjtvVpnnTFBA4Gmpae5Q8e3kADva-wFGZIOQqxXA=w1075-h718-no
@@ -67,21 +51,20 @@ impactsImageGallery:
   - https://lh3.googleusercontent.com/OILwBWM8pkjJ8f4P245LEgpIG-UOdQHUlz5XXLs5BOZqhAlbJnGTUqcea9Q-M3J-x_aTopknslc6cU3Kn8nn8hISaPqNwk-v7Hilz4pAwnqki3HsNp7Vv-mVKdp7s7qDxm-iNJ2iKpcn5v-gkRlpEQzDDj-Mic5PNO_a3O9hAoKTEJy18YF3_7wGSws4vmXv2uzdtfcFGg89Cjsb0R8OXM4arrlKEf-Q1i_V7ttGkHcYFIjoELwCJBrWuUbRPbUZWF148TUzZB-hgVZ_i5zozqKT6-eZxB6DnN5RS81hzEULZgdZ79PUis6DPSjugYL2dBgSEh_dAkNSeLOny5yxkXSq_v-zCMddpDIXgdV8n1vIkK32GxgldUiDPrpbwH0slYWkl2d5lNk4EMMxSacNShALrTACSagixh2bcntNh8HsTpt9KY-new9M-Ihp355cph0feGgf6EJKVVuhQGanD1KeSURIcb6VLFdm6e5oR4jVGZEZNLbRY6tgQA0AYTc2rVGac8_-YWzPUWhFc8v0FqBQkl-JDuwGe69wZUwc9EWbNf1guKX7AtM2W0mrB30H0MI9ofSTAPYdRIqm4rHarJTjpnWhahozOII6Z4Hkbx2AEPaolNBg9TCTZdeGn-pI_yXskU3EKiMBJE5GQd-2CG4LOUL5zBPWsa0YR31edVA6p3z9Dh3iSAOpnXDx7COfzI8x91hxz6RyqRqNkHJV_e008Ia0RrKlYo_SuZdkBObMo1mIGt0YByo=w1075-h717-no
 impacts:
   first: 
-    title: "Reached out to"
-    value: "1080 people"
+    title: "Reached out"
+    value: "3569 people"
     help_message:
   second:
-    title: "Served"
-    value: "4 villages"
+    title: "Villages Served"
+    value: "5"
     help_message:
   third:
-    title: "Pumped"
-    value: "32k liters"
-    help_message: "water"
+    title: "Branch"
+    value: "5 universities"
+    help_message: "around the world"
   fourth:
-    title: "Cut down"
-    value: "300 meters"
-    help_message: "travel distance to get water"
+    title: "Has involved"
+    value: "87 students"
 sponsors:
   - pt_wahana_duta_jaya_rucika:
     link: http://rucika.co.id/
