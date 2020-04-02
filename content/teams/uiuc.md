@@ -1,9 +1,11 @@
 ---
 permalink: /teams/uiuc/
-layout: uiuc
+layout: team
 title: UIUC Team
+location: University of Illinois Urbana - Champaign, IL, USA
 custom_css:
-  - '/assets/css/uiuc.css'
+  - '/assets/css/teams.css'
+  - '/assets/css/team.css'
 # Content
 background_image: |
   https://res.cloudinary.com/db1a3rvdf/image/upload/v1585682673/Solar%20Chapter%20Website/teams_page/uiuc/FALL_19_TEAM_PHOTO/uiuc_team_ohwtk1.jpg
@@ -18,6 +20,10 @@ officers:
   - image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1585682481/Solar%20Chapter%20Website/teams_page/uiuc/FALL_19_TEAM_PHOTO/Natasha_Fandawa_ltgjmm.jpg
     name: Natasha Fandawa
     title: Vice President of Operations
+  - image_url: /assets/media/uiuc/FALL_19_TEAM_PHOTO/Norman Dewantoro.jpg
+    placeholder: true
+    name: Norman Dewantoro
+    title: Head of Social Affairs
   - image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1585682483/Solar%20Chapter%20Website/teams_page/uiuc/FALL_19_TEAM_PHOTO/Patricia_Wendy_b30zaf.jpg
     name: Patricia Wendy
     title: Secretary

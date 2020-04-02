@@ -2,11 +2,18 @@
 layout: base
 ---
 <link href="https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap" rel="stylesheet">
-<div class="section-content bg">
+<div class="section-content-container">
+  <div class="section-content bg" style="background-image: url({{ page.background_image }});"></div>
   <div class="container">
     <div class="row align-items-center" style="min-height: 300px;">
       <div class="title">
         <p style="font-family: 'Rock Salt', cursive; font-size: 38px;">{{ page.title }}</p>
+        {% if page.location %}
+          <p>
+            <div class="icon fa fa-map-marker"></div>
+            {{ page.location }}
+          </p>
+        {% endif %}
       </div>
     </div>
   </div>
@@ -22,11 +29,15 @@ layout: base
   <div class="row">
 
     {% for officer in page.officers %}
-      <div class="col-md-3">
+      <div class="col-sm-12 col-md-6 col-lg-4">
           <div class="our-team-box">
-              <img src="{{ officer.image_url }}" class="img-responsive alt="...">
-              <h4>{{ officer.name }}</h4>
-              <p>{{ officer.title }}</p>
+            {% if officer.placeholder %}
+              <div class="placeholder-officer"></div>
+            {% else %}
+              <img src="{{ officer.image_url }}" class="img-responsive img-fluid alt="...">
+            {% endif %}
+            <h4>{{ officer.name }}</h4>
+            <p>{{ officer.title }}</p>
           </div>
       </div>
     {% endfor %}

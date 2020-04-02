@@ -36,6 +36,9 @@ If possible, always serve files through Google Photos because repository is not 
 - View the image and right-click the image and select "Copy image address". The image address should be hosted at `lh3.googleusercontent.com`.
 2. Cloudinary for video. Contact Solar Chapter for account access 
 
+## Notes
+1. Don't forget to have `---` to start and end your `Markdown` files!
+
 ## Technologies
 - Jekyll: Static site generator.
 
