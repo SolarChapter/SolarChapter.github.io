@@ -24,13 +24,14 @@
       <link rel="stylesheet" href="{{stylesheet}}">
     {% endfor %}
     <!--SEO-->
-    <meta name="description" content="{{ page.description | default: 'Solar Chapter is a non-profit organization formed by students from various universities. We are committed to helping and developing remote areas in Indonesia through sustainable methods' |truncate: 156 }}">
+    <meta name="description" content="{{ page.description | default: 'Solar Chapter is a non-profit organization formed by students from various universities. We are committed to helping and developing remote areas in Indonesia through sustainable methods' | truncate: 156 }}">
     <meta name="keywords" content="non-profit organization,indonesia,students,rural areas,sustainable methods,helping" />
     <meta property="og:title" content="{{ page.title | default: 'Solar Chapter' }}">
-    <meta property="og:description" content="{{ page.description | default: 'Solar Chapter is a non-profit organization formed by students from various universities. We are committed to helping and developing remote areas in Indonesia through sustainable methods' |truncate: 156 }}">
+    <meta name="description" property="og:description" content="{{ page.description | default: 'Solar Chapter is a non-profit organization formed by students from various universities. We are committed to helping and developing remote areas in Indonesia through sustainable methods' | truncate: 156 }}">
     <meta property="og:image" content="{{ page.metadataImage | default: '/assets/media/logo.png' }}">
     <meta property="og:url" content="solarchapter.com{{ page.permalink }}">
     <meta name="twitter:card" content="{{ page.metadataImage | default: '/assets/media/logo.png' }}">
+    <meta name="author" content="Solar Chapter">
   </head>
   <body>
     {% include header.html %}
