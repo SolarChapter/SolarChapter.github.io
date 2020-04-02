@@ -18,9 +18,6 @@ officers:
   - image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1585682481/Solar%20Chapter%20Website/teams_page/uiuc/FALL_19_TEAM_PHOTO/Natasha_Fandawa_ltgjmm.jpg
     name: Natasha Fandawa
     title: Vice President of Operations
-  - image_url: /assets/media/uiuc/FALL_19_TEAM_PHOTO/Norman Dewantoro.jpg
-    name: Norman Dewantoro
-    title: Head of Social Affairs
   - image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1585682483/Solar%20Chapter%20Website/teams_page/uiuc/FALL_19_TEAM_PHOTO/Patricia_Wendy_b30zaf.jpg
     name: Patricia Wendy
     title: Secretary
