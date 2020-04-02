@@ -1,7 +1,7 @@
 ---
 permalink: /teams/uiuc/
 layout: team
-title: UIUC Team
+title: Solar Chapter - UIUC Team
 metadataImage: |
   https://res.cloudinary.com/db1a3rvdf/image/upload/v1585682673/Solar%20Chapter%20Website/teams_page/uiuc/FALL_19_TEAM_PHOTO/uiuc_team_ohwtk1.jpg
 custom_css:
