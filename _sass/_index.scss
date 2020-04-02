@@ -1,0 +1,396 @@
+@import './variables';
+
+.card.chapters {
+  margin: 50px 0 50px 0;
+}
+
+.waves-background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.waves-container {
+  width: 100%;
+  position: relative;
+
+  .waves {
+    position: absolute;
+    // bottom: 0;
+    width: 200%;
+  }
+}
+
+.waves-dyn-height {
+  background: #8CE8ED;
+  height: 100%;
+  width: 100%;
+}
+
+.waves-blender {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100px;
+  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(140,232,237,1) 55%);
+  margin-bottom: 50px;
+}
+
+.img-container {
+  text-align: center;
+}
+
+.card-text {
+  margin-top: 30px;
+  line-height: 1.5;
+}
+
+.card-text {
+  white-space: normal;
+}
+
+.chapter-one {
+  top: 5px; // Somehow there is a 1px spacing between this div and the following one. This is to remove that spacing
+}
+
+.carousel-album::before {
+  position: absolute;
+  content: '';
+  width: 100%;
+  height: 100%;
+  background-color: #80878E;
+  transform: rotate(-2deg);
+}
+
+.carousel-board {
+  border-top: 5px;
+  border-bottom: 10px;
+  border-left: 5px;
+  border-right: 5px;
+  border-color: #7d5e2a;
+  border-style: solid;
+}
+
+.chapter-two {
+  margin: 50px 0 50px 0;
+  padding: 0 0 30px 0;
+}
+
+.wall-bottom {
+  width: 100%;
+  height: 100px;
+  background-image: url('/assets/media/wall-brushed.png');
+  background-size: contain;
+}
+
+.education-background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+
+  .draw {
+    position: absolute;
+  }
+
+  .draw.var-1 {
+    animation: floating-var-1 5s infinite alternate;
+    animation-delay: 0s;
+    animation-timing-function: linear;
+  }
+
+  .draw.var-2 {
+    animation: floating-var-2 5s infinite alternate;
+    animation-delay: 0s;
+    animation-timing-function: linear;
+  }
+
+  .draw.house {
+    top: 0%;
+    left: 2%;
+  }
+
+  .draw.flowerInVase {
+    top: 10%;
+    left: 15%;
+  }
+
+  .draw.sun {
+    top: 40%;
+    left: 45%;
+  }
+
+  .draw.heart {
+    top: 3%;
+    right: 5%;
+  }
+
+  .draw.smiley-face {
+    bottom: 10%;
+    right: 15%;
+  }
+
+  .draw.flower {
+    bottom: 40%;
+    right: 1%;
+  }
+
+  .draw.butterfly {
+    top: 1%;
+    left: 50%;
+  }
+
+  .draw.car {
+    top: 70%;
+    left: 3%;
+  }
+
+  .draw.hand {
+    top: 1%;
+    left: 70%;
+  }
+  
+  .draw.tree {
+    top: 80%;
+    left: 30%;
+  }
+
+  .draw.doctor {
+    bottom: 5%;
+    left: 60%;
+  }
+
+  .draw.rocket {
+    bottom: 20%;
+    left: 10%;
+  }
+}
+
+.section.impacts {
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  padding: 100px 0;
+
+  h4.card-title {
+    padding: 10px
+  }
+
+  .container {
+    position: relative;
+    height: 100%;
+
+    .row {
+      .impact {
+        padding: 20px;
+      }
+    }
+  }
+
+  .card-body {
+    margin: 20px 0;
+  }
+
+  .impacts-background-gallery {
+    display: inline-flex;
+    position: absolute;
+    overflow-x: hidden;
+    top: 50%;
+    transform: translate(0, -50%);
+
+    .slide {
+      display: inline-block;
+      align-items: center;
+
+      img {
+        height: 600px;
+      }
+    }
+  }
+}
+
+.chapter-three {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  margin: 50px 0;
+  padding: 50px 0;
+  position: relative;
+
+  .tenun {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-image: url('/assets/media/tenun-pattern.png');
+    background-size: contain;
+    width: 100%;
+    height: 100px;
+  }
+}
+
+.impacts{
+  .impact-number {
+    text-align: center;
+    font-size: 30px;
+  } 
+
+  .card {
+    background-color: rgba(255, 255, 255, 0.85)
+  }
+}
+
+.cta {
+  vertical-align: middle;
+
+  button {
+    margin: 0 10px;
+  }
+}
+
+.ambassadors-contact {
+  position: relative;
+  overflow: hidden;
+  
+  .ambassadors-right-container {
+    min-height: 620px;
+  }
+
+  .ambassadors-left-background {
+    margin-left: -15px;
+  }
+  
+  .ambassadors-content {
+    position: absolute;
+    z-index: 1;
+    margin: 0 10px;
+    text-align: center;
+  }
+
+  .ambassadors-content-left {
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+  }
+
+  .ambassadors-content-right {
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    min-height: 700px;
+  }
+
+  .ambassadors-right-background {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+
+  .contact-container {
+    min-height: 400px;
+    background-color: rgba(212, 197, 17, 0.8);
+
+    .contact-content {
+      position: absolute;
+      z-index: 1;
+      top: 50%;
+      left: 50%;
+      margin: 0 10px;
+      transform: translate(-50%, -50%);
+      text-align: center;
+    }
+  }
+
+  .contact-content {
+    word-break: break-word;
+
+    a {
+      color: inherit;
+    }
+
+    a:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+.container.full-height {
+  // height: 500px;
+  .row {
+    height: 100%;
+  }
+}
+
+// SPONSORS
+.sponsor-container {
+  background-color: rgb(212, 197, 17);
+  padding: 50px 0;
+}
+
+.sponsor-img-box {
+  padding: 20px;
+  vertical-align: middle;
+}
+
+.section.sponsors {
+  overflow-x: hidden;
+}
+
+.sponsors-box {
+  display: block;
+  position: relative;
+  padding: 50px 0;
+}
+
+.sponsors-carousel {
+  display: inline-flex;
+  transform: translate(0, -50%);
+  margin-top: 50px;
+
+  .slide {
+    position: relative;
+    display: inline-block;
+    align-items: center;
+    width: 200px;
+    margin: 0 20px;
+
+    a {
+      position: absolute;
+      top: 50%; 
+    }
+
+    img {
+      width: 100%;
+    }
+  }
+}
+
+@keyframes wavy {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes floating-var-1 {
+  from {
+    transform: rotate(0deg);
+    transform: translate(0, 0);
+  }
+  to {
+    transform: rotate(10deg);
+    transform: translate(20px, 20px);
+  }
+}
+
+
+@keyframes floating-var-2 {
+  from {
+    transform: translate(0, 0) rotate(0deg);
+  }
+  to {
+    transform: translate(-20px, -10px) rotate(-10deg);
+  }
+}

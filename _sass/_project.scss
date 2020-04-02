@@ -1,0 +1,92 @@
+@import './variables.scss';
+
+.project-header {
+  background-size: cover;
+  background-position: center center;
+  min-height: 300px;
+  margin-bottom: 25px;
+}
+
+.project-header::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  height: 100%;
+}
+
+.chapters-title {
+  margin-bottom: 40px;
+}
+
+.project-content-title {
+  margin-bottom: 40px;
+}
+
+.project-content-section {
+  margin-bottom: 40px;
+}
+
+blockquote {
+  margin: 20px 0;
+}
+
+.img-container {
+  width: 100%;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.tab-content {
+  p {
+    margin: 20px 0;
+  }
+}
+
+.books-tab-container {
+  width: 100%;
+  padding-top: 20px;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 1;
+}
+
+.book-tabs {
+  width: 100%;
+
+  .nav-link.active {
+    background-color: $sc-primary-color;
+  }
+
+  .nav-link {
+    background-color: white;
+    border-color: #dee2e6;
+  }
+
+  a {
+    color: black;
+  }
+}
+
+.tab-content {
+  padding: 25px 0;
+}
+
+.donation-section {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  position: sticky;
+  top: 20px;
+}
+
+.carousel {
+  margin-bottom: 30px;
+}
+
+.cta-section {
+  width: 100%;
+  text-align: right;
+}
