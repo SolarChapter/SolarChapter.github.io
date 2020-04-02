@@ -23,7 +23,7 @@ sections:
         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Iq4lWUq2xlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <br/>
-      <table class="table table-sm table-bordered">
+      <table class="table table-sm table-bordered table-responsive">
         <tbody>
           <tr class="text-center">
             <td colspan="2">
@@ -90,7 +90,7 @@ sections:
   budget:
     tabName: "Budget"
     tabContent: |
-      <table class="table table-sm table-bordered">
+      <table class="table table-sm table-bordered table-responsive">
         <tbody>
           <tr>
             <td>&nbsp;</td>
