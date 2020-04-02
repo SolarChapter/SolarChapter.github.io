@@ -1,9 +1,11 @@
 ---
 permalink: /teams/seattle/
-layout: seattle
+layout: team
 title: Seattle Team
+location: Seattle, WA, USA
 custom_css:
-  - '/assets/css/seattle.css'
+  - '/assets/css/teams.css'
+  - '/assets/css/team.css'
 # Content
 background_image: |
   https://res.cloudinary.com/db1a3rvdf/image/upload/v1585683322/Solar%20Chapter%20Website/teams_page/seattle/FALL_19_TEAM_PHOTO/seattle_team_q9wlia.jpg

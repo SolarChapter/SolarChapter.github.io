@@ -1,37 +1,3 @@
-body, html {
-  height: 100%;
-}
-
-.bg::before {
-  padding: 25px;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  background-blend-mode: multiply;
-
-  /* Add the blur effect */
-  filter: blur(1px);
-  -webkit-filter: blur(1px);
-
-  /* Full height */
-  height: 100%;
-  width: auto;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.align-items-center {
-  text-align: center;
-}
-
-.spacing {
-  padding-top: 5%;
-  visibility: hidden;
-}
-
 .title {
   position: relative;
   text-align: center;
@@ -60,7 +26,11 @@ body, html {
     width: 150px;
     margin: 10px auto;
   }
+}
 
+.placeholder-officer {
+  width: 250px;
+  height: 350px;
 }
 
 .our-team-box img{

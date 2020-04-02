@@ -45,18 +45,34 @@ projects:
       - malaka:
         regencyName: 'Malaka'
         places:
+          - anapalu:
+            placeName: 'Anapalu'
+            chapters:
+              - chapterOne:
+                chapterTitle: 'Chapter One: Water for Anapalu'
+                chapterLink: '/projects/chapter-one-water-for-anapalu'
+                chapterStatus: 'completed'
           - asmanulea:
             placeName: 'As Manulea'
             chapters:
               - chapterTwo:
                 chapterTitle: 'Chapter Two: Education for As Manulea'
+                chapterLink: '/projects/chapter-two-education-for-as-manulea'
                 chapterStatus: 'completed'
           - biau:
             placeName: 'Biau'
             chapters:
               - chapterOne:
                 chapterTitle: 'Chapter One: Water for Biau'
-                chapterStatus: 'in-progress'
+                chapterLink: '/projects/chapter-one-water-for-biau'
+                chapterStatus: 'completed'
+          - Nibaaf:
+            placeName: 'Nibaaf'
+            chapters:
+              - chapterOne:
+                chapterTitle: 'Chapter One: Water for Nibaaf'
+                chapterLink: '/projects/chapter-one-water-for-nibaaf'
+                chapterStatus: 'completed'
           - umutnana:
             placeName: 'Umutnana'
             chapters:

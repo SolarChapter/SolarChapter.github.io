@@ -6,6 +6,12 @@ const data = [
     latitude: -9.512735,
     longitude: 124.905442,
     data: {
+      "Anapalu": [
+        {
+          title: "Chapter One: Water for Anapalu",
+          status: "Completed"
+        }
+      ],
       "As Manulea": [
         {
           title: "Chapter Two: Education for As Manulea",
@@ -15,7 +21,13 @@ const data = [
       "Biau": [
         {
           title: "Chapter One: Water for Biau",
-          status: "In-Progress" 
+          status: "Completed" 
+        }
+      ],
+      "Nibaaf": [
+        {
+          title: "Chapter One: Water for Nibaaf",
+          status: "Completed"
         }
       ],
       "Umutnana": [

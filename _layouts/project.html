@@ -91,18 +91,17 @@ layout: base
     </div>
     <div class="col-sm-12 col-md-3">
       <div class="card donation-section">
-        {% if page.fundraisingUrl %}
-          <img src="{{ page.fundraisingImageUrl }}" class="card-img-top">
-          <div class="card-body">
-            <p class="card-text">{{ page.fundraisingText }}</p>
-            <a href="{{ page.fundraisingUrl }}" class="btn btn-solarchapter">Donate</a>
-          </div>
-        {% else %}
-          <div class="card-body">
-            <p class="card-text">You help is always appreciated. To support our project, you can make a donation to us</p>
-            <a href="/donate" class="btn btn-solarchapter">Donate</a>
-          </div>
+        {% if page.fundraisingImageUrl %}
+          <img src="{{ page.fundraisingImageUrl }}" class="card-img-top" />
         {% endif %}
+        <div class="card-body">
+          {% if page.fundraisingText %}
+            <p class="card-text">{{ page.fundraisingText }}</p>
+          {% else %}
+            <p class="card-text">You help is always appreciated. To support our project, you can make a donation to us</p>
+          {% endif %}
+            <a href="{{ page.fundraisingUrl | default: '/donate' }}" class="btn btn-solarchapter">Donate</a>
+        </div>
       </div>
     </div>
     <div class="col-sm-12 col-md-9">
