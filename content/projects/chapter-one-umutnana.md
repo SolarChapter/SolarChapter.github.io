@@ -31,7 +31,7 @@ sections:
       <div class="img-container">
         <img src="https://lh3.googleusercontent.com/jcO-ECbroL5Ttyt59cSPnEupSyKdsO9iGzAIL7LUabj3fUm8sClhUI6pUqNERx0RUW8dchr_j_6mtDdubYmbPaGkNPQN11v4yCwIIurgr5s2x-Ke-Oto-WIoWant2XgRVsiSUAJ-zJvF7KqFVRj010QoDaaIpOp1jjAW3ahNKSp0wcLnJ8NXVKgh9rwd1UgDKJKY7s_17RC9vFg6JREfFKa3rJyFrPZDHTSx3eSwRIDckoMdw_0PIx8_XyZMEFVnkCBVG6_ZQoNuelUegh0qVGx6Bbr8w_H6MJ6HRO7t-98MxkB_3d3RJIkHxEh1o6lyWfz6dqizaxEIyNiac40tj9oUPS18SHOLxk5aR7VdAkkR1p8rot_eWeKclgBwefYDMxqIEJWIH9dljJyOOk4K6MSGgd0PaDLIdpO52tpy5MEzI0XorS8_yZjattl0tdagF9aHZ9LyWk2e-RWoxA6qSRCrISyVsscNdIaH8PrA4wRO9LuKG9hXbHftT0nloJ0DDdid0ghgwUiSnGy5gXc0-PQIg1VaYU2ukFNxabUJ3FZYR7mSZLe9mVwNQfCugPu6nVshSzTckmxqEaNZeaCcKTtsO-kTsc3hSPlaAjX7mNmUGK2oDk7KaL0VGbsfmK8N6CTAYehYs0iK5TSaQaxKrX-pycGj4gI-5dnTleM0G0MUg6OzZl4XZrmfKVyYQYI1GA8KFS3ttmVWB4Uhkya07LjPUwDgnuakyPN4ZOT7wxymFo4o3ed4eI8=w500-h375-no" class="img-fluid" />
       </div>
-      <p>
+      <p class="first-reading-paragraph">
         By the time we arrived at an elementary school in Umutnana, a small crowd of students and teachers had already gathered to welcome us. We will never be able to forget the warm welcome and seeing those excited faces. One of the teachers, Mrs. Angela, led us to rows of chairs in the middle of the field. As we walked by, I saw plenty of empty buckets outside the classrooms. Curious, I asked Mrs. Angela what the buckets were there for.
       </p>
       <p>
