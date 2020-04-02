@@ -1,10 +1,10 @@
 ---
 layout: base
 ---
-<div class="container">
+<!-- LANDING SECTION -->
+<div class="container full" id="landing-section">
   <div class="section-content">
-    <video preload autoplay muted loop>
-      <source src="{{page.heroVideoPath}}" type="video/mp4" />
+    <video preload autoplay muted loop poster="{{ page.heroVideoPoster }}" src="{{page.heroVideoPath}}">
     </video>
     <div class="container video">
       <div class="row align-items-center hero-content">
@@ -15,54 +15,56 @@ layout: base
     </div>
   </div>
 </div>
-<div class="container">
-  <div class="chapters-title">
-    <p>Chapters</p>
-    <img src='/assets/media/daun.png' />
-  </div>
+<div class="chapters-title" style="margin-top: 40px">
+  <div class='daun'></div>
+  <p>Chapters</p>
 </div>
+<!-- CHAPTER ONE SECTION -->
 <div class="section chapter-one">
-  <div class="waves-container">
-    <svg class="waves wave-one" width="300%" preserveAspectRatio="none" viewBox="0 0 597 131" version="1.1" xmlns="http://www.w3.org/2000/svg"
-      xmlns:xlink="http://www.w3.org/1999/xlink">
-      <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.7">
-        <path
-          d="M-1.13686838e-13,57.3537344 C-1.13686838e-13,41.3939061 -1.13686838e-13,15.2561552 -1.13686838e-13,6.19313845 C52.4447131,-17.1304256 81.8488034,41.3939061 118.723803,49.2415624 C155.598803,57.0892186 171.416025,36.2652786 200.553076,25.6302778 C229.690128,14.9952771 275.739334,65.0270314 320.168098,49.2415624 C364.596862,33.4560933 358.42168,21.0538708 405.882618,14.9952771 C437.523243,10.9562146 455.668951,49.2415624 497.726172,49.2415624 C526.863223,49.2415624 555.154256,-3.75046356 596.613281,6.19313845 C596.613281,30.2794414 596.613281,83.836002 596.613281,130.310766 L-1.13686838e-13,130.310766"
-          id="Path" fill="#189AB4"></path>
-      </g>
-    </svg>
-    <svg class="waves wave-two" width="300%" preserveAspectRatio="none" viewBox="0 0 597 129" version="1.1"
-      xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-      <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.7">
-        <path
-          d="M-5.68434189e-14,55.8956152 C18.5680117,45.3533836 65.6948515,0.181350913 108.910156,0.544052739 C173.733113,1.08810548 176.62347,39.935787 213.49847,47.7834432 C250.37347,55.6310995 232.53639,37.6050154 292.419202,13.2534529 C352.302015,-11.0981096 371.28373,63.5689123 415.712494,47.7834432 C460.141258,31.9979742 454.697209,10.7936131 502.158146,4.7350193 C533.798771,0.695956802 579.690274,50.6895962 596.613281,55.8956152 C596.613281,61.688116 596.613281,86.0071264 596.613281,128.852646 L-5.68434189e-14,128.852646 C-5.68434189e-14,88.5680324 -5.68434189e-14,64.249022 -5.68434189e-14,55.8956152 Z"
-          id="Path" fill="#75E6DA"></path>
-      </g>
-    </svg>
-    <svg class="waves wave-three" width="300%" preserveAspectRatio="none" viewBox="0 0 597 129" version="1.1"
-      xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-      <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.7">
-        <path
-          d="M-5.68434189e-14,55.8956152 C18.5680117,45.3533836 65.6948515,0.181350913 108.910156,0.544052739 C173.733113,1.08810548 176.62347,39.935787 213.49847,47.7834432 C250.37347,55.6310995 232.53639,37.6050154 292.419202,13.2534529 C352.302015,-11.0981096 371.28373,63.5689123 415.712494,47.7834432 C460.141258,31.9979742 454.697209,10.7936131 502.158146,4.7350193 C533.798771,0.695956802 579.690274,50.6895962 596.613281,55.8956152 C596.613281,61.688116 596.613281,86.0071264 596.613281,128.852646 L-5.68434189e-14,128.852646 C-5.68434189e-14,88.5680324 -5.68434189e-14,64.249022 -5.68434189e-14,55.8956152 Z"
-          id="Path" fill="#D4F1F4"></path>
-      </g>
-    </svg>
+  <div class="waves-background">
+    <div class="waves-container">
+      <svg class="waves wave-one" viewBox="0 0 1080 69" version="1.1" xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.7">
+          <path
+            d="M1080,69.9630989 L0.623,69.9630989 L1.01244789,27.3755634 C34.7515959,18.1422933 100.926723,71.7768967 178.029481,46.3368366 C255.911054,20.6398063 242.652728,22.6707274 297.483095,15.1330475 C352.313463,7.59536756 414.617869,44.9285407 495.04361,27.6747491 C575.46935,10.4209575 566.74007,-0.249213995 705.389142,27.6747491 C741.865943,35.0211874 792.754051,1.02859254 868.886782,1.02859254 C921.631192,1.02859254 1003.21307,-2.12087473 1080,35.2605373 L1080,69.9630989 Z"
+            id="Combined-Shape" fill="#2389DA"></path>
+        </g>
+      </svg>
+      <svg class="waves wave-two" viewBox="0 0 1080 69" version="1.1" xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.7">
+          <path
+            d="M1080,69 L0,69 L0,5.79136193 L0,5.79136193 C94.9363547,-18.9674984 148.164163,43.1583307 214.915946,51.4889196 C281.667728,59.8195086 310.300345,37.7140953 363.044755,26.424633 C415.789165,15.1351706 499.148259,68.2458022 579.574,51.4889196 C659.99974,34.7320371 648.821316,21.5666009 734.735952,15.1351706 C792.012375,10.8475504 824.86006,51.4889196 900.992791,51.4889196 C953.737201,51.4889196 1004.95013,-4.76415405 1080,5.79136193 L1080,69 Z"
+            id="Combined-Shape" fill="#87f0d3"></path>
+        </g>
+      </svg>
+      <svg class="waves wave-three" viewBox="0 0 1080 69" version="1.1" xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.7">
+          <path
+            d="M1080,69 L0,69 L0,55.3538336 L0,55.3538336 C0,42.8237235 118.921992,-0.36043073 197.151107,0.00227109592 C314.49478,0.546323835 319.726954,39.3940053 386.478736,47.2416616 C453.230519,55.0893178 420.94152,37.0632337 529.342454,12.7116712 C637.743389,-11.6398913 672.104428,63.0271307 752.530169,47.2416616 C832.95591,31.4561925 823.100995,10.2518314 909.01563,4.19323766 C966.292054,0.154175159 1049.36567,50.1478145 1080,55.3538336 L1080,69 Z"
+            id="Combined-Shape" fill="#92edf4"></path>
+        </g>
+      </svg>
+    </div>
+    <div class="waves-dyn-height"></div>
   </div>
   <div class="container">
     <div class="row align-items-center">
-      <div class="offset-md-1 col-md-4">
-        <div class="card chapters">
+      <div class="col-md-5">
+        <div class="card chapters" style="margin-top: 80px;">
           <div class="card-body">
             <p class="card-title">Chapter One</p>
             <h3 class="card-title">{{page.chapterOneTitle}}</h3>
-            <p class="card-text">
+            <p class="chapter-text">
               {{page.chapterOneMessage}}
             </p>
           </div>
         </div>
       </div>
       <div class="offset-md-1 col-md-6">
-        <div id="chapter-one-carousel" class="carousel slide" data-ride="carousel" data-interval="0">
+        <div id="chapter-one-carousel" class="carousel carousel-album slide" data-ride="carousel" data-interval="0">
           <ol class="carousel-indicators">
             {% for url in page.chapterOneGallery %}
               {% if forloop.index == 1 %}
@@ -79,7 +81,7 @@ layout: base
               {% else %}
               <div class="carousel-item">
               {% endif %}
-                <img src="{{url}}" class="d-block w-100">
+                <img src="{{url}}" class="d-block w-100" />
               </div>
             {% endfor %}
           </div>
@@ -99,49 +101,77 @@ layout: base
 <div class="section">
   <div class="waves-blender"></div>
 </div>
+<!-- CHAPTER TWO SECTION -->
 <div class="section chapter-two">
-  <div class="education-background-gallery">
-      {% for url in page.chapterTwoImageGallery %}
-        <div class='slide'>
-          <img src='{{url}}' />
-        </div>
-      {% endfor %}
-  </div>
+  {% include components/drawings.html %}
   <div class="container">
     <div class="row align-items-center">
-      <div class="offset-md-1 col-md-4">
+      <div class="col-md-5">
         <div class="card chapters">
           <div class="card-body">
             <p class="card-title">Chapter Two</p>
             <h3 class="card-title">{{page.chapterTwoTitle}}</h3>
-            <p class="card-text">
+            <p class="chapter-text">
               {{page.chapterTwoMessage}}
             </p>
+          </div>
+        </div>
+      </div>
+      <div class="offset-md-1 col-md-6">
+        <div id="chapter-two-carousel" class="carousel carousel-board slide" data-ride="carousel" data-interval="0">
+          <ol class="carousel-indicators">
+            {% for url in page.chapterTwoGallery %}
+            {% if forloop.index == 1 %}
+            <li data-target="#chapter-two-carousel" data-slide-to="{{forloop.index | minus:1}}" class="active"></li>
+            {% else %}
+            <li data-target="#chapter-two-carousel" data-slide-to="{{forloop.index | minus:1}}"></li>
+            {% endif %}
+            {% endfor %}
+          </ol>
+          <div class="carousel-inner">
+            {% for url in page.chapterTwoGallery %}
+            {% if forloop.index == 1 %}
+            <div class="carousel-item active">
+            {% else %}
+            <div class="carousel-item">
+            {% endif %}
+              <img src="{{url}}" class="d-block w-100">
+            </div>
+            {% endfor %}
+            <a class="carousel-control-prev" href="#chapter-two-carousel" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#chapter-two-carousel" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
           </div>
         </div>
       </div>
     </div>
   </div>
 </div>
+<!-- CHAPTER THREE SECTION -->
 <div class="section chapter-three">
   <div class="tenun"></div>
   <div class="container">
     <div class="row align-items-center">
-      <div class="offset-md-1 col-md-4">
+      <div class="col-md-5">
         <div class="card chapters">
           <div class="card-body">
             <p class="card-title">Chapter Three</p>
             <div class="img-container">
               <img src="assets/media/kain_makna.png" />
             </div>
-            <p class="card-text">
+            <p class="chapter-text">
               {{page.chapterThreeMessage}}
             </p>
           </div>
         </div>
       </div>
       <div class="offset-md-1 col-md-6">
-        <div id="chapter-three-carousel" class="carousel slide" data-ride="carousel" data-interval="0">
+        <div id="chapter-three-carousel" class="carousel carousel-album slide" data-ride="carousel" data-interval="0">
           <ol class="carousel-indicators">
             {% for url in page.chapterThreeGallery %}
               {% if forloop.index == 1 %}
@@ -153,15 +183,14 @@ layout: base
           </ol>
           <div class="carousel-inner">
             {% for url in page.chapterThreeGallery %}
-            {% if forloop.index == 1 %}
-            <div class="carousel-item active">
+              {% if forloop.index == 1 %}
+                <div class="carousel-item active">
               {% else %}
-              <div class="carousel-item">
-                {% endif %}
+                <div class="carousel-item">
+              {% endif %}
                 <img src="{{url}}" class="d-block w-100">
               </div>
-              {% endfor %}
-            </div>
+            {% endfor %}
             <a class="carousel-control-prev" href="#chapter-three-carousel" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="sr-only">Previous</span>
@@ -171,6 +200,163 @@ layout: base
               <span class="sr-only">Next</span>
             </a>
           </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- IMPACTS -->
+<div class="section impacts">
+  <div class="impacts-background-gallery bg-carousel">
+    {% for url in page.impactsImageGallery %}
+      <div class='slide'>
+        <img src='{{url}}' />
+      </div>
+    {% endfor %}
+  </div>
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col">
+        <div class="card chapters">
+          <div class="card-body">
+            <h4 class="card-title">With your help we have</h4>
+            <div class="container">
+              <div class="row">
+                <div class="col col-md-3 impact">
+                  <p class="card-title"><b>{{page.impacts.first.title}}</b></p>
+                  <div class="impact-number">
+                    {{page.impacts.first.value}}
+                  </div>
+                  <p class="text-center">{{page.impacts.first.help_message}}</p>
+                </div>
+                <div class="col col-md-3 impact">
+                  <p class="card-title"><b>{{page.impacts.second.title}}</b></p>
+                  <div class="impact-number">
+                    {{page.impacts.second.value}}
+                  </div>
+                  <p class="text-center">{{page.impacts.second.help_message}}</p>
+                </div>
+                <div class="col col-md-3 impact">
+                  <p class="card-title"><b>{{page.impacts.third.title}}</b></p>
+                  <div class="impact-number">
+                    {{page.impacts.third.value}}
+                  </div>
+                  <p class="text-center">{{page.impacts.third.help_message}}</p>
+                </div>
+                <div class="col col-md-3 impact">
+                  <p class="card-title"><b>{{page.impacts.fourth.title}}</b></p>
+                  <div class="impact-number">
+                    {{page.impacts.fourth.value}}
+                  </div>
+                  <p class="text-center">{{page.impacts.fourth.help_message}}</p>
+                </div>
+              </div>
+              <div class="row justify-content-center cta">
+                <a role="button" class="btn btn-solarchapter" href="/projects">See our Projects</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- SPONSORS -->
+<div class="section sponsors">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="chapters-title" style="margin: 40px 0;">
+          <p>Sponsors</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="sponsors-carousel bg-carousel">
+    {% for sponsor in page.sponsors %}
+    <div class="slide sponsor-img-box">
+      {% if sponsor.link %}
+      <a href="{{ sponsor.link }}" target="_blank">
+        {% endif %}
+        <img class="sponsor-img" src="{{ sponsor.image_url }}" />
+        {% if sponsor.link != blank %}
+      </a>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</div>
+<!-- AMBASSADORS & CONTACT -->
+<div class="section ambassadors-contact">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12 col-md-6 ambassadors-container">
+        <img class="ambassadors-left-background" src="{{ page.ambassadors.left.image_url }}" />
+        <div class="ambassadors-content ambassadors-content-left">
+          <div class="lead-quote">
+            {{ page.ambassadors.left.quote }}
+            <p><b>– {{ page.ambassadors.left.name }}</b></p>
+          </div>
+          <button class="btn btn-solarchapter" data-toggle="modal" data-target="#ambassadors-left-video">Watch Her video</button>
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-6 contact-container">
+        <div class="contact-content">
+          <h3>FAQ</h3>
+          <p class="card-title">{{ page.faq }}</p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-md-6 contact-container">
+        <div class="ambassadors-content contact-content">
+          <h3>Contact us at</h3>
+          <p class="card-title"><a target="_blank" href="mailto:{{page.contact.email}}">{{ page.contact.email }}</a></p>
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-6 order-first order-sm-0 ambassadors-right-container">
+        <img class="ambassadors-right-background" src="{{ page.ambassadors.right.image_url }}" />
+        <div class="ambassadors-content ambassadors-content-right">
+          <div class="lead-quote">
+            {{ page.ambassadors.right.quote }}
+            <p><b>– {{ page.ambassadors.right.name }}</b></p>
+          </div>
+          <button class="btn btn-solarchapter" data-toggle="modal" data-target="#ambassadors-right-video">Watch Her video</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- MODAL: AMBASSADORS VIDEO -->
+<div class="modal fade" id="ambassadors-left-video" tabindex="-1" role="dialog" aria-labelledby="ambassadors-left-video"
+  aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="embed-responsive embed-responsive-16by9">
+          {{ page.ambassadors.left.youtube_share_code }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="ambassadors-right-video" tabindex="-1" role="dialog" aria-labelledby="ambassadors-right-video"
+  aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="embed-responsive embed-responsive-16by9">
+          {{ page.ambassadors.right.youtube_share_code }}
         </div>
       </div>
     </div>
