@@ -1,8 +1,79 @@
+@import './_variables.scss';
 $navHeight: 73px;
 
 body {
   font-family: 'Lato', sans-serif;
   position: relative;
+}
+
+.chapters-title {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 5px;
+  position: relative;
+  z-index: -1;
+
+  p {
+    font-size: 24px;
+    margin: 0;
+    text-transform: uppercase;
+  }
+}
+
+div.lead-quote {
+  font-size: 20px;
+  background-color: rgba(252,248,227, 0.5);
+  padding: 20px 5px;
+  margin-bottom: 20px;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.lead-quote {
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.lead-quote::before {
+  font-family: 'PT Serif', serif;
+  color: $sc-primary-color;
+  content: '“';
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.05em;
+  vertical-align: -0.4em;
+}
+
+.first-reading-paragraph {
+  margin: 10px 0;
+}
+
+.first-reading-paragraph::first-letter, .chapter-text::first-letter {
+  font-size: 45px;
+  line-height: 1.5px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+#main-nav.navbar-dark {
+  .nav-item {
+    .nav-link.menu-link, .nav-link.menu-link:hover, .nav-link.menu-link:focus, .nav-link {
+      color: white;
+    }
+  }
+}
+
+#main-nav.navbar-light {
+  .nav-item {
+    .nav-link.menu-link, .nav-link.menu-link:hover, .nav-link.menu-link:focus, .nav-link {
+      color: black;
+    }
+  }
+}
+
+.container.first, .section.first {
+  padding-top: 100px;
 }
 
 // Buttons
@@ -17,7 +88,7 @@ body {
 }
 
 .btn-outline-solarchapter {
-  color: rgb(212, 197, 17);
+  color: $sc-primary-color;
   border-color: rgb(212, 197, 17);
 }
 
@@ -26,9 +97,35 @@ body {
   border-color: rgb(212, 197, 17);
 }
 
+.btn-solarchapter {
+  background-color: rgb(212, 197, 17);
+  border-color: rgb(212, 197, 17);
+}
+
+.btn-solarchapter:hover {
+  background-color: rgb(212, 197, 17);
+  border-color: rgb(212, 197, 17);
+}
+
+.btn-solarchapter-sec {
+  background-color: $sc-secondary-color;
+  border-color: $sc-secondary-color;
+}
+
+.btn-solarchapter-sec:hover {
+  background-color: $sc-secondary-color;
+  border-color: $sc-secondary-color;
+}
+
 // Header Navigation
 #main-nav-container {
   position: relative;
+  z-index: 1000; // Should take precedent over anything
+}
+
+.navbar-dark .sc-navbar.navbar-toggler {
+  color: rgba(255,255,255,1);
+  border-color: rgba(255,255,255,1);
 }
 
 #main-nav {
@@ -52,9 +149,49 @@ body {
 }
 
 @media(max-width: 576px) {
+  #main-nav {
+    .navbar-collapse {
+      border-radius: 5px;
+      background-color: white;
+      margin-top: 10px;
+      padding: 10px 20px;
+      
+      .navbar-nav, form {
+        padding: 10px;
+      }
+      
+      .nav-item {
+        .nav-link {
+          color: black;
+        }
+      }
+    }
+  }
+
+  .container.full {
+    padding-right: 0;
+    padding-left: 0;
+
+    .row {
+      margin-right: 0;
+      margin-left: 0;
+
+      .col {
+        padding-right: 0;
+        padding-left: 0;
+      }
+    }
+  }
+
   .content .container.video {
-    position: relative !important;
     padding: 10px;
+  }
+
+  .section-content {
+    video {
+      height: 500px;
+      object-fit: cover;
+    }
   }
 }
 
@@ -113,6 +250,10 @@ body {
     background: rgba(212, 197, 17, 0.8);
   }
 
+  mark.green {
+    background: #6eb252;
+  }
+
   .section-content::before {
     content: '';
     position: absolute;
@@ -137,9 +278,30 @@ span.block {
   display: block;
 }
 
+.daun {
+  display: inline-block;
+  content: url('/assets/media/daun.png');
+}
+
+.card-title {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.bg-carousel {
+  animation: carousel 120s linear infinite;
+}
+
+@keyframes carousel {
+  from { transform: translate(0, -50%) }
+  to { transform: translate(-50%, -50%) }
+}
+
 // Footer
 footer {
-  padding: 30px 0px;
+  padding: 50px 0px 20px 0;
 
   .icon-list {
     padding-top: 15px;
@@ -157,3 +319,12 @@ footer {
     color: black;
   }
 }
+
+.bg-image {
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
