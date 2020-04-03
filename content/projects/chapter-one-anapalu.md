@@ -27,7 +27,7 @@ sections:
         Anapalu village (Desa Anapalu, Sumba Tengah, Nusa Tenggara Timur, Indonesia 87281) consists of three hamlets (sub-villages). Twelve people live in the First hamlet (dusun 1) which is located 1.3 miles away from the water source. More than a hundred people live in the Second hamlet (dusun 2) which is located three miles aways from the water source, along with the the Third hamlet, whose (dusun 3) villagers are scattered around the mountains surrounding them. There are a total of 165 people in Anapalu Village, all of whom do not have clean water access. Every day they have to go through multiple six-mile journeys for water. Carrying multiple heavy Jerry Cans (Plastic Containers for water) on their back, women and children in Anapalu village have to walk through desert-like trail in order to get the water needed to stay alive. 
       <p>
   solution:
-    tabName: Proposed Solution & Project Overview Plan
+    tabName: Our Solution
     tabContent: |
       <h3 class="section">Solution Overview</h3>
       <p>
@@ -50,5 +50,8 @@ sections:
       <div class="img-container">
         <img class="img-fluid" src="https://lh3.googleusercontent.com/AZKoBY27jfvuoAoQZP_aKZzmOCe3vlEyzVHGl0kXuKuv9sRKb0fOIBepGCiga35eJIwxRJF3-h5_MsPRW3LEOheihgY9ftgUEk3EmnxigSWpqb4xgW55i8dpKSfbLNMp6M4HmagaePfp9FZV-ZavvRCH3MIXMJr4Z4plM6fs1lgo6Ie2pc4y99zxm3Hr2CiCcHEzAGIOWRlBH70NQVOx1bvkL-BJaXfEXrfUg1-6ZhhrgufvLgLe3rmUV_ZomRWu70QQHPT0gmtjnmR5fJje40Hd1mLRaFugzMfi2W1_v02Tp905ChJMGP7k8MEz85UW6ihQ5AWc-YfXhgiFsrjyXrgyM94i38dB1hVvsGIj4O7hw7j0hwG2msRdZlCr3MHHHWeJnJV8FeSLsG-U8VrD2Wgp8cwMJQ6je16GR7O5vdHgN1aFs6pc2vyX74Uw8twqgSlZgqanOuNTCGjwltRyHeAMOd7VJ2jlHzkqQOctzkYTJRrAPFScX6ES3WULzF3qlLCf_Tq5aqCVnSW6CkkL9ZlrEJfoveTldTyFEJp4L1bwynnFM_1gUm3fn8YRIU4Z175tVpDLUr_FZ3Xl5AXVwEloMwHr8xnAz551I36hkYiZVQxwZpL3rxiOQS-8GdWqkhsekGmaLI5ojXu4lgPiX0i7FRhv8jUzpE8xBJt-S8rnjp60PxRRS9LH0gPdWTF9cEqkf-zK0WNQlvlOOLTnhon0c-XE6rATk1rkuoTj761YQngPk_9BlQc=w1100-h962-no" style="width: 500px;" />
       </div>
+gallery:
+  - https://lh3.googleusercontent.com/XCz10Narn7ZR4lPp4w7Fj8vzvVwNVomSwBA4eJaTbZ9ijlDXhXzPRJhXcKaGTSOvp5rvOQIdgKd92k54znoHt3ZmSxS7UqE-PIjpCAiJKI7Ni1q6e-q64QS8lFhkv_q4I5KfjcXE-EdM17tUTuJ8P1XxMHL1CzBAEUsNZGXExP08GtFYlURpwuOK564rFcCBhWS2xT3G9hwQJyWIJNZbzA2FBMmtOx-WNw5DnY8GGGJWiX2lIO88UXLB5mjsltCHpc_Ra1eB9IibWa1JqP-MYR6I8xjoupdfgGzfNI1k5ypwrm4nTYZVWyJYQyzx0FVLniB8sB814rXyEDVRLQySBcyAdUlRXqHefN8nMbniT6_hNxmJNTontbwNY_ochRmpoqFdgvKWLQLUCXE2hXMkoYbw0sW51JOYnt8kSRUehFoFwgp0vgl1Ipf-Z3xqlMcQuW5dlTLlkNLvUG0zr2xGIScSkMVjOs8U1oTMkQykzazpXXWvAxn8hd40H2fDXWcOTcziIPPmwo6msuASYnW7CGGsDK4dqwB0VpQ-I4URiCWsYoF9gncx45xeB98T2dqz6bU1-Epbqr59sjaBeElRftMc3NNLt_x2f9S5ntMqqLUHtkGp8AXMULjEnEGnsfESOwCFrixVf27w235EdyKbmdA0oDwZad7r0HXCzrFMMGyKWHPVaOUMzqCcAt94hhbS9nMU_lMPOuHD74qrfLWYKGxutWVJwvPKefstuXHyVU2_8C0TbtrhuQs=w1280-h720-no
+ 
 fundraisingUrl: https://kitabisa.com/campaign/solarchapteranapalu
 ---
