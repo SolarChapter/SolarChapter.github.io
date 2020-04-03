@@ -55,15 +55,15 @@ impacts:
     value: "3569 people"
     help_message:
   second:
-    title: "Villages Served"
-    value: "5"
+    title: "Served"
+    value: "5 villages"
     help_message:
   third:
-    title: "Branch"
+    title: "Branched out to"
     value: "5 universities"
     help_message: "around the world"
   fourth:
-    title: "Has involved"
+    title: "Involved"
     value: "87 students"
 sponsors:
   - pt_wahana_duta_jaya_rucika:
