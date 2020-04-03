@@ -81,7 +81,7 @@ sections:
         <b>"Despite no running water, every day the classrooms are full of kids in white and red uniforms, still eager to learn"</b>
       </div>
   solution:
-    tabName: "Solution"
+    tabName: "Our Solution"
     tabContent: |
       <div class="img-container">
         <img src="https://lh3.googleusercontent.com/zsnA2TQCTHpWDMwHPHbDSv8UGuSlJ9KJGwcDDJej9RNoXrtDcAGumiBKny2O30ViXFLIjzOPkhUCeAf9nx7FEAeBjitpaI_wYuzxxr5W3Wq4sJIfE4J9UY2d8kCvt1t4K3qiBS3dvaNYgIGUySRXt7s7bWNCDz1xM75BTb6uuXu5y1HxiLb4n8H3VraoS3sbGp8b8Es6xoOqf64UrFOl2nfvvlSVvvtq0AB0D4RQzlnWbNdvl8DK9CRLNYittpepWBTSAsU6eyBkCreMfKXV9-2-ZXiRQQwa9DIuQdCYJbpHW5aqX4eiEC95VO_wbjs2VHqe5X1sFsz7AakiXZfDARbTI3OavvCHEelN9dJDPBOKVbCEH2-2z1QEWGmRvNsGwFtcdbGW2CE_SztfG_Ds2J9BYN62vOtDp3YLRY8G8KbqXufoI10i15RMwzmQVXNrb2pfTwM3fzFN2vXKRKf9mNEXntz5dwDO_KoZ8PWw8iu2efprLMRsN4sGc2Y7B0_NkHEMTk2xN4gLWKA7dhhN7hLBFplpVlfwmU69fpR9B3FNwVwR1LIrPnByUxTUHa1IG4MTa_ImKzoUFQ8RcTafo_f2gEReOtcgunlvgTSRy9O3U9zq7cqLJrv5SgtcZc-Cpof3gaA_4lS_TkBvzZWZqOvAjHIGvGAt2c-yAcHg1doz4GrkWwdhpOhgpfWrqorvVCEmolSBbd0ui1ql8mmBj3ArrSZPzIE7msKA_egPE7uXErXqXKMjr7s=w1204-h686-no" class="img-fluid" />
