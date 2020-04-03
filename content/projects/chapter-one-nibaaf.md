@@ -47,6 +47,9 @@ sections:
       <p>
         Below are our budget details for our project and we will keep updating it once we finalized the design from the technical team. A large portion of our finances come include material and tools and we are negotiating with the suppliers to lower the final cost.
       </p>
+      <div class="img-container">
+        <img src="https://lh3.googleusercontent.com/RQ_EFgNujS694F7eioBJ6b7Z4jDIgf5mhAy4RZHlVjagcE8vHjTKB9rQ2sAZSLWOEGSI68IKlHr4B_TV5Aqrt_m5UuCrdKUbD_2Jii04kAS6ZDyvpwIB-nEllAPdZgt0IV52g7H96pV5jqmdabpw7Ds8Zsn2QqyFkJ6EP1-VFeNqp-rj3M42DM4XwnOURwzInbQzFsYMjXXABKhi4IOYJ8EXzEUU2n_Hq8-gtKxdYT1vfXICZcSyVEa1ze7PBOWDucdqhYe053DRFL1sLMpBQPozKYmtu994kEFH7pwBPdr1jI8Lmxlh6yVRHW6hU2xq-4iz-VQDyXs21Ebu0wVaFSIya4dzJsbEFcw1KC4fy_R9wxlhnhhi_KfF1eByW7D0cSBJ7kYy9D4pCR4dLNhEI0r2Itv-rl4vIAiyewYP0pneqpGlkUrForcnQkNQxRp0t4nTgsiyjJBdFmkOQLn-ARjAYUIeBM3SODVGWxvUT838PUQRFRmS3TQKuDN1H7ZddqHSFaZZaFoxjB61eDLSyTRar4ir2MtfKggWsnjz_u_npN85nd-toa8r5Sb2APQVNIUgMmDfHy7p1oYRASJG_g274ss2D9UNhS2FHNQiCw-0RI8qA7oD-lVyttubg-1vMOkjvaF72DSh_5_QVkz0n6DKcdsP-hzasxq8pOIvUPAs4ZLsasO5Q32DM5CqHOB-ETQxN7ArM5DE6Zl6YEC0955x9NuAnEWY7dQ052Kj69kYj6WfHaLy1MI=w408-h576-no" class="img-fluid" />
+      </div>
       
 fundraisingText:
 fundraisingUrl: https://kitabisa.com/campaign/waterfornibaaf
