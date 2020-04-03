@@ -20,7 +20,7 @@ sections:
     tabName: "Background"
     tabContent: |
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Iq4lWUq2xlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/FMDTEK23afc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <br/>
       <div class="table-responsive">
@@ -88,6 +88,318 @@ sections:
       </div>
       <div class="img-container">
         <img src="https://lh3.googleusercontent.com/sU4zMBQKhfrqPtSuHIEKn8CHTkp_oqTTYDGkqcO1oBJaVHKKsAorN0HK4VXcTKOME90WiqZibeGufTvNUhtaMejT35yAL3HDOR5sBjH7RS2O90fh1iC94jaC95909KPj0Bb32Y_rKhdgsefT0ZrnDpeDz0uBFyrF_Dhr0uSL02eqr1T-6KQ59Wfp3-mJkPX9baSrPY7IJ0MIoyupCmDwYNhCNDqanpEPseFTK0zrx2NhWkk-iYsFg-p9mBhtT06J_PyxwLEU2krCS5TRpEXAtKctCvTAHBSyeesBkHn2EMHTKp6LdYCIHJAu0MQ4N1SnvYowsnw3EaUBkAKlmqfO8SUSZ_FEZBX7kjPOdPDsZWoxITuJUDUb4YAgYUHw0nXO7SLoPkm1jWt3IWf6kpwG8gxRAGEYSvpR2Uc15zujT-QSnRGxV5MQW-uER-8BRZOUwbaAnbtUhKzsGAXwUWxU5XhIOwAC-cZ7ccvrgse58-32KNij7hZQ1sN3z_h6jAemPwa44l5VCNkAHKe1IrIow2rJvoAmPx2N9e7IHJFP9fO8D-SH1aRNAXjvY9Fv6XBR2qFV1wAw7Hn5mYAn2XkPVC73Z7uAlZYacnzmJuGLSenRpORKUQmqjZ5rt3EFCL--p_51FnJJ6glqdkl8GvV1UsUDy2kYqqKv-DMZFUFzmGunxdc98QR_9GUbz0sDN3kRCj8khc7234SO-floBC7avgniKplrkVIXTzqoKCNHbHQPOUphtC1ywsk=w1184-h512-no" class="img-fluid" />
+      </div>
+      <div class="table-responsive">
+        <table class="table table-sm table-bordered">
+          <tbody>
+            <tr>
+              <td>&nbsp;</td>
+              <td>
+                <span style="font-weight: 400;">Price</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Unit</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Unit Price</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Total Price</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <strong>SCHOOL REHABILITATION</strong>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Library Materials</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">1</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Project</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,500,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,500,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+              <span style="font-weight: 400;">Fix broken, run down ceilings</span>
+              </td>
+              <td>
+              <span style="font-weight: 400;">1</span>
+              </td>
+              <td>
+              <span style="font-weight: 400;">Project</span>
+              </td>
+              <td>
+              <span style="font-weight: 400;">Rp. 41,122,500.00</span>
+              </td>
+              <td>
+              <span style="font-weight: 400;">Rp. 41,122,500.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Plafond triplek 4mm</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">175</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>
+                <span style="font-weight: 400;">Rp. 50,700.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 8,872,500.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Site Preparation</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">1</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Project</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 7,300,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 7,300,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <strong>SANITATION</strong>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Materials</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">1</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Project</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,400,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,400,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Water Tank 3600 L Merk Profil</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">1</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,000,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,000,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Solar Lighting</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">2</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>
+                <span style="font-weight: 400;">Rp. 300,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 600,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <strong>PIPING</strong>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">HDPE Black D40mm</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">450</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">m</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 22,700.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 10,215,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <strong>RESEVOIR EXPANSION(12000L to 24000L)</strong>
+              </td>
+              <td>
+                <span style="font-weight: 400;">1</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Project</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 25,000,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 25,000,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <strong>SITE VISIT EXPENSE</strong>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>
+              <span style="font-weight: 400;">Airplane Ticket</span>
+              </td>
+              <td>
+              <span style="font-weight: 400;">5</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>
+              <span style="font-weight: 400;">Rp. 3,500,000.00</span>
+              </td>
+              <td>
+              <span style="font-weight: 400;">Rp. 17,500,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Ground Transport</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">4</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Days</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 500,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 2,000,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Accomodation</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">4</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Days</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 500,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 2,000,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <strong>ADDITIONAL COST</strong>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Labor Cost</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,000,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">Shipping</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">1</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Project</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,000,000.00</span>
+              </td>
+              <td>
+                <span style="font-weight: 400;">Rp. 5,000,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">UNFORSEEN EXPENSE (10%)</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>
+                <span style="font-weight: 400;">Rp. 14,051,000.00</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <span style="font-weight: 400;">GRAND TOTAL</span>
+              </td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>
+                <strong>Rp. 154,561,000.00</strong>
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </div>
   budget:
     tabName: "Budget"
@@ -407,6 +719,10 @@ sections:
   implementation:
     tabName: "Implementation"
     tabContent: |
+     <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Iq4lWUq2xlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <br/>
       <p class="first-reading-paragraph">
         An effort to solve these problems, Solar Chapter expanded their pipelines to As Manulea village as well as renovated the facilities in As Manulea Public Elementary School as the theme for the second project. Through hard work and persistence of the entire Solar Chapter team, as well as generosity from all who donated, we were able to raise Rp. 157,483,849.00 in offline donations and crowdfunding systems from the website, Kitabisa.com. These donations will help meet the financial needs for the mission of this project.
       </p>
