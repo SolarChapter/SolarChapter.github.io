@@ -38,7 +38,7 @@ layout: base
                             <a class="donate-card-cta btn btn-solarchapter-sec btn-sm btn-block" target="_blank" href="{{ donation_card[1].projectLink }}">Project Details</a>
                             <hr />
                             {% for donationLink in donation_card[1].donationLinks %}
-                            <a class="donate-card-cta btn btn-solarchapter btn-sm btn-block" href="{{ donationLink[1].link }}">{{ donationLink[1].title }}</a>
+                            <a class="donate-card-cta btn btn-solarchapter btn-sm btn-block" target="_blank" href="{{ donationLink[1].link }}">{{ donationLink[1].title }}</a>
                             {% endfor %}
                         </div>
                     </div>
