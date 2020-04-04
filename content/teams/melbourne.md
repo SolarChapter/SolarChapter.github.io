@@ -16,9 +16,6 @@ officers:
   - image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1585683832/Solar%20Chapter%20Website/teams_page/melbourne/FALL_19_TEAM_PHOTO/Sarah_Sentoso_adcyij.png
     name: Sarah Sentoso
     title: President
-  - image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1585683823/Solar%20Chapter%20Website/teams_page/melbourne/FALL_19_TEAM_PHOTO/Kezia_Kalesaran_invk3j.png
-    name: Kezia Kalesaran
-    title: Secretary
   - image_url: https://res.cloudinary.com/db1a3rvdf/image/upload/v1585683823/Solar%20Chapter%20Website/teams_page/melbourne/FALL_19_TEAM_PHOTO/Natasha_Handoko_mxmmvb.png
     name: Natasha Handoko
     title: Treasurer
