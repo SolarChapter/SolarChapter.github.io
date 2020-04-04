@@ -46,5 +46,11 @@ sections:
       <div class="img-container">
         <img class="img-fluid" src="https://lh3.googleusercontent.com/AZKoBY27jfvuoAoQZP_aKZzmOCe3vlEyzVHGl0kXuKuv9sRKb0fOIBepGCiga35eJIwxRJF3-h5_MsPRW3LEOheihgY9ftgUEk3EmnxigSWpqb4xgW55i8dpKSfbLNMp6M4HmagaePfp9FZV-ZavvRCH3MIXMJr4Z4plM6fs1lgo6Ie2pc4y99zxm3Hr2CiCcHEzAGIOWRlBH70NQVOx1bvkL-BJaXfEXrfUg1-6ZhhrgufvLgLe3rmUV_ZomRWu70QQHPT0gmtjnmR5fJje40Hd1mLRaFugzMfi2W1_v02Tp905ChJMGP7k8MEz85UW6ihQ5AWc-YfXhgiFsrjyXrgyM94i38dB1hVvsGIj4O7hw7j0hwG2msRdZlCr3MHHHWeJnJV8FeSLsG-U8VrD2Wgp8cwMJQ6je16GR7O5vdHgN1aFs6pc2vyX74Uw8twqgSlZgqanOuNTCGjwltRyHeAMOd7VJ2jlHzkqQOctzkYTJRrAPFScX6ES3WULzF3qlLCf_Tq5aqCVnSW6CkkL9ZlrEJfoveTldTyFEJp4L1bwynnFM_1gUm3fn8YRIU4Z175tVpDLUr_FZ3Xl5AXVwEloMwHr8xnAz551I36hkYiZVQxwZpL3rxiOQS-8GdWqkhsekGmaLI5ojXu4lgPiX0i7FRhv8jUzpE8xBJt-S8rnjp60PxRRS9LH0gPdWTF9cEqkf-zK0WNQlvlOOLTnhon0c-XE6rATk1rkuoTj761YQngPk_9BlQc=w1100-h962-no" style="width: 500px;" />
       </div>
-fundraisingUrl: https://kitabisa.com/campaign/solarchapteranapalu
+fundraisingLinks:
+  kitabisa:
+    title: Donate through Kitabisa
+    link: https://kitabisa.com/campaign/solarchapteranapalu
+  gofundme:
+    title: "Donate through Gofundme"
+    link: https://www.gofundme.com/f/clean-water-access-for-anapalu-village-indonesia?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
 ---

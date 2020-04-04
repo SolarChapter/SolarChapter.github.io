@@ -414,5 +414,8 @@ sections:
         The results were more than satisfactory. The fundamental education supplies were sent on time and the process of transforming the library into a “Ruang Kreatif” was successful. The students and parents were very much involved in painting and decorating the room. The sanitation facilities were successfully implemented and the ceilings were replaced in a timely manner. We have witnessed first-hand how this project brings joy to more than  200 students in SDN As Manulea. Now, these kids can spend their time in the library instead of carrying jerry cans
       </p>
 fundraisingText:
-fundraisingUrl: https://kitabisa.com/campaign/solarchapter2 
+fundraisingLinks:
+  kitabisa:
+    title: Donate through Kitabisa
+    link: https://kitabisa.com/campaign/solarchapter2 
 ---

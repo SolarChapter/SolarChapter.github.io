@@ -57,5 +57,8 @@ sections:
         <img src="https://lh3.googleusercontent.com/5ij_4PDmNazGGJMZcBUp0-ezlIqL75uAdaTasgdOsChl8PaIvA6ZVIkkNrsCdsjROa0yEaYPMPX8IFKNeF4eafb42zAmASaMoIJF5R9jUwzAPp0RCu65c5_2ZEzw77mmDHNkHbrljSZgu30_9QpK2nsbVpZjqvW5YThMNyO61maaZTBXsU5ykpUC-5Ys5Ql8NJFkcfqnkQNlwHJ-ca7ayOrcoMlF1Vdwxuh3HL4RIHCEY0VKByZbm9iIc6utB8X6e3ZlsZ6wGWyQvM0HNscr4qK_QY-dWgJIg8icLhxv0XJJcvmZTyFd8_dnuW1IdVUVu4hALpf1lAeA1TYrFnmVpuSbmSwsLxJxwLS-gx5T83xUzjGH-gMiMt9MSG5nhhOOcsbRZPvQ3s5n_Cwl_X4xzlDwrsUkjZ2Z1AkYQPVUSS-hLbM6yJjmN6XJj_44N3qqSgPSyzXsICCsv2UBuiI2Jmo464YhGFXOzcv0V3JvddhpsnrY-I47owKEF5tI2x9Cur1vMaz8bf5kNHxfPWh30m2mkMqmDp5_Qeiua9PzcdIR85JBop-NwBDMCDAKLW818N8uA99HBTab_hK8fEizPPRUjel3gS6vGtwda_0B4MkyFvEdVx4OY6Sf7E5A2VLxXCl00ejsLDgYHhySKCMxb9j-zZ0zsnud3sPGT56FDJaFLeV9SIPzo3YjvqOQwXX0NA51rv0-WRrUCwQYvhsztqU0QMx68JPqwpAr2UnsmrnrvnAK00ZvgtQ=w1442-h604-no" class="img-fluid" />
       </div>
 fundraisingText:
-fundraisingUrl: https://kitabisa.com/campaign/waterfornibaaf
+fundraisingLinks:
+  kitabisa:
+    title: Donate through Kitabisa
+    link: https://kitabisa.com/campaign/waterfornibaaf
 ---
