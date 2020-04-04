@@ -32,7 +32,7 @@ layout: base
     <div class="row align-items-center">
         {% for donation_card in page.donation_cards %}
             <div class="col-xs-12 col-md-4">
-                <div class="card border-secondary donation-cards card-item">
+                <div class="card donation-cards card-item">
                     {% if donation_card[1].imageUrl %}
                     <img src="{{ donation_card[1].imageUrl }}" class="card-img-top" />
                     {% endif %}
