@@ -25,6 +25,9 @@ donation_cards:
       kitabisa:
         title: "Donate through Kitabisa"
         link: https://kitabisa.com/campaign/solarchapteranapalu
+      gofundme:
+        title: "Donate through Gofundme"
+        link: https://www.gofundme.com/f/clean-water-access-for-anapalu-village-indonesia?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
   malaka_nibaaf_chapter_one:
     title: "Chapter One: Water for Nibaaf"
     description:

@@ -98,3 +98,11 @@ blockquote {
   width: 100%;
   text-align: right;
 }
+
+.btn.donate-cta {
+  margin: 20px 0;
+}
+
+.btn.donate-cta:last-of-type {
+  margin-bottom: 0;
+}

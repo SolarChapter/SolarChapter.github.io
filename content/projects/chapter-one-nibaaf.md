@@ -52,5 +52,8 @@ sections:
       </div>
       
 fundraisingText:
-fundraisingUrl: https://kitabisa.com/campaign/waterfornibaaf
+fundraisingLinks:
+  kitabisa:
+    title: Donate through Kitabisa
+    link: https://kitabisa.com/campaign/waterfornibaaf
 ---

@@ -100,7 +100,13 @@ layout: base
           {% else %}
             <p class="card-text">You help is always appreciated. To support our project, you can make a donation to us</p>
           {% endif %}
-            <a href="{{ page.fundraisingUrl | default: '/donate' }}" class="btn btn-solarchapter">Donate</a>
+          {% if page.fundraisingLinks and page.fundraisingLinks.size > 0 %}
+            {% for fundraisingLink in page.fundraisingLinks %}
+              <a href="{{ page.fundraisingLink[1].link }}" class="btn btn-solarchapter btn-block donate-cta">{{ fundraisingLink[1].title }}</a>
+            {% endfor %}
+          {% else %}
+            <a href="/donate" class="btn btn-solarchapter btn-block donate-cta">Donate</a>
+          {% endif %}
         </div>
       </div>
     </div>

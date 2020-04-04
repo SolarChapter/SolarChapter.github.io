@@ -63,5 +63,8 @@ sections:
         <img src="https://lh3.googleusercontent.com/Wo9PlPeX75t-g9plHeEAXRgPCglSye7HilwMZE_fRwgheUVeqqIMvqpTScthQ1bBau781s0bstM7Hjp4rOkJBHq7r4ubkjkA5PJ52bhjcUXEVIxee94jvsoRcx82boOxKLULCZB7HAGIPhNxBm5igypD5v78Gj9IE3HI7FcB1_QWezWgnLVPvR0V2ANZMkUxpzFBMY-k092PBHN5498pVLuY15AM0x_PdeMXzXk7BLgXgEFzn4UwZnRt2gL9FETIbuDfVAVvANSyE6Dxzdr63pAgdex0pSk7SkSwUQjrzEUuTF5iSBHK6v9lrSmdlC__NyzdDOIf4jXqrS6WO0PjHwJiobxokDeiYo4IJ_vazlgJVvdpPECEJwA1YVHQLFnTEDSy3fZMFbLyFOURnQCU44d9maGsF6fuE1tKjlNo2t0W8Pxxp5lHTzzDpB6dyhEVsNSm1AH9ufa8TttOqA6t2KmlP_TMDLauOa0KzLcj7d3YAAfccuK1_0FBrGcUnqTQ0ET2qInqMcPjZCtIyBtzRETUaGtqt4fPIKZI7wjvIyhCbQWIcm1gesLm3XEFihIkC34IS5UEW_n5G_5QqyqFNCKmOTpQK4E3N3Q9JguQ4C0YljmQQYIHY2DBvZtmlmXQ6zrwnFIGOiqy7F1Wdqm0SoHSllJ-v5qyOrJxgOmWVBSN7H6wEeUDS_qbdtOLL2dj2nDN3RefdWUUgRcxZMYlARrMR-c-d2bEYX36Z8g8qYRPoLPCmYyae9w=w1196-h316-no" class="img-fluid" />
       </div>
 fundraisingText:
-fundraisingUrl: https://kitabisa.com/campaign/waterforbiau
+fundraisingLinks:
+  kitabisa:
+    title: Donate through Kitabisa
+    link: https://kitabisa.com/campaign/waterforbiau
 ---
