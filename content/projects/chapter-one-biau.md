@@ -36,7 +36,7 @@ sections:
         Flash forward to Desa Biau, a village in East Nusa Tenggara, not too far from where our first project was established, we decided to take on our second water initiative. Biau is a community that makes their living through growing and selling sirih (betel leaves). They spend their time tending their crops while the kids would go to school, and on rainy days, they pool rain water to have water for their crops. The village has over 700 residents, spanning different ages, and a water source 4km (2.5mi) away. Similar to Umutnana, residents had to carry jugs of water and walk for miles, taking up precious time in their day. 
       </p>
       <p>
-        This is not Biau’s first water initiative. Previously, there was a government initiative that designed a water distribution system to allow immediate access to water in the village. Unfortunately, the system had a design flaw and used diesel—a much more expensive source of energy. All in all, this initiative, failed to bring residents access to water. 
+        This is not Biau’s first water initiative. Previously, there was a government initiative that designed a water distribution system to allow immediate access to water in the village. Unfortunately, the system had a design flaw and used diesel— a much more expensive source of energy. All in all, this initiative, failed to bring residents access to water. This is only one of the many examples of the inequality in infrastructure development in Indonesia. For this reason, we hope we can help and improve the quality of life of these people, starting from their basic necessities—clean water.
       </p>
       <div class="lead-quote">
         <b>"Indonesia has been Independent for over 70 years, but we still don’t have access to water without having to walk for miles"</b> - Biau Resident
@@ -45,8 +45,12 @@ sections:
     tabName: "Solution Overview and Project Overview Plan"
     tabContent: |
       <p class="first-reading-paragraph">
-        In another collaboration with PAMSIMAS (A National Platform for Rural Water Supply and Sanitation) a government platform aimed to provide easier access to clean water for residents in rural areas of Indonesia. We plan to fix the water distribution system from the main water source, while utilizing solar panels and pumps. At only 10% of the cost, solar energy serves as a cheaper, more environmentally friendly alternative to diesel.
+        In another collaboration with PAMSIMAS (A National Platform for Rural Water Supply and Sanitation) a government platform aimed to provide easier access to clean water for residents in rural areas of Indonesia. We plan to fix the water distribution system from the main water source, while utilizing solar panels and pumps. 
       </p>
+                                        
+      <p>
+      Through consultation with our technical team and suppliers, we have determined our preliminary systems layout. Our plan includes about 40 solar panels and a submersible pump, that will support the geography and needs of the village, as listed Additionally, the higher elevation will allow us to use gravity to our advantage, so we plan to use bamboo pipe from the existing water source to a reservoir (A) that will be built in collaboration with the village. This is where we would place the solar pump system and use 3km of HDPE pipes to deliver water to an existing reservoir (B) in the village. The reservoir is placed at the highest point of the village, and will then be distributed to community taps closer to the villager’s homes.
+     </p>                                   
   timeline:
     tabName: "Timeline"
     tabContent: |
