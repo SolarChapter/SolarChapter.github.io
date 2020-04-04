@@ -1,10 +1,14 @@
+const pinLatThreshold = -1.55
+const pinLongThreshold = 0.75
+
 const data = [
   {
-    name: "Central Sumba",
+    provinceName: "East Nusa Tenggara",
+    regencyName: "Central Sumba",
     radius: 20,
     fillKey: "in_progress",
-    latitude: -9.555181,
-    longitude: 119.649682,
+    latitude: (-9.555181 - pinLatThreshold),
+    longitude: (119.649682 - pinLongThreshold),
     data: {
       "Anapalu": [
         {
@@ -15,11 +19,12 @@ const data = [
     }
   },
   {
-    name: "Malaka",
+    provinceName: "East Nusa Tenggara",
+    regencyName: "Malaka",
     radius: 40,
     fillKey: "in_progress",
-    latitude: -9.512735,
-    longitude: 124.905442,
+    latitude: (-9.512735 - pinLatThreshold),
+    longitude: (124.905442 - pinLongThreshold),
     data: {
       "As Manulea": [
         {
@@ -42,11 +47,12 @@ const data = [
     }
   },
   {
-    name: "North Timur Tengah",
+    provinceName: "East Nusa Tenggara",
+    regencyName: "North Timur Tengah",
     radius: 20,
     fillKey: "in_progress",
-    latitude: -9.387957,
-    longitude: 124.561905,
+    latitude: (-9.387957 - pinLatThreshold),
+    longitude: (124.561905 - pinLongThreshold),
     data: {
       "Biau": [
         {
@@ -91,18 +97,13 @@ $(document).ready(function() {
       },
       // dataUrl: "/assets/data/indonesia-topojson-city-regency.json" // With Kabupaten data
     },
-    // data: {
-    //   "ID.NT": {
-    //     name: "Malaka",
-    //     status: "In-Progress",
-    //     fillKey: "in_progress"
-    //   }
-    // }
   });
 
-  map.bubbles(data, {
+  map.addPlugin('pins', datamap_icons);
+
+  map.pins(data, {
     popupOnHover: true,
-    popupTemplate: function(geography, data) {
+    popupTemplate: function(data) {
       const villagesData = data.data;
       const villagesKeys = Object.keys(villagesData);
       const infoHtml = $("<ul></ul>").attr({ class: "hover-info list-group" });
@@ -124,6 +125,19 @@ $(document).ready(function() {
       }
 
       return infoHtml[0].outerHTML;
+    },
+    onClick: function(data) {
+      $("#project-table tr").each(function(index, element) {
+        if ($(element).data("province") != data.provinceName && $(element).data("regency") != data.regencyName) {
+          $(element).css({
+            display: "none"
+          });
+        } else {
+          $(element).css({
+            display: "table-row"
+          });
+        }
+      });
     }
   })
 
@@ -145,5 +159,11 @@ $(document).ready(function() {
   // Project table
   $(".clickable-row").click(function() {
     window.location = $(this).data("href");
+  });
+
+  $("#view-all-projects-button").click(() => {
+    $("#project-table tr").css({
+      display: "table-row"
+    });
   });
 });

@@ -9,7 +9,6 @@ p {
 }
 
 .donation-cards {
-    padding: 20px 0 50px 0;
     margin-bottom: 20px;
 }
 
@@ -22,6 +21,7 @@ p {
 }
 
 .bg-image {
+    position: relative;
     padding-top: 100px;
 }
 
@@ -37,4 +37,8 @@ p {
 
 .donate-cta {
     margin: 10px;
+}
+
+.donation-card-container {
+    padding-top: 40px;
 }
