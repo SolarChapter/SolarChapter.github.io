@@ -28,6 +28,10 @@ const data = [
     data: {
       "As Manulea": [
         {
+          title: "Chapter One: Water for As Manulea",
+          status: "Completed"
+        },
+        {
           title: "Chapter Two: Education for As Manulea",
           status: "Completed"
         }
@@ -42,6 +46,12 @@ const data = [
         {
           title: "Chapter One: Water for Umutnana",
           status: "Completed"
+        }
+      ],
+      "Multiple Villages": [
+        {
+          title: "Chapter Three: Community Development",
+          status: "In-Progress"
         }
       ]
     }
