@@ -19,11 +19,15 @@ sections:
   background:
     tabName: "Background"
     tabContent: |
+     <div class="embed-responsive embed-responsive-16by9">
+     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jRj_AQMGHq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <br/>
       <p class="first-reading-paragraph">
         Anapalu village (Desa Anapalu, Sumba Tengah, Nusa Tenggara Timur, Indonesia 87281) consists of three hamlets (sub-villages). Twelve people live in the First hamlet (dusun 1) which is located 1.3 miles away from the water source. More than a hundred people live in the Second hamlet (dusun 2) which is located three miles aways from the water source, along with the the Third hamlet, whose (dusun 3) villagers are scattered around the mountains surrounding them. There are a total of 165 people in Anapalu Village, all of whom do not have clean water access. Every day they have to go through multiple six-mile journeys for water. Carrying multiple heavy Jerry Cans (Plastic Containers for water) on their back, women and children in Anapalu village have to walk through desert-like trail in order to get the water needed to stay alive. 
       <p>
   solution:
-    tabName: Proposed Solution & Project Overview Plan
+    tabName: Our Solution
     tabContent: |
       <h3 class="section">Solution Overview</h3>
       <p>
@@ -53,4 +57,6 @@ fundraisingLinks:
   gofundme:
     title: "Donate through Gofundme"
     link: https://www.gofundme.com/f/clean-water-access-for-anapalu-village-indonesia?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet
+gallery:
+  - https://lh3.googleusercontent.com/XCz10Narn7ZR4lPp4w7Fj8vzvVwNVomSwBA4eJaTbZ9ijlDXhXzPRJhXcKaGTSOvp5rvOQIdgKd92k54znoHt3ZmSxS7UqE-PIjpCAiJKI7Ni1q6e-q64QS8lFhkv_q4I5KfjcXE-EdM17tUTuJ8P1XxMHL1CzBAEUsNZGXExP08GtFYlURpwuOK564rFcCBhWS2xT3G9hwQJyWIJNZbzA2FBMmtOx-WNw5DnY8GGGJWiX2lIO88UXLB5mjsltCHpc_Ra1eB9IibWa1JqP-MYR6I8xjoupdfgGzfNI1k5ypwrm4nTYZVWyJYQyzx0FVLniB8sB814rXyEDVRLQySBcyAdUlRXqHefN8nMbniT6_hNxmJNTontbwNY_ochRmpoqFdgvKWLQLUCXE2hXMkoYbw0sW51JOYnt8kSRUehFoFwgp0vgl1Ipf-Z3xqlMcQuW5dlTLlkNLvUG0zr2xGIScSkMVjOs8U1oTMkQykzazpXXWvAxn8hd40H2fDXWcOTcziIPPmwo6msuASYnW7CGGsDK4dqwB0VpQ-I4URiCWsYoF9gncx45xeB98T2dqz6bU1-Epbqr59sjaBeElRftMc3NNLt_x2f9S5ntMqqLUHtkGp8AXMULjEnEGnsfESOwCFrixVf27w235EdyKbmdA0oDwZad7r0HXCzrFMMGyKWHPVaOUMzqCcAt94hhbS9nMU_lMPOuHD74qrfLWYKGxutWVJwvPKefstuXHyVU2_8C0TbtrhuQs=w1280-h720-no
 ---
