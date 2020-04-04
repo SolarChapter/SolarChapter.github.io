@@ -59,7 +59,7 @@ sections:
         </b>
       </div>
   solution:
-    tabName: "Solution"
+    tabName: "Our Solution"
     tabContent: |
       <p class="first-reading-paragraph">
         Solar Chapter will collaborate with PAMSIMAS (A National Platform for Rural Water Supply and Sanitation) to provide easier access for clean water. Our plan is to build a reservoir to collect water from three water sources, which will then deliver the water to the distribution tank near the village by using solar pumps. From the distribution tank, the water will be distributed to 16 public faucets across the village.
