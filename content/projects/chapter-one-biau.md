@@ -46,7 +46,10 @@ sections:
     tabContent: |
       <p class="first-reading-paragraph">
         In another collaboration with PAMSIMAS (A National Platform for Rural Water Supply and Sanitation) a government platform aimed to provide easier access to clean water for residents in rural areas of Indonesia. We plan to fix the water distribution system from the main water source, while utilizing solar panels and pumps. 
-      </p>                              
+      </p> 
+      <div class="img-container">
+        <img src= "https://lh3.googleusercontent.com/Kd6hBfioZGj7q8ROajaBxkJjuWLW1mjQ6y4bIZWGaXrJ_AmbKjnIk6CF0R3wMyMbrqCGWvVzXtt_7CXS48sh-WdqwmucSGKpV7Npgm2OjyCWaSYDe7Cr-E--YpZYiT0FynaJ8PyuzRdW2Qkyd11kQnINgdwjvvCTg7R8zJnsPwsSI2znyLurT3KGoyLM4BCeEbZeilI4BiT1622UXE0RX_Tuq85SEuhsxBJnpqIlnWMgpodEvvXxdIQqt2qLx0ARs95PT-TjX-CTM7FoNKEpQjnxM1Nr5m7B7od49a2HxSXWZb2OR-MMyp4kDIAdHgb0yp0IK1uEZmdRgb8XoJ8PPrv2Yk4fXPjwELUIZwiFfTM66H2_L_A721uIHpAfu4iiGBMUT2oajfyLYcCrBgClINnOMKYeJYiK3gs5pqWylahC6mQpcuJUCv3NtWNNR8AqDnowBC1cy3xwa-bIPyrzo6IIsvLhxLtKpGwkwQGiWNEWphRw1Fmeb5q5kIfWel0BB_sq7kqH2N_72MoKZbcjq-Cel8rxWrEc8QrNcHg4ZUIZaIWAvjgNAgBgsxGgxamJOAy91sqpkbhCUE38pZhBhYQrgP47JAjxqAK2iPejoFguuGwA1kZZgFeQNxS5yS_hdM6ejcDK9Fje8wfLK9NM3mB1D2do2X9LlH27_7FafRay0L-QcUwvS7slyawZDXYzp0ymCb54vqclaPDPfJzRwd-3ksMPyT-i6StTYttf9-D3-LAdgorI7A=w995-h1029-no" class="img-fluid" />
+      </div>
       <p>
         Through consultation with our technical team and suppliers, we have determined our preliminary systems layout. Our plan includes about 40 solar panels and a submersible pump, that will support the geography and needs of the village, as listed Additionally, the higher elevation will allow us to use gravity to our advantage, so we plan to use bamboo pipe from the existing water source to a reservoir (A) that will be built in collaboration with the village. This is where we would place the solar pump system and use 3km of HDPE pipes to deliver water to an existing reservoir (B) in the village. The reservoir is placed at the highest point of the village, and will then be distributed to community taps closer to the villager’s homes.
       </p>
