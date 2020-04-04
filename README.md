@@ -26,6 +26,7 @@
 
 ### Adding a new project page?
 1. Check the [first project page](content/projects/chapter-one-umutnana.md) and use it as an example.
+See example commit: https://github.com/bab-surya/bab-surya.github.io/pull/34/commits/e13d751b6a1004ae137653bf3ec321d74fa56cf1
 
 ### Editing map in the projects page?
 Note: Province and Regency in the markdown and javascript file should be the same!
