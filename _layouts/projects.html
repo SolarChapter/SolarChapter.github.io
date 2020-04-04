@@ -37,28 +37,30 @@ layout: base
   </div>
   <div class="row">
     <div class="col offset-md-1 col-md-10">
+      <div class="float-right"><button id="view-all-projects-button" class="btn btn-solarchapter" style="margin-bottom: 20px">Show All Projects</button></div>
       <div class="table-responsive">
-        <table class="table table-bordered">
+        <table class="table table-bordered" id="project-table">
           <tbody>
             {% for province in page.projects %}
-              <tr class="table-active">
+              <tr class="table-active" data-province="{{ province.provinceName }}">
                 <th>Province: {{ province.provinceName }}</th>
               </tr>
               {% for regency in province.regencies %}
-                <tr class="table-active">
+                <tr class="table-active" data-regency="{{ regency.regencyName }}">
                   <th class="regency">Regency: {{ regency.regencyName }}</th>
                 </tr>
                 {% for place in regency.places %}
-                  <tr class="table-active">
+                  <tr class="table-active" data-regency="{{ regency.regencyName }}">
                     <th class="place">{{ place.placeName }}</th>
                   </tr>
                   {% for chapter in place.chapters %}
                   {% if chapter.chapterLink %}
-                    <tr class="clickable-row" data-href="{{ chapter.chapterLink }}">
+                    <tr class="clickable-row" data-href="{{ chapter.chapterLink }}" data-regency="{{ regency.regencyName }}">
                   {% else %}
-                    <tr>
+                    <tr data-class="{{ province.provinceName }}" data-regency="{{ regency.regencyName }}">
                   {% endif %}
-                    <th class="chapter">{{ chapter.chapterTitle }}
+                    <th class="chapter">
+                      {{ chapter.chapterTitle }}
                       {% if chapter.chapterStatus == 'completed' %}
                         <span class="badge badge-success">Completed</span>
                       {% else if chapter.chapterStatus == 'in-progress' %}

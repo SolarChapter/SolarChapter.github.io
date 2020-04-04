@@ -10,6 +10,7 @@ custom_js:
   - 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js'
   - 'https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js'
   - 'https://cdnjs.cloudflare.com/ajax/libs/datamaps/0.5.9/datamaps.idn.min.js'
+  - '/assets/js/datamap-icons.js'
   - '/assets/js/projects.js'
 # Content
 statsImageGallery:
