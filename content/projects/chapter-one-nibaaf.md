@@ -33,29 +33,24 @@ sections:
         Trips to get clean water can take 2-3 hours a day therefore children have to skip school to keep their family healthy. Time could be spent studying and developing is gone to collect their bare necessity. The importance of clean water can often get overlooked, yet it is vital for every person’s life. We want to help change their reality and give Desa Nibaaf an opportunity for better health, education, jobs; and easy clean water access would be the first step to achieve that
       </p>
   solution:
-    tabName: "Solution Overview and Project Overview Plan"
+    tabName: "Our Solution"
     tabContent: |
       <p class="first-reading-paragraph">
         Desa Nibaaf has received an intervention from PAMSIMAS (Program Air Minum dan Sanitasi Masyarakat) for pump and pipe installations before. However, it was discontinued because of a shortage of infrastructure and maintenance funding. Until now, Desa Nibaaf still lacks easy clean water access. We are proposing a solution to distribute clean water to 865 people in Desa Nibaaf. Just like our previous projects, we are creating solar panel water pumps and reservoirs to distribute water from the source to people’s homes
       </p>
       <div class="img-container">
-        <img src="https://lh3.googleusercontent.com/O26pe8AjA7cHWJvxl_c3ksTTCKRnA6WvemZkd8WIYEYjiMCxJ8IzW-uaxmKJ_SGl7Jti6Y5GNOWQhcA6Wf0keerO-nWJVEUGlKgvGhlELrxylkG6_gTgk61STCQMB2u3Q4SEvwkL6RczdfD6FLpBJMFaYJONpfRrC41xrbd9m5xWtYly5SUsPJo7AqowftMayaTDuGRwIwlfzge6GA0cIYocWqGw9u5oFR_nAvE4U_wlCaxbiMbAn8aFajRd7-kVlvVKjbtXhM6utdOGCtvDzcrm7sEmJZkRw1ADXrxurGYjnV7fdJH3bw-fSAgCw8rgKD0LR6e7IZl2GPXW_zIX0cG6TDj3jYopD5P8SP_7tvhR-EO97JnUZh1y_w3mE9qEMOuKrKW-tLn1Hb_0_8531eQ5vk_MWmRt4lqbwp6BqIxo2qtUUVVNEDIEFPfzbz8MuHc-gSVmhUCQ00OXn-AazwCrwIDs3oe7mVhs4Q7QFuXIZW6w_zxD90fLo5uW5atsJLAGj3cQ-b9PIWvwysMz6l7GVsIaVAV3C4yymhq7sUeiqGxofrS21qdCnyivn-Cb8Q1THGd-JKQC93ZLcSKq3nNvzzyIwXHK3W7uFt7mloGpCXLwezdcCbB7bdAZBbBDt4Zjl1P_dfMrRreix8_NeMIHBZaFyqAJ7Sglt8peyImo0lwlfxPzcrB-IGwirzHeo3U-_6brDkXUK7SeA3Z-xfCXxPPvoyhswif_rQ6X5yyu3DCLoQNSvjM=w1222-h912-no" class="img-fluid" />
-      </div>
-      <div class="img-container">
-        <img src="https://lh3.googleusercontent.com/CzdEduXIZwrg4JWDiyrFwwb2vx6KNSrL-HblVd12xVqRZUkSjRNJCHQ4FpOi49fdo2nU9Xm9bFoWsI-H2Tor6B2cIMD45td0D6pGB0PRY3Cu6wMQQimbYpuzsA6Kf_U2q76dF4HRdfBtb5u2zSbzk97Svc5hsdFQlU4gRa2B0wMn7SQya9nsQz7dIlA5so20FMlQKDz2I4KLSYVcxCMgQR18YefuLSC3uUgLfYgaIjJT_U77iGkQ9ynr9nu6RXteQI0P_jlgOdbNpVc0PNqsutvpKsP9Pzq8yPI-lviFead15oCpfNyIGMTWQThPSLtifG0noD39TQ2Z3pCagqidD6LzyikpdWUcycOrKSmQ6_m6EvyrZkWeVKiMjPp655fddILvpw-Zr3hMYAwYHD1x6uSbOjWT5vQS-LevylOrg1MumXpo17J9yyO9HuVpY-0nJUQ41th69M-e89Vekmded3ZB0DBliOSev0nTsCWlfnBJuHJgdZL4-qzS67PGvlIb2FK3z5A1I58qyGA1xe-iXPvnVApT4xyPK-XmVg_1UlKwdkg55u3L9ztrQKc5rtMwJfMspr4gKbiKow7ijOzzljvGoNQFGVfLiNzf_Kb7Z44XI_CPvCGIViBbT9sP7svXdaauIEr8bXv-0NHcEKJSAWVTLNIG5sUQzQFFDSWPAG5ZKp0GXjw-SaH3xPTb4FocC2tSVqL6NJ_Vl_DAH0R2IvvBgI5Oi1s9aBFZzgfYK2PPZtDS-lEd7W0=w1158-h902-no" class="img-fluid" />
+        <img src="https://lh3.googleusercontent.com/FH8kig_9pcIxqAad0ZIf0kWX-_dc1y_UM2v0WlADB9hWBfhCIE6WFOrTkOuoBU9vraUFhqrLg2K9z64JSIJLz7Rjw12RCrHh2NqB__qPtPArNkzGMtFfg7Bv9Xv-OhEQQ0Zpo5pRs8CiPfmKEJso0abjtE8_GeIuMoC5cP0BdLY9vT2imjbsFxaAHnMrWs_T4wj5L496PlMHNXSOq-0t6ZFtsE4Vzc2OfiVfA7FIOMf8qsaK-z71WVLRYbYtVfGny0FARp_qMJ6sZXcReGeAYlB1RD7n7Doz_HwiGJgJbfWY2AapTlD49y9xB8Pcg_AJfG3Wq0p6EDb0WN-j1heEaqpebJNXNyZ_li-SB25quCpnxS-nxr7E24n3I1zghFpawF23bbNJzuJuSKunRsWbaLCdP6u0_NTFle7KuzC82YMpjNPoit8tmU3la0CoEd0jDuMWitVgTbBi-GLF5r8TL0vRAIMPzBjZAeKLDB8mX7h6qW1g2TtRfkzWpb8tG_NDWaSxyCb7oQl_r__s2q-evd5VqN3HyFofLnueSOya0CxEP-7pDiVUWmOB-iwaMc5uZdQEvJXAEIIOXnBN7Afpklithr8Byo8czvMIeF21MlUemL-XvdPpnW3ZzKnImwXAPSyWiAnDiqygBpI-nHEQJSeUZMcattx-E3wMmMC70S115Q8prECNUF8y5fsL6rM4PWVwQ-NUE_1MBAyZDHV04O0ut-RIEqJ750zFttfCGaKYbuvopKV_ow=w1158-h902-no" class="img-fluid" />
       </div>
       <p>
         We will pump water from the spring water, Benin, and collect it in 2 reservoirs in SMP Nibaaf. The pump will need 21 solar panels as its energy source to pump 53,000 L / day. After collection in SMP, we will use the gravitational force to distribute water from Neighborhood A and pump to Neighborhood B. From the Neighborhood B water pumps, we will distribute it through the houses using Desa Nibaaf’s solar panels
       </p>
-  budget:
-    tabName: "Budget"
-    tabContent: |
-      <p class="first-reading-paragraph">
+      <p>
         Below are our budget details for our project and we will keep updating it once we finalized the design from the technical team. A large portion of our finances come include material and tools and we are negotiating with the suppliers to lower the final cost.
       </p>
       <div class="img-container">
-        <img src="https://lh3.googleusercontent.com/5ij_4PDmNazGGJMZcBUp0-ezlIqL75uAdaTasgdOsChl8PaIvA6ZVIkkNrsCdsjROa0yEaYPMPX8IFKNeF4eafb42zAmASaMoIJF5R9jUwzAPp0RCu65c5_2ZEzw77mmDHNkHbrljSZgu30_9QpK2nsbVpZjqvW5YThMNyO61maaZTBXsU5ykpUC-5Ys5Ql8NJFkcfqnkQNlwHJ-ca7ayOrcoMlF1Vdwxuh3HL4RIHCEY0VKByZbm9iIc6utB8X6e3ZlsZ6wGWyQvM0HNscr4qK_QY-dWgJIg8icLhxv0XJJcvmZTyFd8_dnuW1IdVUVu4hALpf1lAeA1TYrFnmVpuSbmSwsLxJxwLS-gx5T83xUzjGH-gMiMt9MSG5nhhOOcsbRZPvQ3s5n_Cwl_X4xzlDwrsUkjZ2Z1AkYQPVUSS-hLbM6yJjmN6XJj_44N3qqSgPSyzXsICCsv2UBuiI2Jmo464YhGFXOzcv0V3JvddhpsnrY-I47owKEF5tI2x9Cur1vMaz8bf5kNHxfPWh30m2mkMqmDp5_Qeiua9PzcdIR85JBop-NwBDMCDAKLW818N8uA99HBTab_hK8fEizPPRUjel3gS6vGtwda_0B4MkyFvEdVx4OY6Sf7E5A2VLxXCl00ejsLDgYHhySKCMxb9j-zZ0zsnud3sPGT56FDJaFLeV9SIPzo3YjvqOQwXX0NA51rv0-WRrUCwQYvhsztqU0QMx68JPqwpAr2UnsmrnrvnAK00ZvgtQ=w1442-h604-no" class="img-fluid" />
+        <img src="https://lh3.googleusercontent.com/sogk-otKJm_letaJuPMcsiJfXdWgtKhbSEQBV7UdUaJF_Hgvhv_ry4cZOTfcSy8iORtKZso2CCDR01lGZMiQqPIm4OX5UkwmfZvuxN6YxLywR4R1KG-eJl36iSNSjjP10Fg3p7xiq7GiRUfNX5QOFzIA2XEuWPV5UzWqbJbxgCMtZnF7OwA9zRuy0Czga0lb_lRF7s3zovdiaGhrEaYwpNSDk3wB_XgzPbRUGoD5IeMOzf-cT4wO6-mGmoiB6_F6nKY3Aby3GvaEc11tVelnD9xdsKAeiSvufVIOoN8bnlntSyl9QJy5Q8_p8FTtPM0DNB0BdGZvWqY_n1diD4tDg3kg55E2Rf0rybWl81uIjEHQCC_wxONjYbs8mTeoUtqzA077BRw3dEJWpWZH2I3NtNlTp12J2HCbupjN6iiwMBDv4AsZYeTVbzOz54CSBbb64VyZfedm4R94p5_l4Lqqu4J_nOnah165qu8cvPLD79zbhKLw2aEm58x1EycB67G710OtTg250rj4-6TQGdtBHmICt7cZXFLZzjpE5pN2sDo78Gy8BPKZZGeQ7GvMSv-tDSsCnlc8aHuT3tCObcoCBuz-n2Z7s6GlPAq0QC5PGUPZMX_z0WUqKDjAmzhgm5oXYmuPFvhHJKPUGEKa4OhraQoae33fJi2Cf9Q80JS2tsYMkgqmjHHzM831WPtL=w1000-h1442-no" class="img-fluid" />
       </div>
+      
 fundraisingText:
 fundraisingLinks:
   kitabisa:
