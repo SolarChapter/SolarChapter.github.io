@@ -34,6 +34,9 @@ donation_cards:
       kitabisa:
         title: "Donate through Kitabisa"
         link: https://kitabisa.com/campaign/waterfornibaaf
+      gofundme:
+        title: "Donate through Gofundme"
+        link: https://www.gofundme.com/f/water-for-nibaaf
   north_timur_tengah_biau_chapter_one:
     title: "Chapter One: Water for Biau"
     description:
@@ -43,7 +46,4 @@ donation_cards:
       kitabisa:
         title: "Donate through Kitabisa"
         link: https://kitabisa.com/campaign/waterforbiau
-      gofundme:
-        title: "Donate through Gofundme"
-        link: https://www.gofundme.com/f/water-for-nibaaf
 ---
