@@ -42,6 +42,10 @@ projects:
           - asmanulea:
             placeName: 'As Manulea'
             chapters:
+              - chapterOne:
+                chapterTitle: 'Chapter One: Water for As Manulea'
+                chapterLink: '/projects/chapter-one-water-for-as-manulea'
+                chapterStatus: 'completed'
               - chapterTwo:
                 chapterTitle: 'Chapter Two: Education for As Manulea'
                 chapterLink: '/projects/chapter-two-education-for-as-manulea'
@@ -60,6 +64,13 @@ projects:
                 chapterTitle: 'Chapter One: Water for Umutnana'
                 chapterLink: '/projects/chapter-one-water-for-umutnana'
                 chapterStatus: 'completed'
+          - multiple_villages:
+            placeName: 'Multiple Villages'
+            chapters:
+              - chapterOne:
+                chapterTitle: 'Chapter Three: Community Development'
+                chapterLink: '/projects/chapter-three-community-development'
+                chapterStatus: 'in-progress'
       - northTimurTengah:
         regencyName: 'North Timur Tengah'
         places:
