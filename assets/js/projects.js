@@ -107,6 +107,7 @@ $(document).ready(function() {
       const villagesData = data.data;
       const villagesKeys = Object.keys(villagesData);
       const infoHtml = $("<ul></ul>").attr({ class: "hover-info list-group" });
+      infoHtml.append(`<h4 class="card-title">${data.regencyName}</h4>`);
       for (let a = 0; a < villagesKeys.length; a++) {
         const chapter = villagesData[villagesKeys[a]];
         const villageHtml = $("<div></div>").attr({ class: "village-section" })
