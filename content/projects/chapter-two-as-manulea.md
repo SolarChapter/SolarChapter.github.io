@@ -109,7 +109,7 @@ sections:
             </tr>
             <tr>
               <td>
-                <strong>SCHOOL REHABILITATION</strong>
+                <mark class='yellow'><b>SCHOOL REHABILITATION</b></mark> 
               </td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
