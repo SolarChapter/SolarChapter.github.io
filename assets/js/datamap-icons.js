@@ -14,8 +14,8 @@ function datamap_icons(layer, data, options) {
     .append('image')
     .attr('class', 'datamaps-pin')
     .attr('xlink:href', '/assets/media/marker.png')
-    .attr('height', 32)
-    .attr('width', 32)
+    .attr('height', 31.5)
+    .attr('width', 21.5)
     .attr('x', function (datum) {
       var latLng;
       if (datumHasCoords(datum)) {
