@@ -20,7 +20,7 @@ sections:
     tabName: "Background"
     tabContent: |
       <div class="embed-responsive embed-responsive-16by9">
-       <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FMDTEK23afc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FMDTEK23afc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <br/>    
       <h3 class="section">SDN As Manulea</h3>
@@ -41,6 +41,9 @@ sections:
     tabName: "Our Solution"
     tabContent: |
       <h3 class="section">SMKN Sasitamean </h3>
+      <p>
+        Solar Chapter plans to provide laptop and other educational resources to enable the students of SMKN Sasitamean to achieve digital literacy and enable teachers to efficiently administer exams and other school assignments. Currently, the SMKN unveiled the new Multimedia program which requires students to use laptops. Through providing them laptops, Solar Chapter aims to grow the student capacity of the program and spark more interest towards the program as a getaway to learn more competitive skills. Aside from laptops, Solar Chapter plans on providing SMKN Sasitamean with textbooks. We would be fundraising to purchase related textbooks for each of the programs offered in the SMKN. Furthermore, we would be collaborating with domestic organizations to host a book drive to furnish the library in the SDN As Manulea. 
+      </p>
       <h3 class="section">SDN As Manulea</h3>
       <div class="img-container">
         <img src="https://lh3.googleusercontent.com/zsnA2TQCTHpWDMwHPHbDSv8UGuSlJ9KJGwcDDJej9RNoXrtDcAGumiBKny2O30ViXFLIjzOPkhUCeAf9nx7FEAeBjitpaI_wYuzxxr5W3Wq4sJIfE4J9UY2d8kCvt1t4K3qiBS3dvaNYgIGUySRXt7s7bWNCDz1xM75BTb6uuXu5y1HxiLb4n8H3VraoS3sbGp8b8Es6xoOqf64UrFOl2nfvvlSVvvtq0AB0D4RQzlnWbNdvl8DK9CRLNYittpepWBTSAsU6eyBkCreMfKXV9-2-ZXiRQQwa9DIuQdCYJbpHW5aqX4eiEC95VO_wbjs2VHqe5X1sFsz7AakiXZfDARbTI3OavvCHEelN9dJDPBOKVbCEH2-2z1QEWGmRvNsGwFtcdbGW2CE_SztfG_Ds2J9BYN62vOtDp3YLRY8G8KbqXufoI10i15RMwzmQVXNrb2pfTwM3fzFN2vXKRKf9mNEXntz5dwDO_KoZ8PWw8iu2efprLMRsN4sGc2Y7B0_NkHEMTk2xN4gLWKA7dhhN7hLBFplpVlfwmU69fpR9B3FNwVwR1LIrPnByUxTUHa1IG4MTa_ImKzoUFQ8RcTafo_f2gEReOtcgunlvgTSRy9O3U9zq7cqLJrv5SgtcZc-Cpof3gaA_4lS_TkBvzZWZqOvAjHIGvGAt2c-yAcHg1doz4GrkWwdhpOhgpfWrqorvVCEmolSBbd0ui1ql8mmBj3ArrSZPzIE7msKA_egPE7uXErXqXKMjr7s=w1204-h686-no" class="img-fluid" />
