@@ -19,7 +19,11 @@ sections:
   background:
     tabName: "Background"
     tabContent: |
-      <h3 class="section">SDN AS MANULEA</h3>
+       <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FMDTEK23afc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <br/>    
+      <h3 class="section">SDN As Manulea</h3>
       <p>
         Solar Chapter decided to make Education as its second chapter after seeing the students of SDN As Manulea during their first implementation visit for Chapter 1: Water for Umutnana, a neighboring village to As Manulea village. SDN As Manulea, at the time of visit, did not have running water in the school. The successful creation of new water channels, during Solar Chapter’s first project, led our team to believe the greater good we can engender to other places outside of Umutnana. One of the team’s ideas focuses on how the abundance of water near Umutnana can be used to the village’s advantage. Our team saw that we could build more waterways to resolve the water crisis still experienced in the surrounding villages. Lack of clean water in school is detrimental to the health and hygiene of students in SDN As Manulea and students misuse 2 hours of their study time to fetch water instead of productive learning. Additionally, the poor condition of the school building and unused library needs to be fixed to minimize the risk of fallen debris or further damage
       </p>
