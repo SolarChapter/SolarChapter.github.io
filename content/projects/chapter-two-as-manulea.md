@@ -44,6 +44,9 @@ sections:
       <p>
         Solar Chapter plans to provide laptop and other educational resources to enable the students of SMKN Sasitamean to achieve digital literacy and enable teachers to efficiently administer exams and other school assignments. Currently, the SMKN unveiled the new Multimedia program which requires students to use laptops. Through providing them laptops, Solar Chapter aims to grow the student capacity of the program and spark more interest towards the program as a getaway to learn more competitive skills. Aside from laptops, Solar Chapter plans on providing SMKN Sasitamean with textbooks. We would be fundraising to purchase related textbooks for each of the programs offered in the SMKN. Furthermore, we would be collaborating with domestic organizations to host a book drive to furnish the library in the SDN As Manulea. 
       </p>
+      <p>
+        Additionally,we plan to connect SMKN Sasitamean students to university students from all over Indonesia through our mentorship program called Kakak Adik. Solar Chapter will select 10 prospective SMK students, based on their needs and ambitions for higher education to enroll in this program. Then, we collaborate with university-affiliated organizations across Indonesia to look for prospective student mentors. After selecting a wide range of student-mentors, we would match them to SMKN students. We would also make a program curriculum for each week when the students will call each other and talk about a certain topic such as the various scholarship opportunities. Our program is intended to spark interest in these high school students to pursue higher education.
+      </p>
       <h3 class="section">SDN As Manulea</h3>
       <div class="img-container">
         <img src="https://lh3.googleusercontent.com/zsnA2TQCTHpWDMwHPHbDSv8UGuSlJ9KJGwcDDJej9RNoXrtDcAGumiBKny2O30ViXFLIjzOPkhUCeAf9nx7FEAeBjitpaI_wYuzxxr5W3Wq4sJIfE4J9UY2d8kCvt1t4K3qiBS3dvaNYgIGUySRXt7s7bWNCDz1xM75BTb6uuXu5y1HxiLb4n8H3VraoS3sbGp8b8Es6xoOqf64UrFOl2nfvvlSVvvtq0AB0D4RQzlnWbNdvl8DK9CRLNYittpepWBTSAsU6eyBkCreMfKXV9-2-ZXiRQQwa9DIuQdCYJbpHW5aqX4eiEC95VO_wbjs2VHqe5X1sFsz7AakiXZfDARbTI3OavvCHEelN9dJDPBOKVbCEH2-2z1QEWGmRvNsGwFtcdbGW2CE_SztfG_Ds2J9BYN62vOtDp3YLRY8G8KbqXufoI10i15RMwzmQVXNrb2pfTwM3fzFN2vXKRKf9mNEXntz5dwDO_KoZ8PWw8iu2efprLMRsN4sGc2Y7B0_NkHEMTk2xN4gLWKA7dhhN7hLBFplpVlfwmU69fpR9B3FNwVwR1LIrPnByUxTUHa1IG4MTa_ImKzoUFQ8RcTafo_f2gEReOtcgunlvgTSRy9O3U9zq7cqLJrv5SgtcZc-Cpof3gaA_4lS_TkBvzZWZqOvAjHIGvGAt2c-yAcHg1doz4GrkWwdhpOhgpfWrqorvVCEmolSBbd0ui1ql8mmBj3ArrSZPzIE7msKA_egPE7uXErXqXKMjr7s=w1204-h686-no" class="img-fluid" />
@@ -143,7 +146,7 @@ sections:
             </tr>
             <tr>
               <td>
-                <strong>SANITATION</strong>
+                <mark class='yellow'><b>SANITATION</b></mark>
               </td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
@@ -199,7 +202,7 @@ sections:
             </tr>
             <tr>
               <td>
-                <strong>PIPING</strong>
+                <mark class='yellow'><b>PIPING</b></mark>
               </td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
@@ -225,7 +228,7 @@ sections:
             </tr>
             <tr>
               <td>
-                <strong>RESEVOIR EXPANSION(12000L to 24000L)</strong>
+                <mark class='yellow'><b>RESERVOIR EXPANSION</b></mark>
               </td>
               <td>
                 <span style="font-weight: 400;">1</span>
@@ -242,7 +245,7 @@ sections:
             </tr>
             <tr>
               <td>
-                <strong>SITE VISIT EXPENSE</strong>
+                <mark class='yellow'><b>SITE VISIT EXPENSE</b></mark>
               </td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
@@ -300,7 +303,7 @@ sections:
             </tr>
             <tr>
               <td>
-                <strong>ADDITIONAL COST</strong>
+                <mark class='yellow'><b>ADDITIONAL COST</b></mark>
               </td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
@@ -348,7 +351,7 @@ sections:
             </tr>
             <tr>
               <td>
-                <span style="font-weight: 400;">GRAND TOTAL</span>
+                <mark class='yellow'><b>GRAND TOTAL</b></mark>
               </td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
