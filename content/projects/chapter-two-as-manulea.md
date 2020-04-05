@@ -19,67 +19,20 @@ sections:
   background:
     tabName: "Background"
     tabContent: |
-      <div class="embed-responsive embed-responsive-16by9">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/FMDTEK23afc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-      <br/>
-      <div class="table-responsive">
-        <table class="table table-sm table-bordered">
-          <tbody>
-            <tr class="text-center">
-              <td colspan="2">
-                <strong>Project Information</strong>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <span style="font-weight: 400;">School Name&nbsp;</span>
-              </td>
-              <td>
-                <span style="font-weight: 400;">SDN As Manuela&nbsp;</span>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <span style="font-weight: 400;">Location</span>
-              </td>
-              <td>
-                <span style="font-weight: 400;">Malaka, East Nusa Tenggara&nbsp;</span>
-              </td>
-              </tr>
-            <tr>
-              <td>
-                <span style="font-weight: 400;">Target&nbsp;</span>
-              </td>
-              <td>
-                <span style="font-weight: 400;">202 Students, 13 Teachers&nbsp;</span>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <span style="font-weight: 400;">Total Funding&nbsp;</span>
-              </td>
-              <td>
-                <span style="font-weight: 400;">Rp.154.000.000&nbsp;</span>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <span style="font-weight: 400;">Implementation Date&nbsp;</span>
-              </td>
-              <td>
-                <span style="font-weight: 400;">4 - 8 August 2018&nbsp;</span>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-      <p class="first-reading-paragraph">
+      <h3 class="section">SDN AS MANULEA</h3>
+      <p>
         Solar Chapter decided to make Education as its second chapter after seeing the students of SDN As Manulea during their first implementation visit for Chapter 1: Water for Umutnana, a neighboring village to As Manulea village. SDN As Manulea, at the time of visit, did not have running water in the school. The successful creation of new water channels, during Solar Chapter’s first project, led our team to believe the greater good we can engender to other places outside of Umutnana. One of the team’s ideas focuses on how the abundance of water near Umutnana can be used to the village’s advantage. Our team saw that we could build more waterways to resolve the water crisis still experienced in the surrounding villages. Lack of clean water in school is detrimental to the health and hygiene of students in SDN As Manulea and students misuse 2 hours of their study time to fetch water instead of productive learning. Additionally, the poor condition of the school building and unused library needs to be fixed to minimize the risk of fallen debris or further damage
       </p>
       <div class="lead-quote">
         <b>"Despite no running water, every day the classrooms are full of kids in white and red uniforms, still eager to learn"</b>
       </div>
+      <h3 class="section">SMKN SASITAMEAN </h3>
+      <p>
+        Education is a critical means of increasing quality of life. In today’s competitive workforce landscape in Indonesia, most employers require university degrees. However, most students in East Nusa Tenggara stop their education after high school and immediately join the workforce. Thus, this closes off a lot of opportunities for them to pursue better occupations, with a number of graduates working right after middle school as farmers. If not stopped, this combination of low income and low education could form a cycle that could go on for generations  As the Indonesian economy progresses, the people of As Manulea could be left behind because they could not break this vicious cycle. Currently, the students in As Manulea lack the educational resources and awareness to pursue higher education, which forms a barrier for them to explore jobs other than farming.
+      </p>
+      <p>
+        SMKN Sasitamean, located in As Manulea village, is one of the only SMKs in the Malaka district. It is located 2km from SDN As Manulea and 5km from Umutnana. There are a total of 180 students in the school and 75% of these students are from Umutnana and As Manulea. The school currently has three programs, which are Agribisnis Produksi Ternak, Agribisnis Produksi Tanaman, and Multimedia. The school currently owns 20 slow and outdated personal computers for the multimedia program and for administering exams. However, with 180 students in the school, 20 computers are not enough to efficiently administer exams and teach them digital literacy. The school also lacks the educational resources such as textbooks for each major. 
+      </p>
   solution:
     tabName: "Our Solution"
     tabContent: |
