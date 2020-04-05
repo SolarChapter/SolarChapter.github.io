@@ -29,6 +29,9 @@ sections:
       <div class="lead-quote">
         <b>"It was never enough water for their homes, and it left them little time to earn money, study, and achieve their dreams."</b>
       </div>
+      <div class="img-container">
+        <img src="https://lh3.googleusercontent.com/5LPidai7FYRmBeyo7VT7zceVX39cH--62K5mX8A5WiM8xNI_9AX-ojC7sNzHzO_PJq4hO5oeF8dQxwecRUiuxJ7Ue--MPxpvG9FbRpfNK21_CLj2GtZrpE5BnPBnUpjcMottkXZR4ZuaULmt9bror79A4XebEW3r1MBQ-hGz8Qb8BbdhNEHq-YzxjLW5gjbLqdQ51G3_OtoOdamokNnwVLPuXk4rpavBPpPE1Bh4sHtjYrF7px6-ztFuGgNtRQfqw6HtAPR0JLgdRE-KjBf1hdbqV6sl_Jp161E3xWr1zQmgjU0tj80M23NawZSmHJswV_qXPvLDmUvalLA3t63-J2gOdwXDT-UsXYHOFDfGt6v3jclvT3YSfFoh04xvlgiiwCL9bvE2KB43XbeBI_MJK3uQejEHUlbRV-vsE38R0YdrwXTJB8wAdI0THK3XNChW9n7lhplC7lS-DaFGGkGNKp7wUFdu1juFegVxjyHrgQxsX6RFjTHDhqebjoC8n_fLiqN1xNR58X-lJpr5q2ZZ4qZGzASZxIY3sw-5WdcM8YCCnjz5z4VWMkPMjgBep65krjQXK91i8WcfRsYssdHfdM2ZRPI-sCtpOFoUbMfDfya7mdJ6D-2LhfruREtUDR2lziSkk_HU-w5aEw-k2-Qq-Q8mqpbNfImv6x77Z6pYLlDNX4VrvgdxG8eVjz8_lc-3rqjgLYDa2SSwlKAPBHc5w_Y8Lw_DaxXofzq_PraaNz85UkshfXNKSA=w1000-h721-no" class="img-fluid" />
+      </div>
   story:
     tabName: "Stories from the field"
     tabContent: |
