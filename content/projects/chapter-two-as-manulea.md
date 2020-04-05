@@ -19,8 +19,8 @@ sections:
   background:
     tabName: "Background"
     tabContent: |
-       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FMDTEK23afc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="embed-responsive embed-responsive-16by9">
+       <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FMDTEK23afc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <br/>    
       <h3 class="section">SDN As Manulea</h3>
@@ -30,7 +30,7 @@ sections:
       <div class="lead-quote">
         <b>"Despite no running water, every day the classrooms are full of kids in white and red uniforms, still eager to learn"</b>
       </div>
-      <h3 class="section">SMKN SASITAMEAN </h3>
+      <h3 class="section">SMKN Sasitamean </h3>
       <p>
         Education is a critical means of increasing quality of life. In today’s competitive workforce landscape in Indonesia, most employers require university degrees. However, most students in East Nusa Tenggara stop their education after high school and immediately join the workforce. Thus, this closes off a lot of opportunities for them to pursue better occupations, with a number of graduates working right after middle school as farmers. If not stopped, this combination of low income and low education could form a cycle that could go on for generations  As the Indonesian economy progresses, the people of As Manulea could be left behind because they could not break this vicious cycle. Currently, the students in As Manulea lack the educational resources and awareness to pursue higher education, which forms a barrier for them to explore jobs other than farming.
       </p>
@@ -40,11 +40,10 @@ sections:
   solution:
     tabName: "Our Solution"
     tabContent: |
+      <h3 class="section">SMKN Sasitamean </h3>
+      <h3 class="section">SDN As Manulea</h3>
       <div class="img-container">
         <img src="https://lh3.googleusercontent.com/zsnA2TQCTHpWDMwHPHbDSv8UGuSlJ9KJGwcDDJej9RNoXrtDcAGumiBKny2O30ViXFLIjzOPkhUCeAf9nx7FEAeBjitpaI_wYuzxxr5W3Wq4sJIfE4J9UY2d8kCvt1t4K3qiBS3dvaNYgIGUySRXt7s7bWNCDz1xM75BTb6uuXu5y1HxiLb4n8H3VraoS3sbGp8b8Es6xoOqf64UrFOl2nfvvlSVvvtq0AB0D4RQzlnWbNdvl8DK9CRLNYittpepWBTSAsU6eyBkCreMfKXV9-2-ZXiRQQwa9DIuQdCYJbpHW5aqX4eiEC95VO_wbjs2VHqe5X1sFsz7AakiXZfDARbTI3OavvCHEelN9dJDPBOKVbCEH2-2z1QEWGmRvNsGwFtcdbGW2CE_SztfG_Ds2J9BYN62vOtDp3YLRY8G8KbqXufoI10i15RMwzmQVXNrb2pfTwM3fzFN2vXKRKf9mNEXntz5dwDO_KoZ8PWw8iu2efprLMRsN4sGc2Y7B0_NkHEMTk2xN4gLWKA7dhhN7hLBFplpVlfwmU69fpR9B3FNwVwR1LIrPnByUxTUHa1IG4MTa_ImKzoUFQ8RcTafo_f2gEReOtcgunlvgTSRy9O3U9zq7cqLJrv5SgtcZc-Cpof3gaA_4lS_TkBvzZWZqOvAjHIGvGAt2c-yAcHg1doz4GrkWwdhpOhgpfWrqorvVCEmolSBbd0ui1ql8mmBj3ArrSZPzIE7msKA_egPE7uXErXqXKMjr7s=w1204-h686-no" class="img-fluid" />
-      </div>
-      <div class="img-container">
-        <img src="https://lh3.googleusercontent.com/sU4zMBQKhfrqPtSuHIEKn8CHTkp_oqTTYDGkqcO1oBJaVHKKsAorN0HK4VXcTKOME90WiqZibeGufTvNUhtaMejT35yAL3HDOR5sBjH7RS2O90fh1iC94jaC95909KPj0Bb32Y_rKhdgsefT0ZrnDpeDz0uBFyrF_Dhr0uSL02eqr1T-6KQ59Wfp3-mJkPX9baSrPY7IJ0MIoyupCmDwYNhCNDqanpEPseFTK0zrx2NhWkk-iYsFg-p9mBhtT06J_PyxwLEU2krCS5TRpEXAtKctCvTAHBSyeesBkHn2EMHTKp6LdYCIHJAu0MQ4N1SnvYowsnw3EaUBkAKlmqfO8SUSZ_FEZBX7kjPOdPDsZWoxITuJUDUb4YAgYUHw0nXO7SLoPkm1jWt3IWf6kpwG8gxRAGEYSvpR2Uc15zujT-QSnRGxV5MQW-uER-8BRZOUwbaAnbtUhKzsGAXwUWxU5XhIOwAC-cZ7ccvrgse58-32KNij7hZQ1sN3z_h6jAemPwa44l5VCNkAHKe1IrIow2rJvoAmPx2N9e7IHJFP9fO8D-SH1aRNAXjvY9Fv6XBR2qFV1wAw7Hn5mYAn2XkPVC73Z7uAlZYacnzmJuGLSenRpORKUQmqjZ5rt3EFCL--p_51FnJJ6glqdkl8GvV1UsUDy2kYqqKv-DMZFUFzmGunxdc98QR_9GUbz0sDN3kRCj8khc7234SO-floBC7avgniKplrkVIXTzqoKCNHbHQPOUphtC1ywsk=w1184-h512-no" class="img-fluid" />
       </div>
       <div class="table-responsive">
         <table class="table table-sm table-bordered">
