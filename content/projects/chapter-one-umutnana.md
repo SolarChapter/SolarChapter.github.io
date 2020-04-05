@@ -19,8 +19,8 @@ sections:
   background:
     tabName: "Background"
     tabContent: |
-      <div class="img-container">
-        <img src="https://lh3.googleusercontent.com/5LPidai7FYRmBeyo7VT7zceVX39cH--62K5mX8A5WiM8xNI_9AX-ojC7sNzHzO_PJq4hO5oeF8dQxwecRUiuxJ7Ue--MPxpvG9FbRpfNK21_CLj2GtZrpE5BnPBnUpjcMottkXZR4ZuaULmt9bror79A4XebEW3r1MBQ-hGz8Qb8BbdhNEHq-YzxjLW5gjbLqdQ51G3_OtoOdamokNnwVLPuXk4rpavBPpPE1Bh4sHtjYrF7px6-ztFuGgNtRQfqw6HtAPR0JLgdRE-KjBf1hdbqV6sl_Jp161E3xWr1zQmgjU0tj80M23NawZSmHJswV_qXPvLDmUvalLA3t63-J2gOdwXDT-UsXYHOFDfGt6v3jclvT3YSfFoh04xvlgiiwCL9bvE2KB43XbeBI_MJK3uQejEHUlbRV-vsE38R0YdrwXTJB8wAdI0THK3XNChW9n7lhplC7lS-DaFGGkGNKp7wUFdu1juFegVxjyHrgQxsX6RFjTHDhqebjoC8n_fLiqN1xNR58X-lJpr5q2ZZ4qZGzASZxIY3sw-5WdcM8YCCnjz5z4VWMkPMjgBep65krjQXK91i8WcfRsYssdHfdM2ZRPI-sCtpOFoUbMfDfya7mdJ6D-2LhfruREtUDR2lziSkk_HU-w5aEw-k2-Qq-Q8mqpbNfImv6x77Z6pYLlDNX4VrvgdxG8eVjz8_lc-3rqjgLYDa2SSwlKAPBHc5w_Y8Lw_DaxXofzq_PraaNz85UkshfXNKSA=w1000-h721-no" class="img-fluid" />
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-RNLg9QljP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <p class="first-reading-paragraph">
         The limited access to clean water, for the people of Umutnana, made us aware of the substandard living conditions still experienced by many Indonesian citizens. It is a challenge to obtain clean water in Umutnana. More than 700 people in the Umutnana Village, East_ Nusa Tenggara, lack access to clean water. These villagers must walk two kilometers from their homes in order to obtain water. Each day they need to make three trips, which is about four hours of their time. Time that could be spent doing something productive or their own lives. This problem gave rise to the birth of Solar Chapter
@@ -28,10 +28,6 @@ sections:
       <div class="lead-quote">
         <b>"It was never enough water for their homes, and it left them little time to earn money, study, and achieve their dreams."</b>
       </div>
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-RNLg9QljP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-      <br/>
   story:
     tabName: "Stories from the field"
     tabContent: |
@@ -68,10 +64,10 @@ sections:
         Solar Chapter will collaborate with PAMSIMAS (A National Platform for Rural Water Supply and Sanitation) to provide easier access for clean water. Our plan is to build a reservoir to collect water from three water sources, which will then deliver the water to the distribution tank near the village by using solar pumps. From the distribution tank, the water will be distributed to 16 public faucets across the village.
       </p>
       <div class="img-container">
-        <img src="https://lh3.googleusercontent.com/My7w7bjuo86DVUg_tk-jCdPINq2vBvAXx72Ml0mvL6mChc8NZJQD96A7546u1chxmEasCpSJcJWY9EWcLz5Bvt-QUw92iX0bfrqDhcMsPzRq1f2QVYOwKWrhscrr_DHx7qgLKZdeUp6241W9gXb8AXDuBLWw4PXEE_dmGgjwp9goGWoJ3j_i9RDP3jv7oSNQ8LX-Nh2drnpjyIbzFK_ynYsT4uU73xHfT0lO3I5U89KY2CCcMHJFTOxZS_73Xm8SF5JPXyXWkPJd6U3b2KB_z2gZ17ZU8k-10Aj_DkofyB3Y-vXVfjuCmnDMDmk0rmYq-jPSWq0i1faPkeCd7Hm6YtwpMTd6G61VK7IabgKui6pUJfT0eMB3TFPzbgbAbGyItMu1yv-LAhnkmON19N0NYK8fUSL8rRJd_qqBFY1md2k6AyCANtSzNW_gcz5dXlm5-SLCiBsrStOVyP4sNNpcbbDsLgFKKKOK-Ek64xtffF1KvkelJ3wIFT8P39Pp184OD-cRty8xTw2lKbzl1WwgP8Mhbhk70-2vztP3T8asjOLCT1MQC8QiyB7Ff61_Ikn9KF5BC9BaWem57cvkltAwno8syHMsgE0rcrrZ2HFRVCA4AltH6aT_3GGNFat08UClMnw4iswTIXpM02TWJdGIeaO56OID3l7fOn5yqeu5LXIJHucdQJAeLJBuvMA3VJd4mQ-34d-bLsMG6WTNnT_LCsPHCkcLOPNvy6PHLQkG3lw3z1b_GPi77z8=w501-h373-no" class="img-fluid" alt="solution">
+        <img src="https://lh3.googleusercontent.com/nDh_TZTzNgXIgpgh81Y8a_DK1lNA4Zqp5hufeCi44_N9zKwkU0zxmC3OwtxeYMd2d0wJ5l2fzq608l8AUL2H_Bpf2_JzjWQ2rStkhqX3949oMJAdWDfhCPw2ZamUeLzLv6hupNURyz0G9vSpFjPzR2-Av7NMHlyALYEaZMCdHrjYLNsG8C0Yg9nx42t-MBStJ1eTE_NQY72CPri4iMxmhTXdslK_AsIC8f6vsBn2w3uXn4xrRbXCwA6Tyx75Fc1OxS5677drELDgr1YteeYYUTYh3AuKtAk-U60yWGwKCsUvGRbWMFLU_ZbDuxOhhEyIMT9L9s7qWsrPixCtwxArBavrIhF2XLMKXxSC5sdl-BfFMUH26eoL75yxtTLfMEwa_ClKdyDqiknsZwHkndDAZJyjSW8lruV0BugJD8mW_cRnsd1Ea7KRZzxdGKLUY_dlDdJ8OFLwPeZuz_ejeWVttCz8tf8WLHUYZvJBBUV28trGxN86CQz1ZFqQuMC-yUho1xGJfokYA5rhn0g95ppbgJpX3d-0CO7vw3RfFXSJEZfsk18SWEdsoL8dRXLI_FHGywU6d0WbbV35yl5F9jpvRnWWIBDbBYRXU-M6gJFOiJYlUkLpbHYWRl5jaDIwhvE-Z-1bi4-5QL15Av-fx4WcEpR2npDSB4I_NjwIQOW--mv7xslYgwFj40xA9vTa2pN16oTfk_HlYvPDQhnAFwrUgaTM2ADhpzbmKMumk-lFbpZqnlQEpaKjD1I=w800-h1035-no" class="img-fluid" alt="solution">
       </div>
       <div class="img-container">
-        <img src="https://lh3.googleusercontent.com/nDh_TZTzNgXIgpgh81Y8a_DK1lNA4Zqp5hufeCi44_N9zKwkU0zxmC3OwtxeYMd2d0wJ5l2fzq608l8AUL2H_Bpf2_JzjWQ2rStkhqX3949oMJAdWDfhCPw2ZamUeLzLv6hupNURyz0G9vSpFjPzR2-Av7NMHlyALYEaZMCdHrjYLNsG8C0Yg9nx42t-MBStJ1eTE_NQY72CPri4iMxmhTXdslK_AsIC8f6vsBn2w3uXn4xrRbXCwA6Tyx75Fc1OxS5677drELDgr1YteeYYUTYh3AuKtAk-U60yWGwKCsUvGRbWMFLU_ZbDuxOhhEyIMT9L9s7qWsrPixCtwxArBavrIhF2XLMKXxSC5sdl-BfFMUH26eoL75yxtTLfMEwa_ClKdyDqiknsZwHkndDAZJyjSW8lruV0BugJD8mW_cRnsd1Ea7KRZzxdGKLUY_dlDdJ8OFLwPeZuz_ejeWVttCz8tf8WLHUYZvJBBUV28trGxN86CQz1ZFqQuMC-yUho1xGJfokYA5rhn0g95ppbgJpX3d-0CO7vw3RfFXSJEZfsk18SWEdsoL8dRXLI_FHGywU6d0WbbV35yl5F9jpvRnWWIBDbBYRXU-M6gJFOiJYlUkLpbHYWRl5jaDIwhvE-Z-1bi4-5QL15Av-fx4WcEpR2npDSB4I_NjwIQOW--mv7xslYgwFj40xA9vTa2pN16oTfk_HlYvPDQhnAFwrUgaTM2ADhpzbmKMumk-lFbpZqnlQEpaKjD1I=w470-h484-no" class="img-fluid" alt="solution">
+        <img src="https://lh3.googleusercontent.com/My7w7bjuo86DVUg_tk-jCdPINq2vBvAXx72Ml0mvL6mChc8NZJQD96A7546u1chxmEasCpSJcJWY9EWcLz5Bvt-QUw92iX0bfrqDhcMsPzRq1f2QVYOwKWrhscrr_DHx7qgLKZdeUp6241W9gXb8AXDuBLWw4PXEE_dmGgjwp9goGWoJ3j_i9RDP3jv7oSNQ8LX-Nh2drnpjyIbzFK_ynYsT4uU73xHfT0lO3I5U89KY2CCcMHJFTOxZS_73Xm8SF5JPXyXWkPJd6U3b2KB_z2gZ17ZU8k-10Aj_DkofyB3Y-vXVfjuCmnDMDmk0rmYq-jPSWq0i1faPkeCd7Hm6YtwpMTd6G61VK7IabgKui6pUJfT0eMB3TFPzbgbAbGyItMu1yv-LAhnkmON19N0NYK8fUSL8rRJd_qqBFY1md2k6AyCANtSzNW_gcz5dXlm5-SLCiBsrStOVyP4sNNpcbbDsLgFKKKOK-Ek64xtffF1KvkelJ3wIFT8P39Pp184OD-cRty8xTw2lKbzl1WwgP8Mhbhk70-2vztP3T8asjOLCT1MQC8QiyB7Ff61_Ikn9KF5BC9BaWem57cvkltAwno8syHMsgE0rcrrZ2HFRVCA4AltH6aT_3GGNFat08UClMnw4iswTIXpM02TWJdGIeaO56OID3l7fOn5yqeu5LXIJHucdQJAeLJBuvMA3VJd4mQ-34d-bLsMG6WTNnT_LCsPHCkcLOPNvy6PHLQkG3lw3z1b_GPi77z8=w800-h1035-no" class="img-fluid" alt="solution">
       </div>
   implementation:
     tabName: "Implementation"
