@@ -1,16 +1,11 @@
 ---
 permalink: /projects/chapter-one-water-for-umutnana
 layout: project
-menu-color: 'dark'
 title: "Chapter One: Water for Umutnana"
 description: |
   The limited access to clean water, for the people of Umutnana, made us aware of the substandard living conditions still experienced by many Indonesian citizens. It is a challenge to obtain clean water in Umutnana. More than 700 people in the Umutnana Village, East_ Nusa Tenggara, lack access to clean water. These villagers must walk two kilometers from their homes in order to obtain water. Each day they need to make three trips, which is about four hours of their time. Time that could be spent doing something productive or their own lives. This problem gave rise to the birth of Solar Chapter
 metadataImage: |
   https://lh3.googleusercontent.com/AR7c_obJzOelPjW5bUgew54WH_Yft0DKgjPs7Z7iKpFWmYQA-OriQg5KM_jUL7tUuAiS8UdFqTUMyL99Qk3h7NOKRXVhyT5R-hXavajvlt0Hoh6VyD4YzTi_fRoufey_whk9e7BuX_wAELAtQXSW8n6NDc_YhlTGzsUhUd8rZqifH6AQ3mWR6AvxiMEuvLKkUKNpIkNhPNYS-WA1NtgMPExgrae54nR3PzGOfSu5axAxiZcn3jx1UL_kbe7Q2G2c11BIYUH2jLerqzeLuCpxi9u39jIbvhNE8ciO3nENsnAVJL2SgKysGLLjFUULw4kFxe8vOp7AqtOnZ17fVJ1gBn8LPKNGFpJx7BDYf6SdVnTRr4UPZw5w3VeAbbwUaEw5CwAGa9Z_D8F2mjXQiWaescLdD7DigKnpL-bfSVdloAJTBaq2ApS2X5K8ts5Uh4aKWWNSXymenvMTkjJbHC9IN7DsKMUO_BxKZkvQXJja6C04oKM1AgRI-Cnl_ZDTWDduxtLLise4g0RO1KfH39qluiDvyyp-TVFZfxqMl8YqY-XDC3hthlv-yQPrviub86NQNXhxP0mx8wWEHacvggf1qa_s1eEvIeUV9WWLbASkFgD_M99VGIo05mV0c94HaNhJfgFdXzZbqovfxPLcbyrpQCRcxiOhfdFatQvZKh6aPwqdmZye2QdJA9cVhfGkwzMRpx3RNmTo9pTV70hMN0Z5KpgPMjzCErdnJ7Nx7ml8hbANyOFQ9ZrpMUs=w1453-h969-no
-custom_css:
-  - '/assets/css/project.css'
-custom_js: 
-  - '/assets/js/project.js'
 # Content
 headerImageUrl: https://lh3.googleusercontent.com/AR7c_obJzOelPjW5bUgew54WH_Yft0DKgjPs7Z7iKpFWmYQA-OriQg5KM_jUL7tUuAiS8UdFqTUMyL99Qk3h7NOKRXVhyT5R-hXavajvlt0Hoh6VyD4YzTi_fRoufey_whk9e7BuX_wAELAtQXSW8n6NDc_YhlTGzsUhUd8rZqifH6AQ3mWR6AvxiMEuvLKkUKNpIkNhPNYS-WA1NtgMPExgrae54nR3PzGOfSu5axAxiZcn3jx1UL_kbe7Q2G2c11BIYUH2jLerqzeLuCpxi9u39jIbvhNE8ciO3nENsnAVJL2SgKysGLLjFUULw4kFxe8vOp7AqtOnZ17fVJ1gBn8LPKNGFpJx7BDYf6SdVnTRr4UPZw5w3VeAbbwUaEw5CwAGa9Z_D8F2mjXQiWaescLdD7DigKnpL-bfSVdloAJTBaq2ApS2X5K8ts5Uh4aKWWNSXymenvMTkjJbHC9IN7DsKMUO_BxKZkvQXJja6C04oKM1AgRI-Cnl_ZDTWDduxtLLise4g0RO1KfH39qluiDvyyp-TVFZfxqMl8YqY-XDC3hthlv-yQPrviub86NQNXhxP0mx8wWEHacvggf1qa_s1eEvIeUV9WWLbASkFgD_M99VGIo05mV0c94HaNhJfgFdXzZbqovfxPLcbyrpQCRcxiOhfdFatQvZKh6aPwqdmZye2QdJA9cVhfGkwzMRpx3RNmTo9pTV70hMN0Z5KpgPMjzCErdnJ7Nx7ml8hbANyOFQ9ZrpMUs=w1453-h969-no
 title: "Chapter One: Water for Umutnana"

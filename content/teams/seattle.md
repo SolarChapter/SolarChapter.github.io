@@ -4,9 +4,6 @@ layout: team
 title: Solar Chapter - Seattle Team
 metadataImage: |
   https://res.cloudinary.com/db1a3rvdf/image/upload/v1585683322/Solar%20Chapter%20Website/teams_page/seattle/FALL_19_TEAM_PHOTO/seattle_team_q9wlia.jpg
-custom_css:
-  - '/assets/css/teams.css'
-  - '/assets/css/team.css'
 # Content
 location: Seattle, WA, USA
 background_image: |

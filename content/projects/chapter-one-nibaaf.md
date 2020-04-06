@@ -1,16 +1,11 @@
 ---
 permalink: /projects/chapter-one-water-for-nibaaf
 layout: project
-menu-color: 'dark'
 title: "Chapter One: Water for Nibaaf"
 description: |
   Nibaaf is a village that sits in the Eastern region of Nusa Tenggara, Indonesia. The village has a population of 865 people that lives in the midst of poverty. The majority of the villagers work as farmers where water is used mainly for their agriculture practice. However it is barely enough for the daily necessities for health and hygiene. Trips to get clean water can take 2-3 hours therefore children have to skip school to keep their family healthy
 metadataImage: |
   https://lh3.googleusercontent.com/hotL7X9juEr9P8Ct8TxIxPRg8lFVYiPRwuCjJhExiVpWjkyDcwze1nj-AosuK8nIEwUF_KRuvpP7DEpvKiU4F9_uWdAIFp7y6m_XHmjfi4pxaILhR7KZzb91T_jtaab8Wf-Gk-RuHWZ0qUHJwYvQSTBHWKGhozIs4gp5QVswsyVvtPTsGpvC7_dLV8ogGvHF_UcVwSv5jBllykEGFK3BogRK7Ke34Iaj3NKjUqZ7JlhkdLtpTPW3QSCEWChYNp-2W9OKKXUnsUlinLO4VUP-JAQifihRaNUeqUTWqg23uSjTEakTxyRw_Wl8yLUeTZnvCpVPIKwTAAyY5d4dho4hW-fDQ2yfw7ZsHSWgWLd6N--QZzkCsz8HE1j4Ps41VNDhgjJxvjLW44KxzUqwe5lvJH6JTVJ8XckyKeiDlgW24v2iJZXlSSs45J3wA7K0cDpVL4HWmT5AEapqQ2y_hN2kRj8S6NNgrqvtP54AaIf4w08rInpr6Lu0UMC2gQmK2GE3kTU-YEux3dtbsevAq7gZdtg8jJ_mTO3EIJD3KPZOyceQ09k2BJCz-VXnISp5p5bcEf7tEFNxv8CiRW8leAScOIkWhokoOuuo0RW_8em97EVUn0etva_rEFn_baMkYFWBuCTKKYcmK8ZbkSoZ5UEpxPZ-Q4rsOVekfiZQy5Y38Fix6bT_XUuDybjyDRMPmWxbh7z-9V37UNO0T_-UG3a4TdIjNvWY9LzgvCpbEWoDkaSlOtPUe1Xim6o=w1616-h1080-no
-custom_css:
-  - '/assets/css/project.css'
-custom_js: 
-  - '/assets/js/project.js'
 # Content
 headerImageUrl: https://lh3.googleusercontent.com/hotL7X9juEr9P8Ct8TxIxPRg8lFVYiPRwuCjJhExiVpWjkyDcwze1nj-AosuK8nIEwUF_KRuvpP7DEpvKiU4F9_uWdAIFp7y6m_XHmjfi4pxaILhR7KZzb91T_jtaab8Wf-Gk-RuHWZ0qUHJwYvQSTBHWKGhozIs4gp5QVswsyVvtPTsGpvC7_dLV8ogGvHF_UcVwSv5jBllykEGFK3BogRK7Ke34Iaj3NKjUqZ7JlhkdLtpTPW3QSCEWChYNp-2W9OKKXUnsUlinLO4VUP-JAQifihRaNUeqUTWqg23uSjTEakTxyRw_Wl8yLUeTZnvCpVPIKwTAAyY5d4dho4hW-fDQ2yfw7ZsHSWgWLd6N--QZzkCsz8HE1j4Ps41VNDhgjJxvjLW44KxzUqwe5lvJH6JTVJ8XckyKeiDlgW24v2iJZXlSSs45J3wA7K0cDpVL4HWmT5AEapqQ2y_hN2kRj8S6NNgrqvtP54AaIf4w08rInpr6Lu0UMC2gQmK2GE3kTU-YEux3dtbsevAq7gZdtg8jJ_mTO3EIJD3KPZOyceQ09k2BJCz-VXnISp5p5bcEf7tEFNxv8CiRW8leAScOIkWhokoOuuo0RW_8em97EVUn0etva_rEFn_baMkYFWBuCTKKYcmK8ZbkSoZ5UEpxPZ-Q4rsOVekfiZQy5Y38Fix6bT_XUuDybjyDRMPmWxbh7z-9V37UNO0T_-UG3a4TdIjNvWY9LzgvCpbEWoDkaSlOtPUe1Xim6o=w1616-h1080-no
 title: "Chapter One: Water for Nibaaf"

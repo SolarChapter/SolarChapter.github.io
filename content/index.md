@@ -1,16 +1,7 @@
 ---
 permalink: /
 layout: index
-menu-color: 'dark'
 title: Solar Chapter
-custom_css:
-  - '/assets/css/index.css'
-custom_js: 
-  - 'https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js'
-  - 'https://cdnjs.cloudflare.com/ajax/libs/gsap/1.16.1/TweenMax.min.js'
-  - 'https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.2/plugins/animation.gsap.js'
-  - '/assets/js/jquery.keyframes.min.js'
-  - '/assets/js/index.js'
 # Content
 heroVideoPoster: 'https://lh3.googleusercontent.com/MGIZrN-cGJENU4Zra6LFwullBT_HpXEJRc8um7bjLbVUlVoukCMscWcKsOZJvsNn2t78hEHowZ_cnM4TOebClHZENUdbhcpLB6vKs3Y_BtPtm5hQ0GAZDohWTjChR-4fMc1ihLPPIBjJDQ5zO7IvIeIcnqC1u3zLs_guAYNkAse3WFOfruJXoc6QcSXTeFP24_EoQGAeI-8cf8LMxnpscDyvhSwSpp_LDi2oNQfs8f3TDtSM2kX94DtwQUCI1xLpM0YnnPHIvXbXtHEgsQ4aHSxY94jppDHLLv00LVbxoCuLB7Ud-133Tm46nTRHBQWoYUmIOaz49BkjSihLlr8Rbp_UjGHr7j6rFln4aXOQ7QjlkwoliatI5WhH-QzI1E5XAIVMhJg_JMWaIxoG7m1eiOjv-cV5JFBIObOCqgnAzkslb62naoVlbCDlbFeh3RNi5q_bEYMp5QKa6MGC-XWILn7oKhDJBg1ahqFLKIGsTEgBbW5HOEqTbu16q2kmJzsaXiKZjKt8Bl-F5dBTtij5rN2qqSWbkPE3mZjyNP6II8q3df1obRNUyhMFMQjzK4TW-6At488B_kEEd1SYjWXdkU1wiH1M9v07A_TNxYACpohICFH-_Knv1TeHH7vz6vARs9W5IpSnNvjRVYXZP3DkYRcswPE08-yXDJNd_--duyESELuRCW1mejBkmKv8Ng=w1075-h718-no'
 heroVideoPath: 'https://res.cloudinary.com/db1a3rvdf/video/upload/v1580872118/Solar%20Chapter%20Website/homepage/landing/landing_video_r6hcta.mp4'

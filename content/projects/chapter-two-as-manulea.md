@@ -1,16 +1,11 @@
 ---
 permalink: /projects/chapter-two-education-for-as-manulea
 layout: project
-menu-color: 'dark'
 title: "Chapter One: Education for As Manulea"
 description: |
   Solar Chapter decided to make Education as its second chapter after seeing the students of SDN As Manulea during their first implementation visit for Chapter 1: Water for Umutnana, a neighboring village to As Manulea village. SDN As Manulea, at the time of visit, did not have running water in the school. The successful creation of new water channels, during Solar Chapter’s first project, led our team to believe the greater good we can engender to other places outside of Umutnana. 
 metadataImage: |
   https://lh3.googleusercontent.com/PeOXudwHFQIUfNPBRn_B5qM04XgXgOZmXMr53FaDZi1GdN4QHHrwYwCHB1FbcQivEs4wIbtLpccfHSP88xoyIV9h61FrrJ7joQwqvidE2kT3STUShIpDI_IwkEr04Pv6k7jeFBpar73t7EJ6ckLQV5QQl2meBWKgUbCURF3LWa04N6pZ5_MSE0VaY7i7A32pk-H6L0-bmP4ZJ0Om8ZXQiNU9C0RlRkKMIqMPVmYK_0gEthMO9H-wKI3zVNzLiw-Jjxivohd6IuFTUqerXceRLgZsMagXxeX8nPbH6e-xSYVdQCzdZpKVANSgLfxOM2W_Z7cYwQEstIsrrC2JPIRk01RYaTeIfY2i_mfg1zK8uvEBJizcWj9Eg_ijNuLEAYCLfl0RdMbLeMYWbW9gzpfj0iR7YMQ2ntgFRe6X7hNzxYMVB7rRerf2d_Av2yKexH2CrNLVAX82jvfvBG35k_Wa503Jgydf76knmHBR1SjckgUflujXTEkl3Fl8G5YQoQBWrGBSIHPtYHJGdy1XhaSBXWYT-PRr14Z2Nm0uvWg-X0yoeo3hWPJt8dVtQifhdFgoE9KtM5Li-LVCPnVf1gG6-9Pyeju0gyHfVzSdJMTsYDF3g40M9bXbof48kCssZq1Jt6FbP8wvf34vN78mPNpSWLhOpRABzjRAN3qKHVwsRR9vZne_o3NFZT0tNO342FaxSSEzScyXTwgqmkMOpiU-xAR4PxamkS0zVGUV7dX25gobpV2_-VjArnA=w2360-h1574-no
-custom_css:
-  - '/assets/css/project.css'
-custom_js: 
-  - '/assets/js/project.js'
 # Content
 headerImageUrl: https://lh3.googleusercontent.com/PeOXudwHFQIUfNPBRn_B5qM04XgXgOZmXMr53FaDZi1GdN4QHHrwYwCHB1FbcQivEs4wIbtLpccfHSP88xoyIV9h61FrrJ7joQwqvidE2kT3STUShIpDI_IwkEr04Pv6k7jeFBpar73t7EJ6ckLQV5QQl2meBWKgUbCURF3LWa04N6pZ5_MSE0VaY7i7A32pk-H6L0-bmP4ZJ0Om8ZXQiNU9C0RlRkKMIqMPVmYK_0gEthMO9H-wKI3zVNzLiw-Jjxivohd6IuFTUqerXceRLgZsMagXxeX8nPbH6e-xSYVdQCzdZpKVANSgLfxOM2W_Z7cYwQEstIsrrC2JPIRk01RYaTeIfY2i_mfg1zK8uvEBJizcWj9Eg_ijNuLEAYCLfl0RdMbLeMYWbW9gzpfj0iR7YMQ2ntgFRe6X7hNzxYMVB7rRerf2d_Av2yKexH2CrNLVAX82jvfvBG35k_Wa503Jgydf76knmHBR1SjckgUflujXTEkl3Fl8G5YQoQBWrGBSIHPtYHJGdy1XhaSBXWYT-PRr14Z2Nm0uvWg-X0yoeo3hWPJt8dVtQifhdFgoE9KtM5Li-LVCPnVf1gG6-9Pyeju0gyHfVzSdJMTsYDF3g40M9bXbof48kCssZq1Jt6FbP8wvf34vN78mPNpSWLhOpRABzjRAN3qKHVwsRR9vZne_o3NFZT0tNO342FaxSSEzScyXTwgqmkMOpiU-xAR4PxamkS0zVGUV7dX25gobpV2_-VjArnA=w2360-h1574-no
 title: "Chapter Two: Education for As Manulea"

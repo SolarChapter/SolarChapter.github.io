@@ -13,20 +13,21 @@
     title: "Chapter One: Water for Umutnana"
     ```
     This means that this pair should correspond to the page's title. I would recommend to refer to the actual page's content and backtrack the content to the markdown file.
-    - There are some pairs that are for the "configuration" of the page. Refer to your web developer to understand what they are for. Here are all of configuration pairs:
-        - `permalink`: Link of the page
-        - `layout`: Layout's file name. It lives under [_layouts](_layouts) directory
+    Configuration are classified by two groups:
+    1. Layout specific. Stored in the [_layouts](/_layouts)
         - `menu-color`: Color of the menu. Either `dark` or `light`
-        - `title`: Page's title
-        - `description`: Page's description. Used in the metadata for SEO purposes
-        - `metadataImage`: Image displayed when the page is being shared in social media.
         - `custom_css`: List of CSS files for the page
         - `custom_js`: List of JS files for the page
+    2. Page specific. Stored in the [_content](/_content)
+        - `permalink`: Page's link URL. i.e: `/donate` will make the page be accessible through `solarchapter.com/donate`
+        - `layout`: Page's layout
+        - `title`: Page's title
+        - `description`: Page's description. Used in page's metadata for SEO
+        - `metadataImage`: Page's metadata image. Used in page's metadata for SEO
     - Value can be in `html` format too for complex styling if needed.
 
 ### Adding a new project page?
 1. Check the [first project page](content/projects/chapter-one-umutnana.md) and use it as an example.
-See example commit: https://github.com/bab-surya/bab-surya.github.io/pull/34/commits/e13d751b6a1004ae137653bf3ec321d74fa56cf1
 
 ### Editing map in the projects page?
 Note: Province and Regency in the markdown and javascript file should be the same!

@@ -2,8 +2,6 @@
 permalink: /teams/
 layout: teams
 title: Solar Chapter - Teams
-custom_css:
-  - '/assets/css/teams.css'
 # Content
 background_image: |
   https://res.cloudinary.com/db1a3rvdf/image/upload/v1585684149/Solar%20Chapter%20Website/teams_page/world_map_q6cryh.png

@@ -1,17 +1,7 @@
 ---
 permalink: /projects
 layout: projects
-menu-color: 'dark'
 title: Solar Chapter - Projects
-custom_css:
-  - '/assets/css/projects.css'
-custom_js: 
-  - '/assets/js/jquery.keyframes.min.js'
-  - 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js'
-  - 'https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js'
-  - 'https://cdnjs.cloudflare.com/ajax/libs/datamaps/0.5.9/datamaps.idn.min.js'
-  - '/assets/js/datamap-icons.js'
-  - '/assets/js/projects.js'
 # Content
 statsImageGallery:
   - https://lh3.googleusercontent.com/NxrpsmbZswO-YXbCWEpznCjR2dDorwREP_LdqBqvdbGgeYXDJClDvh15Skm3ykcz3jp6iK4r1mzHGlKfTJ14mTymlKK-rEH3NdUHwxf9L49k7i8Rw14YgdjmEIggoG4av7gtZ-fgDLDXOVeyr2yq_es06j8rv37fVr5LAbMskyHFc6IHTr-xYVa_WujS5ewX0ratgGJ8QKeI1BVtFSYZJc8iBH2NIO9TqHeCX2qZJO6glXIdFP1KIZ_V0g-sIC6YxNGvU1yx5vheAqpIscVLfni8RURX8oMXSTeQiqtAizcwJxbE3jedrPsFKpJyPv5uqJxEiN5K5DZBn8pK-vfz1bv9ivKKEHrafTVx5CTcCjYyHI6SRb5Z8Mj2vT1XhW51c9E6sNIb0CzdYpPlIVCf6U5Gah8IDZv14Ol8LuukoXXrpEQcf0D2tSfsf2VdyU1uvLwX6IdmVtLy53KommmJO_MhSLA4EYlcV2ew6DmCuRBtKvlAGWoNIT2085LxUoMGCwJ61uVwLjcUMKqrFKEuBFEO-pMECrKAzIerTJPqz5ydo6I7dbSzAOCV66CuE0rqh0oE8vJJwQvFpgQrEn491gEvQ5SL6etDgBLpvT5MTObipkN3MHIHjZp4kGRPCUVX7KSLaQ3v3k7WLjVASy3b1QSU1TDZHMladwJvOYSEVQmL9b0c5w-RXPhPY7_7k5VK6hUJws3OVHujSQ9fs6SL-4xScOH08xvTurdRdFQirqqk8u5SwkqCAP8=w1379-h920-no

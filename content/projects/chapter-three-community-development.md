@@ -1,14 +1,7 @@
 ---
 permalink: /projects/chapter-three-community-development
 layout: project
-menu-color: 'dark'
 title: "Chapter Three: Community Development"
-description: |
-metadataImage: |
-custom_css:
-  - '/assets/css/project.css'
-custom_js: 
-  - '/assets/js/project.js'
 # Content
 headerImageUrl:
 title: "Chapter Three: Community Development"
