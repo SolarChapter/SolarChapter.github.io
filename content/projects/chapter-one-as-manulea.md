@@ -15,7 +15,7 @@ sections:
     tabName: "Background"
     tabContent: |
      <div class="embed-responsive embed-responsive-16by9">
-     <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=oZZi9PDoll8&t=13s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oZZi9PDoll8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <br/>
       <p class="first-reading-paragraph">
