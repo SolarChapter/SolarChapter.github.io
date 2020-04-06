@@ -24,8 +24,7 @@ sections:
   solution:
     tabName: Our Solution
     tabContent: |
-      <h3 class="section">Solution Overview</h3>
-      <p>
+      <p class="first-reading-paragraph">
         Solar Chapter provided clean water access in As Manulea by expanding on its previous project in Umutnana. The previous project in Umutnana village had 14 solar panels and the pump was working on 2/3 of its full capacity. The water provided at Umutnana was overflowing, thus adding 7 solar panels to make the pump operate at 100% capacity was sufficient to provide water to As Manulea. Other than adding solar panels, Solar Chapter also built reservoir points in As Manulea as points to store water before redistributing it. Through adding pipes also, we were able to connect our previous reservoir points in Umutnana to the ones in As Manulea. The pipes also connected the reservoirs to the water faucets in As Manulea. We built around 14 water faucets in As Manulea village for all the villagers in As Manulea. Now, all the villagers can obtain clean water access in under 5 minutes from their home.
       </p>
       <div class="img-container">
