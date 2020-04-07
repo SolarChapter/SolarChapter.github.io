@@ -1,7 +1,7 @@
 ✨☀️ Solar Chapter ☀️✨
 ===
 
-## How to?
+## Guide - How to?
 ### How to update page's content?
 1. All content are stored under the [content](content) directory. So go to that directory.
     - All page content have a file extension, namely `.md` (Markdown). This type of file is used to format your text. See what formatting you can do to your text using this [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
@@ -13,17 +13,17 @@
     title: "Chapter One: Water for Umutnana"
     ```
     This means that this pair should correspond to the page's title. I would recommend to refer to the actual page's content and backtrack the content to the markdown file.
-    Configuration are classified by two groups:
-    1. Layout specific. Stored in the [_layouts](/_layouts)
-        - `menu-color`: Color of the menu. Either `dark` or `light`
-        - `custom_css`: List of CSS files for the page
-        - `custom_js`: List of JS files for the page
-    2. Page specific. Stored in the [_content](/_content)
+    - Configuration are classified by two groups:
+    1. Page specific. Stored in the [_content](/_content)
         - `permalink`: Page's link URL. i.e: `/donate` will make the page be accessible through `solarchapter.com/donate`
         - `layout`: Page's layout
         - `title`: Page's title
         - `description`: Page's description. Used in page's metadata for SEO
         - `metadataImage`: Page's metadata image. Used in page's metadata for SEO
+    2. Layout specific. Stored in the [_layouts](/_layouts)
+        - `menu-color`: Color of the menu. Either `dark` or `light`
+        - `custom_css`: List of CSS files for the page
+        - `custom_js`: List of JS files for the page
     - Value can be in `html` format too for complex styling if needed.
 
 ### Adding a new project page?
