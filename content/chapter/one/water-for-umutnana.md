@@ -1,6 +1,6 @@
 ---
-permalink: /projects/chapter-one-water-for-umutnana
-layout: project
+permalink: /chapter/one/water-for-umutnana
+layout: chapter
 title: "Chapter One: Water for Umutnana"
 description: |
   The limited access to clean water, for the people of Umutnana, made us aware of the substandard living conditions still experienced by many Indonesian citizens. It is a challenge to obtain clean water in Umutnana. More than 700 people in the Umutnana Village, East_ Nusa Tenggara, lack access to clean water. These villagers must walk two kilometers from their homes in order to obtain water. Each day they need to make three trips, which is about four hours of their time. Time that could be spent doing something productive or their own lives. This problem gave rise to the birth of Solar Chapter

@@ -27,11 +27,11 @@
     - Value can be in `html` format too for complex styling if needed.
 
 ### Adding a new project page?
-1. Check the [first project page](content/projects/chapter-one-umutnana.md) and use it as an example.
+1. Check the [first project page](content/chapter/one/water-for-umutnana.md) and use it as an example.
 
 ### Editing map in the projects page?
 Note: Province and Regency in the markdown and javascript file should be the same!
-1. Open [projects.js](assets/js/projects.js#L1) file
+1. Open [chapters.js](assets/js/chapters.js#L1) file
 2. Update `chaptersData` variable. It's pretty self-explanatory. It contains list of "Province", "Kabupaten" and villages where Solar Chapter's projects are
 
 ### <a id="where-to-store-image-resources"></a>Where to store image resources?

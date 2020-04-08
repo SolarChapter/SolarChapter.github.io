@@ -1,5 +1,5 @@
 ---
-permalink: /teams/uiuc/
+permalink: /team/uiuc/
 layout: team
 title: Solar Chapter - UIUC Team
 metadataImage: |

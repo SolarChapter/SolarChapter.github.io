@@ -2,14 +2,14 @@
 layout: base
 menu-color: 'dark'
 custom_css:
-  - '/assets/css/projects.css'
+  - '/assets/css/chapters.css'
 custom_js: 
   - '/assets/js/jquery.keyframes.min.js'
   - 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js'
   - 'https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js'
   - 'https://cdnjs.cloudflare.com/ajax/libs/datamaps/0.5.9/datamaps.idn.min.js'
   - '/assets/js/datamap-icons.js'
-  - '/assets/js/projects.js'
+  - '/assets/js/chapters.js'
 ---
 <div class="section first stats-gallery">
   <div class="stats-background-gallery bg-carousel">
@@ -41,7 +41,7 @@ custom_js:
   <div class="row">
     <div style="width: 100%;" class="text-center">
       <h3 class="card-title">
-        Our Projects
+        Our Chapters' Projects
       </h3>
     </div>
   </div>
@@ -51,7 +51,7 @@ custom_js:
       <div class="table-responsive">
         <table class="table table-bordered" id="project-table">
           <tbody>
-            {% for province in page.projects %}
+            {% for province in page.chapters %}
               <tr class="table-active" data-province="{{ province.provinceName }}">
                 <th>Province: {{ province.provinceName }}</th>
               </tr>
@@ -63,7 +63,7 @@ custom_js:
                   <tr class="table-active" data-regency="{{ regency.regencyName }}">
                     <th class="place">{{ place.placeName }}</th>
                   </tr>
-                  {% for chapter in place.chapters %}
+                  {% for chapter in place.projects %}
                   {% if chapter.chapterLink %}
                     <tr class="clickable-row" data-href="{{ chapter.chapterLink }}" data-regency="{{ regency.regencyName }}">
                   {% else %}
