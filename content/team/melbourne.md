@@ -1,5 +1,5 @@
 ---
-permalink: /teams/melbourne/
+permalink: /team/melbourne/
 layout: team
 title: Solar Chapter - Melbourne Team
 metadataImage: |

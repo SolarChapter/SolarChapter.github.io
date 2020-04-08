@@ -1,6 +1,6 @@
 ---
-permalink: /projects/chapter-one-water-for-nibaaf
-layout: project
+permalink: /chapter/one/water-for-nibaaf
+layout: chapter
 title: "Chapter One: Water for Nibaaf"
 description: |
   Nibaaf is a village that sits in the Eastern region of Nusa Tenggara, Indonesia. The village has a population of 865 people that lives in the midst of poverty. The majority of the villagers work as farmers where water is used mainly for their agriculture practice. However it is barely enough for the daily necessities for health and hygiene. Trips to get clean water can take 2-3 hours therefore children have to skip school to keep their family healthy

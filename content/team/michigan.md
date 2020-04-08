@@ -1,5 +1,5 @@
 ---
-permalink: /teams/michigan/
+permalink: /team/michigan/
 layout: team
 title: Solar Chapter - Michigan Team
 metadataImage: |

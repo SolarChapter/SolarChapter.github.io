@@ -1,6 +1,6 @@
 ---
-permalink: /projects/chapter-two-education-for-as-manulea
-layout: project
+permalink: /chapter/two/education-for-as-manulea
+layout: chapter
 title: "Chapter One: Education for As Manulea"
 description: |
   Solar Chapter decided to make Education as its second chapter after seeing the students of SDN As Manulea during their first implementation visit for Chapter 1: Water for Umutnana, a neighboring village to As Manulea village. SDN As Manulea, at the time of visit, did not have running water in the school. The successful creation of new water channels, during Solar Chapter’s first project, led our team to believe the greater good we can engender to other places outside of Umutnana. 

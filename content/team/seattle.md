@@ -1,5 +1,5 @@
 ---
-permalink: /teams/seattle/
+permalink: /team/seattle/
 layout: team
 title: Solar Chapter - Seattle Team
 metadataImage: |

@@ -1,6 +1,6 @@
 ---
-permalink: /projects/chapter-one-water-for-biau
-layout: project
+permalink: /chapter/one/water-for-biau
+layout: chapter
 title: "Chapter One: Water for Biau"
 description: "28 million Indonesians lack access to clean water and sanitation. Help us bring that number down by 771."
 metadataImage: |

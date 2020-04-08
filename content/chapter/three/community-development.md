@@ -1,6 +1,6 @@
 ---
-permalink: /projects/chapter-three-community-development
-layout: project
+permalink: /chapter/three/community-development
+layout: chapter
 title: "Chapter Three: Community Development"
 # Content
 headerImageUrl:

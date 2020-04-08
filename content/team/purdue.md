@@ -1,5 +1,5 @@
 ---
-permalink: /teams/purdue/
+permalink: /team/purdue/
 layout: team
 title: Solar Chapter - Purdue Team
 metadataImage: |

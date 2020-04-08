@@ -1,6 +1,6 @@
 ---
-permalink: /projects/chapter-one-water-for-as-manulea
-layout: project
+permalink: /chapter/one/water-for-as-manulea
+layout: chapter
 title: "Chapter One: Water for As Manulea"
 description: |
   As Manulea village (Desa As Manuela, Malaka, Nusa Tenggara Timur, Indonesia) is the neighboring village to Umutnana Village, the location of our first project. As Manulea village has over 1,000 villagers which faces the same problem as villagers of Umutnana, they have to walk over 3 hours to obtain clean water access. As Manulea uses the same water source that villagers of Umutnana uses, the water source that we use as our project's water source.
