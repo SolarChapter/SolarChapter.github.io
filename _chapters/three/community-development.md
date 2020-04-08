@@ -1,8 +1,12 @@
 ---
-permalink: /chapter/three/community-development
 layout: chapter
 title: "Chapter Three: Community Development"
 # Content
+province: "East Nusa Tenggara"
+regency: "Malaka"
+place: "Multiple Villages"
+chapter: 3
+status: In Progress
 headerImageUrl:
 title: "Chapter Three: Community Development"
 location: "Malaka, Nusa Tenggara Timur"

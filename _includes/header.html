@@ -7,7 +7,6 @@
         <button class="sc-navbar navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item dropdown">
@@ -16,11 +15,9 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href=/teams/>All Teams</a>
-                        <a class="dropdown-item" href=/team/uiuc/>UIUC</a>
-                        <a class="dropdown-item" href=/team/michigan/>Michigan</a>
-                        <a class="dropdown-item" href=/team/purdue/>Purdue</a>
-                        <a class="dropdown-item" href=/team/melbourne/>Melbourne</a>
-                        <a class="dropdown-item" href=/team/seattle/>Seattle</a>
+                        {% for team in site.teams %}
+                            <a class="dropdown-item" href="{{ team.url }}">{{ team.headerMenuName }}</a>    
+                        {% endfor %}
                     </div>
                 </li>
                 <li class="nav-item">

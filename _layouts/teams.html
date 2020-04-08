@@ -17,28 +17,24 @@ custom_css:
 <div class="spacing"></div>
 <div class="container">
   <div class="row" style="min-height: 300px;">
-    {% for team in page.teams %}
+    {% for team in site.teams %}
     <div class="col-xs-12 col-md-4">
       <div class="card-group">
         <div class="card">
-          <img src="{{ team[1].image }}" class="card-img-top" alt="{{ team[1].title }}">
+          <img src="{{ team.locationImage }}" class="card-img-top" alt="{{ team.title }}">
           <div class="card-body">
-            <p class="card-text"> {{ team[1].quote }} </p>
+            <p class="card-text"> {{ team.quote }} </p>
             </div>
             <div class="card-footer">
-              <small class="text-muted">{{ team[1].title }}</small>
+              <small class="text-muted">{{ team.title }}</small>
             </div>
-            {% if team[1].link %}
-            <a href="{{ team[1].link }}">
-            {% endif %}
+            <a href="{{ team.url }}">
               <div class="overlay">
                 <div class="overlay-text">
-                  {{ team[1].title }}
+                  {{ team.title }}
                 </div>
               </div>
-            {% if team[1].link %}
             </a>
-            {% endif %}
           </div>
         </div>
       </div>

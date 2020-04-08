@@ -1,1 +1,9 @@
 host: 0.0.0.0
+collections:
+  chapters:
+    output: true
+    permalink: /chapter/:path/
+  teams:
+    output: true
+    sort_by: order
+    permalink: /team/:path/
