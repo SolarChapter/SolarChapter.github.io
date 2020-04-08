@@ -107,7 +107,7 @@ custom_js:
           {% endif %}
           {% if page.fundraisingLinks and page.fundraisingLinks.size > 0 %}
             {% for fundraisingLink in page.fundraisingLinks %}
-              <a href="{{ page.fundraisingLink[1].link }}" class="btn btn-solarchapter btn-block donate-cta">{{ fundraisingLink[1].title }}</a>
+              <a href="{{ fundraisingLink[1].link }}" target="_blank" class="btn btn-solarchapter btn-block donate-cta">{{ fundraisingLink[1].title }}</a>
             {% endfor %}
           {% else %}
             <a href="/donate" class="btn btn-solarchapter btn-block donate-cta">Donate</a>

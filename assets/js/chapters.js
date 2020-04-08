@@ -1,80 +1,40 @@
 const pinLatThreshold = -1.55
 const pinLongThreshold = 0.75
 
-const data = [
-  {
-    provinceName: "East Nusa Tenggara",
-    regencyName: "Central Sumba",
-    radius: 20,
-    fillKey: "in_progress",
-    latitude: (-9.555181 - pinLatThreshold),
-    longitude: (119.649682 - pinLongThreshold),
-    data: {
-      "Anapalu": [
-        {
-          title: "Chapter One: Water for Anapalu",
-          status: "In-Progress"
-        }
-      ],
-    }
-  },
-  {
-    provinceName: "East Nusa Tenggara",
-    regencyName: "Malaka",
-    radius: 40,
-    fillKey: "in_progress",
-    latitude: (-9.512735 - pinLatThreshold),
-    longitude: (124.905442 - pinLongThreshold),
-    data: {
-      "As Manulea": [
-        {
-          title: "Chapter One: Water for As Manulea",
-          status: "Completed"
-        },
-        {
-          title: "Chapter Two: Education for As Manulea",
-          status: "Completed"
-        }
-      ],
-      "Nibaaf": [
-        {
-          title: "Chapter One: Water for Nibaaf",
-          status: "In-Progress"
-        }
-      ],
-      "Umutnana": [
-        {
-          title: "Chapter One: Water for Umutnana",
-          status: "Completed"
-        }
-      ],
-      "Multiple Villages": [
-        {
-          title: "Chapter Three: Community Development",
-          status: "In-Progress"
-        }
-      ]
-    }
-  },
-  {
-    provinceName: "East Nusa Tenggara",
-    regencyName: "North Timur Tengah",
-    radius: 20,
-    fillKey: "in_progress",
-    latitude: (-9.387957 - pinLatThreshold),
-    longitude: (124.561905 - pinLongThreshold),
-    data: {
-      "Biau": [
-        {
-          title: "Chapter One: Water for Biau",
-          status: "In-Progress"
-        }
-      ],
-    }
-  }
-];
-
 $(document).ready(function() {
+  // Get projects from the table
+  const data = $('#project-table tr:not([data-latitude=""]):not([data-longitude=""])')
+      .filter((i, tr) => $(tr).data("latitude") && $(tr).data("longitude"))
+      .map((i, tr) => {
+        // Group projects by regencies
+        const regencyName = $(tr).data("regency");
+        const regencies = {
+          province: $(tr).data("province"),
+          regency: regencyName,
+          latitude: $(tr).data("latitude") - pinLatThreshold,
+          longitude: $(tr).data("longitude") - pinLongThreshold
+        };
+        const places = $(`#project-table tr[data-regency="${regencyName}"]:not([data-place=""])`);
+        regencies['fillKey'] = "Completed";
+        // Group projects by places
+        const groupedPlaces = {};
+        places
+          .filter((i, place) => $(place).data('place'))
+          .each((i, place) => {
+            const placeName = $(place).data('place');
+            (groupedPlaces[placeName] = groupedPlaces[placeName] || []).push({
+              title: $(place).data('title'),
+              status: $(place).data('status')
+            });
+            if ($(place).data("status") == "In Progress") {
+              regencies["fillKey"] = "In Progress";
+            }
+          });
+        regencies['data'] = groupedPlaces;
+        return regencies;
+      })
+      .toArray();
+
   // Map
   const map = new Datamap({
     element: document.getElementById("map-container"),
@@ -105,7 +65,6 @@ $(document).ready(function() {
         `;
         return popupHtml;
       },
-      // dataUrl: "/assets/data/indonesia-topojson-city-regency.json" // With Kabupaten data
     },
   });
 
@@ -117,7 +76,7 @@ $(document).ready(function() {
       const villagesData = data.data;
       const villagesKeys = Object.keys(villagesData);
       const infoHtml = $("<ul></ul>").attr({ class: "hover-info list-group" });
-      infoHtml.append(`<h4 class="card-title">${data.regencyName}</h4>`);
+      infoHtml.append(`<h4 class="card-title">${data.regency}</h4>`);
       for (let a = 0; a < villagesKeys.length; a++) {
         const chapter = villagesData[villagesKeys[a]];
         const villageHtml = $("<div></div>").attr({ class: "village-section" })
@@ -139,13 +98,13 @@ $(document).ready(function() {
     },
     onClick: function(data) {
       $("#project-table tr").each(function(index, element) {
-        if ($(element).data("province") != data.provinceName && $(element).data("regency") != data.regencyName) {
+        if (($(element).data("province") == data.province && !$(element).data("regency")) || $(element).data("regency") == data.regency) {
           $(element).css({
-            display: "none"
+            display: "table-row"
           });
         } else {
           $(element).css({
-            display: "table-row"
+            display: "none"
           });
         }
       });

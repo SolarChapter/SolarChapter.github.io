@@ -4,7 +4,6 @@ menu-color: 'dark'
 custom_css:
   - '/assets/css/chapters.css'
 custom_js: 
-  - '/assets/js/jquery.keyframes.min.js'
   - 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js'
   - 'https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js'
   - 'https://cdnjs.cloudflare.com/ajax/libs/datamaps/0.5.9/datamaps.idn.min.js'
@@ -51,29 +50,29 @@ custom_js:
       <div class="table-responsive">
         <table class="table table-bordered" id="project-table">
           <tbody>
-            {% for province in page.chapters %}
-              <tr class="table-active" data-province="{{ province.provinceName }}">
-                <th>Province: {{ province.provinceName }}</th>
+            {% assign provinces = site.chapters | map: 'province' | uniq %} 
+            {% assign regencies = site.chapters | map: 'regency' | uniq %}
+            {% for province in provinces %}
+              <tr class="table-active" data-province="{{ province }}">
+                <th>Province: {{ province }}</th>
               </tr>
-              {% for regency in province.regencies %}
-                <tr class="table-active" data-regency="{{ regency.regencyName }}">
-                  <th class="regency">Regency: {{ regency.regencyName }}</th>
+              {% for regency in regencies %}
+                <tr class="table-active" data-province="{{ province }}" data-regency="{{ regency }}" data-latitude={{ site.data.regencies_coordinates[regency].latitude }} data-longitude={{ site.data.regencies_coordinates[regency].longitude }}>
+                  <th class="regency">Regency: {{ regency }}</th>
                 </tr>
-                {% for place in regency.places %}
-                  <tr class="table-active" data-regency="{{ regency.regencyName }}">
-                    <th class="place">{{ place.placeName }}</th>
+                {% assign placeNames = site.chapters | where: "regency", regency | map: 'place' | uniq | sort: "place" %}
+                {% for placeName in placeNames %}
+                  <tr class="table-active" data-regency="{{ regency }}">
+                    <th class="place">{{ placeName }}</th>
                   </tr>
-                  {% for chapter in place.projects %}
-                  {% if chapter.chapterLink %}
-                    <tr class="clickable-row" data-href="{{ chapter.chapterLink }}" data-regency="{{ regency.regencyName }}">
-                  {% else %}
-                    <tr data-class="{{ province.provinceName }}" data-regency="{{ regency.regencyName }}">
-                  {% endif %}
+                  {% assign places = site.chapters | where: "place", placeName %}
+                  {% for place in places %}
+                  <tr class="clickable-row" data-href="{{ place.url }}" data-regency="{{ regency }}" data-place="{{ placeName }}" data-title="{{ place.title }}" data-status="{{ place.status }}">
                     <th class="chapter">
-                      {{ chapter.chapterTitle }}
-                      {% if chapter.chapterStatus == 'completed' %}
+                      {{ place.title }}
+                      {% if place.status == 'Completed' %}
                         <span class="badge badge-success">Completed</span>
-                      {% else if chapter.chapterStatus == 'in-progress' %}
+                      {% elsif place.status == 'In Progress' %}
                         <span class="badge badge-primary">In Progress</span>
                       {% else %}
                       {% endif %}
