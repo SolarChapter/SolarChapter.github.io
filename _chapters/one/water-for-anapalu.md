@@ -25,6 +25,28 @@ sections:
       <p class="first-reading-paragraph">
         Anapalu village (Desa Anapalu, Sumba Tengah, Nusa Tenggara Timur, Indonesia 87281) consists of three hamlets (sub-villages). Twelve people live in the First hamlet (dusun 1) which is located 1.3 miles away from the water source. More than a hundred people live in the Second hamlet (dusun 2) which is located three miles aways from the water source, along with the the Third hamlet, whose (dusun 3) villagers are scattered around the mountains surrounding them. There are a total of 165 people in Anapalu Village, all of whom do not have clean water access. Every day they have to go through multiple six-mile journeys for water. Carrying multiple heavy Jerry Cans (Plastic Containers for water) on their back, women and children in Anapalu village have to walk through desert-like trail in order to get the water needed to stay alive. 
       <p>
+  story:
+    tabName: "Stories from the field"
+    tabContent: |
+      <div class="img-container">
+        <img src="https://lh3.googleusercontent.com/jcO-ECbroL5Ttyt59cSPnEupSyKdsO9iGzAIL7LUabj3fUm8sClhUI6pUqNERx0RUW8dchr_j_6mtDdubYmbPaGkNPQN11v4yCwIIurgr5s2x-Ke-Oto-WIoWant2XgRVsiSUAJ-zJvF7KqFVRj010QoDaaIpOp1jjAW3ahNKSp0wcLnJ8NXVKgh9rwd1UgDKJKY7s_17RC9vFg6JREfFKa3rJyFrPZDHTSx3eSwRIDckoMdw_0PIx8_XyZMEFVnkCBVG6_ZQoNuelUegh0qVGx6Bbr8w_H6MJ6HRO7t-98MxkB_3d3RJIkHxEh1o6lyWfz6dqizaxEIyNiac40tj9oUPS18SHOLxk5aR7VdAkkR1p8rot_eWeKclgBwefYDMxqIEJWIH9dljJyOOk4K6MSGgd0PaDLIdpO52tpy5MEzI0XorS8_yZjattl0tdagF9aHZ9LyWk2e-RWoxA6qSRCrISyVsscNdIaH8PrA4wRO9LuKG9hXbHftT0nloJ0DDdid0ghgwUiSnGy5gXc0-PQIg1VaYU2ukFNxabUJ3FZYR7mSZLe9mVwNQfCugPu6nVshSzTckmxqEaNZeaCcKTtsO-kTsc3hSPlaAjX7mNmUGK2oDk7KaL0VGbsfmK8N6CTAYehYs0iK5TSaQaxKrX-pycGj4gI-5dnTleM0G0MUg6OzZl4XZrmfKVyYQYI1GA8KFS3ttmVWB4Uhkya07LjPUwDgnuakyPN4ZOT7wxymFo4o3ed4eI8=w500-h375-no" class="img-fluid" />
+      </div>
+      <p class="first-reading-paragraph">
+        When the dry season comes, I feel sorry for the children. They have to go get water before school for their personal needs. When I am too tired to get water, the children might not be able to go to school since they’ll have to get the water instead of me. Without water; we cannot drink, make food, and clean clothes. If there is no water the children will have a hard time, and I will have walked back and forth 3 to 4 times a day with jerry cans full of water.
+      </p>
+ 	    <p>  
+        If there are better water sources, maybe the children can do things more quickly. As a farmer myself, I realized the vitality of water. There were times where I fell and slipped, but I have no choice because it’s for the children. The thing that I fear the most is getting sick. If I’m healthy then I can help fetch water for many people. If I’m sick, they can be the ones that help fetch water for me. 
+      </p>
+      <p>
+        It’s rare for villagers to say this, but there is famine season usually in December, January, and February. During those months, it’s hard to get food and we usually only eat rice without vegetables. For villagers that don’t have rice fields, they have an extremely hard time. That’s why during harvest season, I usually share my harvest with those that don’t have rice fields. It’s rare for someone to die from hunger if someone works hard for food and drink. Everyone here has to work hard. If there’s no rice then we have to find vegetables to replace it.
+      </p>
+      <p>
+        The government recently made a program for clean kitchens. A lot of people think that the women in the village need a clean kitchen to cook. However, the main problem lies not in the kitchen, but in the access to clean water. We are tired because we have to retrieve water in the morning, afternoon and evening. We have no time to think about anything. After I finish taking water, I have nothing to do because there’s nothing to do here.
+      </p>
+      <p>
+        If I’m given books, not only the children can learn but I also can learn. I will enjoy it more if I have books, any kind. If I have a book, I can read books after I get water and increase my knowledge. If there’s easier water access, I can think about other matters and I can cook more for my children and grandchildren. I hope that children can also get books to draw and colored or maybe books for reading.
+      </p>
+     
   solution:
     tabName: Our Solution
     tabContent: |
