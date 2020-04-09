@@ -2,7 +2,6 @@
 
 .stats-gallery {
   position: relative;
-  margin-bottom: 25px;
 
   .card {
     background-color: rgba(255, 255, 255, 0.85)
@@ -14,7 +13,7 @@
     z-index: 1;
 
     .card {
-      margin-bottom: 50px;
+      margin-bottom: 75px;
     }
   }
 }
@@ -50,7 +49,7 @@
     align-items: center;
 
     img {
-      height: 600px;
+      height: 700px;
     }
   }
 }
