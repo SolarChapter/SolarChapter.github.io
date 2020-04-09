@@ -60,12 +60,12 @@ custom_js:
                 <tr class="table-active" data-province="{{ province }}" data-regency="{{ regency }}" data-latitude={{ site.data.regencies_coordinates[regency].latitude }} data-longitude={{ site.data.regencies_coordinates[regency].longitude }}>
                   <th class="regency">Regency: {{ regency }}</th>
                 </tr>
-                {% assign placeNames = site.chapters | where: "regency", regency | map: 'place' | uniq | sort: "place" %}
+                {% assign placeNames = site.chapters | where: "regency", regency | map: 'place' | uniq | sort %}
                 {% for placeName in placeNames %}
                   <tr class="table-active" data-regency="{{ regency }}">
                     <th class="place">{{ placeName }}</th>
                   </tr>
-                  {% assign places = site.chapters | where: "place", placeName %}
+                  {% assign places = site.chapters | where: "place", placeName | sort: "chapter" %}
                   {% for place in places %}
                   <tr class="clickable-row" data-href="{{ place.url }}" data-regency="{{ regency }}" data-place="{{ placeName }}" data-title="{{ place.title }}" data-status="{{ place.status }}">
                     <th class="chapter">

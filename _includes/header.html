@@ -15,7 +15,8 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href=/teams/>All Teams</a>
-                        {% for team in site.teams %}
+                        {% assign teams = site.teams | sort: "order" %}
+                        {% for team in teams %}
                             <a class="dropdown-item" href="{{ team.url }}">{{ team.headerMenuName }}</a>    
                         {% endfor %}
                     </div>
