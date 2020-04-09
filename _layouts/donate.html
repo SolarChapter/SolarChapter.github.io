@@ -37,12 +37,12 @@ custom_css:
             {% if chapter.fundraisingLinks and chapter.fundraisingLinks.size > 0 %}
                 <div class="col-xs-12 col-md-4">
                     <div class="card donation-cards card-item">
-                        {% if chapter.headerImageUrl %}
-                        <img src="{{ chapter.headerImageUrl }}" class="card-img-top" />
+                        {% if chapter.metadataImage %}
+                        <img src="{{ chapter.metadataImage }}" class="card-img-top" />
                         {% endif %}
                         <div class="card-body text-secondary">
                             <h5 class="card-title">{{ chapter.title }}</h5>
-                            <a class="donate-card-cta btn btn-solarchapter-sec btn-sm btn-block" href="{{ chapter.url }}">Project Details</a>
+                            <a class="donate-card-cta btn btn-solarchapter-sec btn-sm btn-block" href="{{ chapter.permalink | default: chapter.url }}">Project Details</a>
                             {% if chapter.fundraisingLinks and chapter.fundraisingLinks.size > 0 %}
                             <hr />
                             {% endif %}
