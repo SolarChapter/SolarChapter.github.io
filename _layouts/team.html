@@ -5,13 +5,12 @@ custom_css:
   - '/assets/css/teams.css'
   - '/assets/css/team.css'
 ---
-<link href="https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap" rel="stylesheet">
 <div class="section-content-container">
   <div class="section-content bg" style="background-image: url({{ page.team_image }});"></div>
   <div class="container">
     <div class="row align-items-center" style="min-height: 300px;">
       <div class="title">
-        <p style="font-family: 'Rock Salt', cursive; font-size: 38px;">{{ page.title }}</p>
+        <h3>{{ page.title }}</h3>
         {% if page.location %}
           <p>
             <div class="icon fa fa-map-marker"></div>
@@ -24,8 +23,9 @@ custom_css:
 </div>
 <div class="container">
   <div class="row align-items-center" style="min-height: 100px;">
-    <div class="title">
+    <div class="title" style="margin-top: 50px;">
       <img src='/assets/media/daun.png' />
+      <div class="card-title">Personnel</div>
     </div>
   </div>
 </div>
