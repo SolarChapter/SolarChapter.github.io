@@ -309,6 +309,15 @@ span.block {
   to { transform: translate(-50%, -50%) }
 }
 
+.fade-in {
+  animation: fadeIn 1s linear 1;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
 // Footer
 footer {
   padding: 50px 0px 20px 0;

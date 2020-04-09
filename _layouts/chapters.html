@@ -67,9 +67,9 @@ custom_js:
                   </tr>
                   {% assign places = site.chapters | where: "place", placeName | sort: "chapter" %}
                   {% for place in places %}
-                  <tr class="clickable-row" data-href="{{ place.url }}" data-regency="{{ regency }}" data-place="{{ placeName }}" data-title="{{ place.title }}" data-status="{{ place.status }}">
+                  <tr class="clickable-row" data-href="{{ place.permalink | default: place.url }}" data-regency="{{ regency }}" data-place="{{ placeName }}" data-title="{{ place.chapterTitle }}" data-status="{{ place.status }}">
                     <th class="chapter">
-                      {{ place.title }}
+                      {{ place.chapterTitle }}
                       {% if place.status == 'Completed' %}
                         <span class="badge badge-success">Completed</span>
                       {% elsif place.status == 'In Progress' %}

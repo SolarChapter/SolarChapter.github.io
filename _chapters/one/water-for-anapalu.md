@@ -11,7 +11,7 @@ regency: "Central Sumba"
 place: "Anapalu"
 chapter: 1
 status: In Progress
-title: "Chapter One: Water for Anapalu"
+chapterTitle: "Chapter One: Water for Anapalu"
 location: "Desa Anapalu, Nusa Tenggara Timur"
 headerImageUrl: https://lh3.googleusercontent.com/L0Vj98q5cAtVEE5eegCunrMaz69IYZ9Xivzl1j22mMOY1hrwQsPMyW88jUxXCDjfMkN2kLhe3mlqMzg_u0jC9s8sH3bg17AYMNFK9PHDWwu3eT6yMZdGorSjN2rAFSaPJ3fEg4Qv1-cy6Rl8DoHdCqjdxZ23EoGInzsuuYBqZ0bzAJuvT31dMY5AXBCwRl1qQ7v3u9r-DOUvgWCHdp_v2-1XXvw34DcHwg0ZtVY0q01mctIvusxmU-_btCr4xKeJzyD8kZXWeVyOE7DR3jjjG4C8F_QqfJm2hK9h8YECVXZutzfw6JoG7OTXyEjAznuhZLCc9HUvBzEGQ3swREnr1yagn6AnnszdxAtTBCSG92wroYsIBfRwIP3rjDoIlvXdVupJn9AVXYxr7LqfywP_9nyv9PKzvCdhlrssYgORqbOHHzzuCmM-essdwYc3lr4k2oJB99GvhjjFJbl053upl80gli5lmupKg_yA4Qdk7XPTumCRCwuWN_BUBxCv_qFD7RtDO7MQ881q-uwDxJtV7ejR7kkBohb779NDXyZPMQ3GJwtE0P2WvfmAsy3boyfxXAM8gfKMtxftLSv2KhlpV33IkNZyv-kLdQq4tdyUb5_cdc6KA7sYZduY4tYWN8sdCT6eJiF9bDiZPZbU42ULQAvmoO7sSOEyIxMT6El37Ej4SG7vo8JXsKY1Bx7-QyLkhennqPfrxss3mJg-RfjCLwVGcEbCtGXjDbOtAQ7y5gzsd8e157Db1dI=w1920-h1080-no
 sections:
@@ -34,7 +34,7 @@ sections:
       <p class="first-reading-paragraph">
         When the dry season comes, I feel sorry for the children. They have to go get water before school for their personal needs. When I am too tired to get water, the children might not be able to go to school since they’ll have to get the water instead of me. Without water; we cannot drink, make food, and clean clothes. If there is no water the children will have a hard time, and I will have walked back and forth 3 to 4 times a day with jerry cans full of water.
       </p>
-      <p>  
+      <p>
         If there are better water sources, maybe the children can do things more quickly. As a farmer myself, I realized the vitality of water. There were times where I fell and slipped, but I have no choice because it’s for the children. The thing that I fear the most is getting sick. If I’m healthy then I can help fetch water for many people. If I’m sick, they can be the ones that help fetch water for me. 
       </p>
       <p>
