@@ -23,7 +23,9 @@ landingLogoButton:
 landingPageContent: |
   <div class="container">
     <div class="row">
-      <p class="first-reading-paragraph">Our initiative, MAKNA (/mak·na/), means purpose. This initiative is inspired by the Umutnana's women tenun community. Consisting of 20 village women, their work is to weave and produce tenun products. They used to have a ‘tenun-house’ that was rebuilt to become a health clinic (Puskesmas) due to not able to sell their products to a market or a distributor. These products are only available to sell whenever visitors come from the neighboring city of Kupang or given as gifts to government officials.</p>
+      <div class="col">
+        <p class="first-reading-paragraph">Our initiative, MAKNA (/mak·na/), means purpose. This initiative is inspired by the Umutnana's women tenun community. Consisting of 20 village women, their work is to weave and produce tenun products. They used to have a ‘tenun-house’ that was rebuilt to become a health clinic (Puskesmas) due to not able to sell their products to a market or a distributor. These products are only available to sell whenever visitors come from the neighboring city of Kupang or given as gifts to government officials.</p>
+      </div>
     </div>
   </div>
 landing_image: https://lh3.googleusercontent.com/LQraxcFR1S1cCbH9AO_cevaTlDop9a2OiAaqrfZLYo4EeAPLXohWtsMfD9yjKOFJM3KAlrASEQ4Upv1ECYWDoa3ML8Ipeheh89YQtUU6ePTcGd1-k2dk4lr7mmkr6Y_gM_GSWWREiMtufKmSX92kTfgFnw4i_4qjV__xSnYaIAhTSyVeqA6D9M_dlXO2s9JG5n7tsd5VVCUT26npIovJrONuLIHtTTpXR1QOFbtsyZnF7j-lJm-J2Kpd84OQ8XO07bl7LneVE3aM8ehUh5o9zjRLdk0X7eFBzMwKe11r5ddyBa_fjeLWjXqP1h-1XCViivZZ7JRTxsp9auwvnIz1nShf48R5TkTrB7wVS9yvYSPGTlsEdRDcHsRrU6y25CEEyElkj8J33OpSYLfKLyx8tq5OfI2RBykkKHz58fPkO3NdpRXUAfeTXrAPoil40zB_os6IVQ4T5EMXOtucj4PdbQ-4huCMMtme8TVf2Q4GK1bGQ6BJsQqc-eqAwg4sangR08RWdRJp0gDb8L5zRvuaHe_54IjNLanfIaee2xbQehxM-ERLIEj2NKOEXSUO3JQbQKQj1iGTl-aegiduTBF74AySNqguJg3iAB7-Ld-hQv2IGZamx0BfCLvhZXV1uZY3mN3aO1LVYqdIM6JU7alE7nkJQYG49i9lkBkL-nakqglEkqS_HlS2V9Y9SqIXwTiQAlzQ6YeFCVbZJ1dHdwsD330Z7gMsNJCy2-kpVgbe2eolmQ-k5E2-zbQ=w3024-h2018-no

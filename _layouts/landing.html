@@ -9,12 +9,12 @@ custom_js:
 {% assign logoMarginTop = page.landingLogoHeight | divided_by: 2 | times: -1 | append: "px" %}
 {% assign logoMarginLeft = page.landingLogoWidth | divided_by: 2 | times: -1 | append: "px" %}
 <div class="section-content-container landing-full" {{ landingBackgroundStyle }}>
-  {% assign logoContainerStyle = "style='top: " | append: page.landingLogoTopLocation | append: "; left: " | append: page.landingLogoLeftLocation | append: "; width: " | append: page.landingLogoWidth | append: "; height: " | append: page.landingLogoHeight | append: "; margin-top: " | append: logoMarginTop | append: "; margin-left: " | append: logoMarginLeft | append: ";'" %}
+  {% assign logoContainerStyle = "style='top: " | append: page.landingLogoTopLocation | append: "; left: " | append: page.landingLogoLeftLocation | append: "; width: " | append: page.landingLogoWidth | append: "; margin-top: " | append: logoMarginTop | append: "; margin-left: " | append: logoMarginLeft | append: ";'" %}
   {% assign logoStyle = "style='content: url(" | append: page.landingLogo | append: ");" | append: "; width: " | append: page.landingLogoWidth | append: "; height: " | append: page.landingLogoHeight | append: ";'" %}
   <div class="logo-container" {{ logoContainerStyle }}>
     <img class="logo" {{ logoStyle }} />
     {% if page.landingLogoButton %}
-      <a class="cta btn btn-solarchapter" href="{{ page.landingLogoButton.link }}">{{ page.landingLogoButton.title }}</a>
+      <a class="cta btn btn-solarchapter" target="_blank" href="{{ page.landingLogoButton.link }}">{{ page.landingLogoButton.title }}</a>
     {% endif %}
   </div>
 </div>
