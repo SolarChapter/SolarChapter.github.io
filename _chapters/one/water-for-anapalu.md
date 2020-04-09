@@ -34,7 +34,7 @@ sections:
       <p class="first-reading-paragraph">
         When the dry season comes, I feel sorry for the children. They have to go get water before school for their personal needs. When I am too tired to get water, the children might not be able to go to school since they’ll have to get the water instead of me. Without water; we cannot drink, make food, and clean clothes. If there is no water the children will have a hard time, and I will have walked back and forth 3 to 4 times a day with jerry cans full of water.
       </p>
- 	    <p>  
+      <p>
         If there are better water sources, maybe the children can do things more quickly. As a farmer myself, I realized the vitality of water. There were times where I fell and slipped, but I have no choice because it’s for the children. The thing that I fear the most is getting sick. If I’m healthy then I can help fetch water for many people. If I’m sick, they can be the ones that help fetch water for me. 
       </p>
       <p>
