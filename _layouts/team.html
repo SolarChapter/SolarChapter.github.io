@@ -6,7 +6,8 @@ custom_css:
   - '/assets/css/team.css'
 ---
 <div class="section-content-container">
-  <div class="section-content bg" style="background-image: url({{ page.team_image }});"></div>
+  {% assign backgroundImage = "style='background-image: url(" | append: page.team_image | append: ");'" %}
+  <div class="section-content bg" {{ backgroundImage }}></div>
   <div class="container">
     <div class="row align-items-center" style="min-height: 300px;">
       <div class="title">
