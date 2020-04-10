@@ -28,6 +28,9 @@ sections:
       <p>
         Every day they have to go through multiple six-mile journeys for water. Carrying multiple heavy Jerry Cans (Plastic Containers for water) on their back, women and children in Anapalu village have to walk through desert-like trail in order to get the water needed to stay alive. 
       </p>
+      <div class="lead-quote">
+        <b>"T I want it for my grandchildren so that they can live a calm life without worrying about getting water or getting sick from the poor water sanitation in the village - Roti, 84 "</b>
+      </div>
   story:
     tabName: "Stories from the field"
     tabContent: |
@@ -45,6 +48,17 @@ sections:
       <div class="lead-quote">
         <b>"This is not just my story, but the story of every child in Anapalu village. They feel the same way as me but we all have no choice but to do it."</b>
       </div>
+      <div class="img-container">
+        <img src="https://lh3.googleusercontent.com/J04JuyAepSAn6ZISKWcGOEVhfrf0G9gLz3j41U4NqQDQJvwYgGzEMOo7QEjTUpkKfY-JN5CUIWR9mVRVZseHeoO-sUj4D3Tl1dicxFpJBZAPOBUOu8_guXw_VPywTZ6CK8yD7h9mwg5Up47MVqzXMKPAvMfzbHWOFQ5pY-avQ70meHMhksXtZlgtqnPPHZkOfvlspqX0oMI1hvBK6R0BywtmmzVN7IsVzBxHOssG91REBOvbvz9qtucsdMat1oJHb4f_6gBCSd0ij7h-aWHSj4gvQV7BH5LM3kYBG80agdV9WBZjLL6HOi2ukhzLC_jitMDKDKuYZszuoIROuhVmPdfpq1NrWwNImWgz1Wss_O__iY9JcwQRkJFyghlsAxGKBLgSIJWujp30gPdAzgmzlCwdvriDFYnx3wwyWNK-DGEK-63MV4CrjHOmi-Bsy9yX4kNK-Be3Iewf98gAR1_49p5P-UYrGAaWmWMRwK1o4RRYTTY9feSdqg7Xxutj97VC5zqa4JBo9va93oh0aL5oL-o8wZvYZVCyuhiIUjEBO1Il5b0OgRSfLYRVgUNGdIP5SQ8-aOWhZYFB_w-sFGa7e58hf_-Cc2w3kcaQ8rjBOwGOrYWOgPdvzneC1u3L2AzHiAKdj1oru0fHW-G_pGML2QLCiAVSQrG5h7Zj-ZvBi3cQOdgYDlYuWJyjN86ycSh-Qp8UC7NVjDG74PnuUvN8CBNjn8KHu26DjWGubeD6jPZJH2MVKwtlhQ=w1350-h650-no" class="img-fluid" />
+      </div>
+      <p>
+      </p>
+      <p class="first-reading-paragraph">
+        I am 12 years old and I was told to bring 2 jerry cans two times a day. It’s really far and heavy to bring those jerry cans but I never complain. If I fall, I never cry. If I bleed, I also don’t cry. I will just continue to walk and get water. I often have to wake up at 4am in the morning just to get water. At 8am, I arrive at school already tired. After I finish school, I have to walk to get water again. I will be so happy if I have the time to play soccer after school, but I never had the chance because I need to get water. This is because water is more important for me because I need water to drink, wash clothes and for food.
+      </p>	
+      <p>
+        I really want to play soccer more often without thinking that I have to get water. If later there is water access, I want to play soccer more often.
+      </p>
   solution:
     tabName: Our Solution
     tabContent: |
