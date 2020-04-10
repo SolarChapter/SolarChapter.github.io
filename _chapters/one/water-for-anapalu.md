@@ -34,6 +34,8 @@ sections:
       <div class="img-container">
         <img src="https://lh3.googleusercontent.com/Z333YVakFAPAWR1rGpJW0xLKEet50dMDiI-ofHxDzof0yg60ejoU9DYv-jeipJa-0X8vjHpmCjLfY_TLWfId9e08_3M_odwoTYpc5MuK8E-wJPVex-pPbpg07V8Tp6t7pYvWXUG5uFH0DXyLBzCLYihsEeD8yPYiTuJ_sOHL1u0r6dvKW4wIecR01vVtfpiSq0exVEOnDTmsav8TfP95iFYpPhc7HYyyApWwLFAdMoYWVRD4BYstAEN0vgt4lNJrBNwXIHO-qUkGV-zXJZE65aKmFbuCJdx0oEN4mCwXs5GKIQXFmE-Gz6XI5FCe_dOIfUjcL4xt9r-35-9ITGEfDUVuv9xRN4iBKHvZPF8uP2ScXg_xg_XapqSRb7yPlXWCt3YQm4A1iFQgEeoxRuz-bx-pey-KYBGWFykUIS7_EWy_ICW-q8VELHVOYrg2MvvgYMXQwsyY3hgkAShANPyeLC_9runx4DglNSgdhCfN-ls6yONj4sfe9OkByZGA11xSeTt7YMTgYjxkmzstNbR1LrHh-vcEa118b7cjHiCBu_7sSH6yBBBjBck7npuxfXg2VdFgVhGPAHVI_2uDuMbPE1th3sJrAKUnrDxWXE5LtjZoPekSCRvoHbB1DkpAxHrZqNM-N__MySY7ocvFPBKMBiHHCcG1ucIiDOTx0VXjhC6aYV8WGifUH9ktbCCthQr9yM-XLgq4jDmEzXtjhIAn_ivGUeaz2TgfFWbal65XbWPaITZUcRiYztw=w1197-h576-no" class="img-fluid" />
       </div>
+      <p>
+      </p>
       <p class="first-reading-paragraph">
         Every day, I have to take water with jerry cans. It’s hard, but I still have to take water. I would wrap cloth around my head and then put jerry cans above it. Usually the amount of jerry cans will differ among people. During summer, I usually bring water five times a day. I have to walk through mountains that are located so far away just to get water. I fell very often. There’s one time where I fell until it’s hard for me to walk. However, I have no choice since I have no water and money for medication. When I sprained, slipped or bleed, I had to force myself to stand and continue the journey to get water since I needed to survive.
       </p>
