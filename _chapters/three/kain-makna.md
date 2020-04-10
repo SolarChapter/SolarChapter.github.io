@@ -1,7 +1,8 @@
 ---
 layout: landing
 title: "Solar Chapter - Kain Makna"
-description: 
+description: |
+  Our initiative, MAKNA (/mak·na/), means purpose. This initiative is inspired by the Umutnana's women tenun community. Consisting of 20 village women, their work is to weave and produce tenun products. They used to have a ‘tenun-house’ that was rebuilt to become a health clinic (Puskesmas) due to not able to sell their products to a market or a distributor. These products are only available to sell whenever visitors come from the neighboring city of Kupang or given as gifts to government officials.
 metadataImage: |
   https://lh3.googleusercontent.com/NxhXQzI6m5Fzqfz4qLk2Wi9ShGmP19h8x64PcwhnqUg2y7Us4gEuAHzdrhfbqEcTZ0Xsqw6e3o0EuemdaCb8DJzFSHNEXSsoo9WERlgbNfzWnmBCGTQ4ZV1m_-cwzTG-PdTQN8f7-SOk6o6Xn891fCE85aXAAztijSL60qHoPI8CJSiwJTKpkdfS6DABDdHsd38jteR6AjoFa998C0O0OV1YjGrw2ATHNHhMZYiFU5TMtCGlKCwx5Oijf5WM1OB0WNKQ-YTNY719EUikXUfRMjDrVJxpn0CHX7fcMGleDFr7ZbtOv4i5fJdgenKHaYwTzMtBej0u9tW-7KwIdUkCII0o7CRUPK3L59GGFLJoGR_fHKobfBouVaHOgfUPRbLqBHGnNbhUlIOdMfts0ctT6SsLFIgTTjrPPploZNtDTg2xL9YYEKNXDPlx5WIwgXNftfTBdnX0LWUeVkv56y6_5Onpe0r7jDwNXHXBu948kIEkEs1cmlOTt6BUWH98fuinuf1oV-07kzx__NH3gaCHYz7QgUhU3Rb6UTsa4x7032pv9034eSWUxJgZw1izIma5z2ycGaCZiY5vLpnXpUx_ZE1AR5vvorZkpPy9VSMNG5AsSC3mnFKv7rZ4uyVGl7wOpB3ypGVX_74zHhLxtIaO3wjkMyo4ZJTtzhhOpRkaQj3yF2jKHxcQPZiATdMUx7E4-W3kTx8_yq7g71A0wUt1XanRpSSi1Lko1FKPeP02bSR9l-zpP-JR0bk=w1500-h1001-no
 # Content
