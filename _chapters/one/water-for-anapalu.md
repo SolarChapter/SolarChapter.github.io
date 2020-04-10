@@ -29,7 +29,7 @@ sections:
         Every day they have to go through multiple six-mile journeys for water. Carrying multiple heavy Jerry Cans (Plastic Containers for water) on their back, women and children in Anapalu village have to walk through desert-like trail in order to get the water needed to stay alive. 
       </p>
       <div class="lead-quote">
-        <b>"T I want it for my grandchildren so that they can live a calm life without worrying about getting water or getting sick from the poor water sanitation in the village - Roti, 84 "</b>
+        <b>"I want it for my grandchildren so that they can live a calm life without worrying about getting water or getting sick from the poor water sanitation in the village - Roti, 84 "</b>
       </div>
   story:
     tabName: "Stories from the field"
