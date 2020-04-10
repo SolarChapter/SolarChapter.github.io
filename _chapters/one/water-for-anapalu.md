@@ -19,11 +19,14 @@ sections:
     tabName: "Background"
     tabContent: |
      <div class="embed-responsive embed-responsive-16by9">
-     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jRj_AQMGHq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/maJCwtWU4Ek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <br/>
       <p class="first-reading-paragraph">
-        Anapalu village (Desa Anapalu, Sumba Tengah, Nusa Tenggara Timur, Indonesia 87281) consists of three hamlets (sub-villages). Twelve people live in the First hamlet (dusun 1) which is located 1.3 miles away from the water source. More than a hundred people live in the Second hamlet (dusun 2) which is located three miles aways from the water source, along with the the Third hamlet, whose (dusun 3) villagers are scattered around the mountains surrounding them. There are a total of 165 people in Anapalu Village, all of whom do not have clean water access. Every day they have to go through multiple six-mile journeys for water. Carrying multiple heavy Jerry Cans (Plastic Containers for water) on their back, women and children in Anapalu village have to walk through desert-like trail in order to get the water needed to stay alive. 
+        Anapalu village (Desa Anapalu, Sumba Tengah, Nusa Tenggara Timur, Indonesia 87281) consists of three hamlets (sub-villages). Twelve people live in the First hamlet (dusun 1) which is located 1.3 miles away from the water source. More than a hundred people live in the Second hamlet (dusun 2) which is located three miles aways from the water source, along with the the Third hamlet, whose (dusun 3) villagers are scattered around the mountains surrounding them. There are a total of 165 people in Anapalu Village, all of whom do not have clean water access. 
+      </p>
+      <p>
+        Every day they have to go through multiple six-mile journeys for water. Carrying multiple heavy Jerry Cans (Plastic Containers for water) on their back, women and children in Anapalu village have to walk through desert-like trail in order to get the water needed to stay alive. 
       </p>
   story:
     tabName: "Stories from the field"
