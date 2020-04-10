@@ -8,13 +8,36 @@ custom_js:
 {% assign landingBackgroundStyle = "style='background-image: url(" | append: page.landing_image | append: ");'" %}
 {% assign logoMarginTop = page.landingLogoHeight | divided_by: 2 | times: -1 | append: "px" %}
 {% assign logoMarginLeft = page.landingLogoWidth | divided_by: 2 | times: -1 | append: "px" %}
-<div class="section-content-container landing-full" {{ landingBackgroundStyle }}>
-  {% assign logoContainerStyle = "style='top: " | append: page.landingLogoTopLocation | append: "; left: " | append: page.landingLogoLeftLocation | append: "; width: " | append: page.landingLogoWidth | append: "; margin-top: " | append: logoMarginTop | append: "; margin-left: " | append: logoMarginLeft | append: ";'" %}
-  {% assign logoStyle = "style='content: url(" | append: page.landingLogo | append: ");" | append: "; width: " | append: page.landingLogoWidth | append: "; height: " | append: page.landingLogoHeight | append: ";'" %}
-  <div class="logo-container" {{ logoContainerStyle }}>
-    <img class="logo" {{ logoStyle }} />
-    {% if page.landingLogoButton %}
-      <a class="cta btn btn-solarchapter" target="_blank" href="{{ page.landingLogoButton.link }}">{{ page.landingLogoButton.title }}</a>
-    {% endif %}
+<div class="landing-full-container">
+  <div class="section-content-container landing-full" {{ landingBackgroundStyle }}>
+    {% assign logoContainerStyle = "style='top: " | append: page.landingLogoTopLocation | append: "; left: " | append: page.landingLogoLeftLocation | append: "; width: " | append: page.landingLogoWidth | append: "; margin-top: " | append: logoMarginTop | append: "; margin-left: " | append: logoMarginLeft | append: ";'" %}
+    {% assign logoStyle = "style='content: url(" | append: page.landingLogo | append: ");" | append: "; width: " | append: page.landingLogoWidth | append: "; height: " | append: page.landingLogoHeight | append: ";'" %}
+    <div class="logo-container" {{ logoContainerStyle }}>
+      <img class="logo" {{ logoStyle }} />
+      {% if page.landingLogoButton %}
+        <a class="cta btn btn-solarchapter" target="_blank" href="{{ page.landingLogoButton.link }}">{{ page.landingLogoButton.title }}</a>
+      {% endif %}
+    </div>
   </div>
+</div>
+<div class="landing-page-content">
+   <div class="container">
+    <div class="row">
+      <div class="col">
+        <p class="first-reading-paragraph">
+          {{ page.mainParagraph }}
+        </p>
+      </div>
+    </div>
+    {% for section in page.sections %}
+      <div class="row supporting-paragraph">
+        <div class="col">
+          <img class="supporting-img rounded float-{{ section.imagePosition }}" src="{{ section.image }}">
+          <div class="supporting-content">
+            {{ section.content}}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+   </div>
 </div>

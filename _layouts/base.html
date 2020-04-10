@@ -48,14 +48,7 @@
   </head>
   <body>
     {% include header.html %}
-    <div class='content'>
-      {{ content }}
-    </div>
-    {% if page.landingPageContent %}
-    <div class="landing-page-content">
-      {{ page.landingPageContent }}
-    </div>
-    {% endif %}
+    {{ content }}
     {% include footer.html %}
     <!--Javascript-->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"
