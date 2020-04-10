@@ -40,10 +40,10 @@ sections:
         Every day, I have to take water with jerry cans. It’s hard, but I still have to take water. I would wrap cloth around my head and then put jerry cans above it. Usually the amount of jerry cans will differ among people. During summer, I usually bring water five times a day. I have to walk through mountains that are located so far away just to get water. I fell very often. There’s one time where I fell until it’s hard for me to walk. However, I have no choice since I have no water and money for medication. When I sprained, slipped or bleed, I had to force myself to stand and continue the journey to get water since I needed to survive.
       </p>
       <p> 
-        I’m thankful that there’s water in the school that I teach. As a kindergarten teacher teaching 5 years old kids, I know that water is so important. However, in the sub-village that I live in, access to water is hard and is located far away. I remembered when I was 5 years old, I was asked to bring a plastic water bottle and walk through mountains to get water.
+        I’m thankful that there’s water in the school that I teach. As a kindergarten teacher teaching 5 years old kids, I know that water is so important. However, in the sub-village that I live in, access to water is hard and is located far away. I remembered when I was 5 years old, I was asked to bring a plastic water bottle and walk through mountains to get water. When I was 7, I had to bring jerry cans to get water even though I was still young at that time.
       </p>
       <div class="lead-quote">
-        <b>"When I was 7, I had to bring jerry cans to get water even though I was still young at that time. This is not just my story, but the story of every child in Anapalu village. They feel the same way as me but we all have no choice but to do it."</b>
+        <b>"This is not just my story, but the story of every child in Anapalu village. They feel the same way as me but we all have no choice but to do it."</b>
       </div>
   solution:
     tabName: Our Solution
