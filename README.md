@@ -105,6 +105,13 @@ If possible, always serve files through Google Photos because repository is not 
 - View the image and right-click the image and select "Copy image address". The image address should be hosted at `lh3.googleusercontent.com`. **Make sure that the image/album of the image is marked as share-able**
 2. Store videos at Cloudinary. Contact Solar Chapter for account access 
 
+## SEO
+SEO is used for search engine and social media post's preview data. i.e: Google, Facebook/Twitter/Linkedin post preview
+These variables are for SEO:
+- `title`: Title of the page
+- `description`: Description of the page
+- `metadataImage`: Main image of the page. Normally shown in FB/Twitter/Linkedin's preview post
+
 ## Developer Notes
 1. Don't forget to have `---` to start and end your `Markdown` files!
 2. Read [Jekyll](https://jekyllrb.com/)
