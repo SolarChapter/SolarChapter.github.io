@@ -41,7 +41,7 @@ custom_css:
                         <img src="{{ chapter.metadataImage }}" class="card-img-top" />
                         {% endif %}
                         <div class="card-body text-secondary">
-                            <h5 class="card-title">{{ chapter.title }}</h5>
+                            <h5 class="card-title">{{ chapter.chapterTitle }}</h5>
                             <a class="donate-card-cta btn btn-solarchapter-sec btn-sm btn-block" href="{{ chapter.permalink | default: chapter.url }}">Project Details</a>
                             {% if chapter.fundraisingLinks and chapter.fundraisingLinks.size > 0 %}
                             <hr />

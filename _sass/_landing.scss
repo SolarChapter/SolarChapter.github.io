@@ -5,10 +5,32 @@ html {
     height: 100%;
 
     .landing-page-content {
-      padding: 50px 0;
+      padding: 50px 0 0 0;
+      overflow: hidden;
+
+      .first-reading-paragraph {
+        margin-bottom: 40px;
+      }
+
+      .row.supporting-paragraph {
+        margin-bottom: 20px;
+
+        .supporting-img {
+          max-width: 400px;
+          margin-bottom: 20px;
+        }
+
+        .float-left.supporting-img {
+          margin-right: 20px;
+        }
+
+        .float-right.supporting-img {
+          margin-left: 20px;
+        }
+      }
     }
 
-    .content {
+    .landing-full-container {
       height: 100%;
 
       .landing-full {
@@ -33,9 +55,16 @@ html {
         position: absolute;
         opacity: 0;
         animation-fill-mode: forwards;
+        height: 100%;
+
+        .logo {
+          margin-bottom: 10px;
+        }
 
         .cta {
-          margin-top: 10px;
+          position: sticky;
+          top: 20px;
+          z-index: 1;
         }
       }
     }
