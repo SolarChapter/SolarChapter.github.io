@@ -218,7 +218,7 @@ custom_js:
 </div>
 <!-- IMPACTS -->
 <div class="section impacts">
-  <div class="impacts-background-gallery bg-carousel">
+  <div class="impacts-background-gallery bg-carousel" style="animation-duration: {{ page.impactCarouselDuration }};">
     {% for url in page.impactsImageGallery %}
       <div class='slide'>
         <img src='{{url}}' />
@@ -283,7 +283,7 @@ custom_js:
       </div>
     </div>
   </div>
-  <div class="sponsors-carousel bg-carousel">
+  <div class="sponsors-carousel bg-carousel" style="animation-duration: {{ page.sponsorCarouselDuration }};">
     {% for sponsor in page.sponsors %}
     <div class="slide sponsor-img-box">
       {% if sponsor.link %}
