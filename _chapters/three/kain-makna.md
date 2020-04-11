@@ -21,11 +21,13 @@ landingLogoButton:
   title: "Get Your Threads"
   link: "https://shopee.co.id/"
 mainParagraph: |
-  Like in many villages in Nusa Tenggara Timur (NTT), the women of Desa Umutnana regularly weaves kain tenun daily. However, while some tenun communities on the island are able to access the market due to their proximity to the capital of NTT, the Umutnana Tenun Community is not. This has caused the tradition of weaving to slowly fade in younger girls, which is a concern for the village’s women figures. Our initiative, Kain Makna, helps the women of Desa Umutnana rediscover their purpose in weaving by selling their handmade kain tenun to people in Jakarta, Bandung and beyond. We also have a social media movement called #Ayopakaikain to get young people to wear Indonesian fabrics wherever they are. Join our movement, buy our products, and support the women of Desa Umutnana. 
   <div class="img-container">
     <img src="https://lh3.googleusercontent.com/2fiR8R7zM0eHwT90Ty7aWBcCqcVAaOARHjC_o0znaV-xvFTXFa6sgxFkhowuyinLJJ9kxmqbfz7Lhiszvb_8VX2F-1EF_uRS_sUAWzPSCBCosKbDaihG97jWl7QnhXaJntC8SHYGLIwc3sF6N8pCs1q-8mV1ucG5HxscK958PdgA_6DpPyL9VsU7cI0RNH_F1kD2r7r69w1w2tdZsLxZLVXJcCmgkLj7z61_fKhR7SR9EIbNgFMPKlA9SJ_LGZB33PabJGtSq1KnTWcgTjzvaa5Uq8VEucl5BDgXbuJsZHOOGkLK-MM_bjopO_FWs38XXatQ75IhydOp3hdZgHohVqe7rvnFQBK3EMAJclTnzUYtdk_ZwRB_Socl02km6aFBRP54WQOudSy9DyG8Xe4tBd65yLBvn4vYteWVQotJt8SQKgCZm0iwzMkE5iSYMeHt26HjVY2FYzelCh58Pg_bo61HQvZG3uASbzApQ5pZjE09qFhQT6IA-Aa0JP8degy72DEKjrLcjK9iDKh-YciTat_Rt3RSu-b6GevkYbWNulMN0ekKjq1PHjehGAHd5XKFp8Si835-HXmb-A9RLw8QVsYWhsIX427AgMr7vuDq51HnL9ZuDpRu2dO-dNn_zF4PPcW-HUGtm6vUg7QqG0VCE89kJk_sUMdaN1eEkUlF5xBDl1hfB3fmBPUm7eeE8hhhJQlNA9Fja3Ic9ts00a7OEEFplqslmz4KMBr7m2gFo3ZA88YjjFZI5w=w1921-h640-no" class="img-fluid" />
   </div>
- 
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/maJCwtWU4Ek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <br/>
 sections:
   - image: https://lh3.googleusercontent.com/QtnUPmZbO9eI_O04Maj3miRJucCfeIg9oUwKM0Vd1AtI28jCwJFBtdRKCwW0f8GrRanOZzkii0xh1rCaLlkbG3O3o2lqcc4hIdMPFwgIC6jG-01LOgoPuqjkBKz7X6RNPNNO1N5hkgnmloiVsKkvHulOvPeRtWYpLco75bn8-l4K8fu7E3J-mA502-R_7Acs7WMlGKExsnpmt-fm-h-gK78xkUR-sfroPYISXWDj5aB-MPMQ6ORl00ZWIhy6dBrHNyvf_yHLCvIYn4uZ5mpJRMLf7B5-wXtiaJKAm24vpspN2x5NF6Cd7MsBngtFUaq2dNGIhOk5vKbxC1_VzW0tJMl62Vnh6Y0G1wqVN3FUA8mLBux4cUBQ3ZMxT7gSp1UG4GobbKTTquYjwHStbXdJdOjnR1wZJCA-O0MtJVyikzS289XcdslbtAKyZYh3nGA3T40kuQkCbKU4r0Cri2Z_pxEZSnuaG17lXgb92N-wpiU812-HWiUCc8OvuNj8pS0veX5fB5MkiM5ZMGY9TYTHohrg_w3k3E8C0oJJN_rd-MbX-kKBtcdT9BExqfx13Hsk1lT7AT5UD6W-RKDgotT186mpTGjrRxYFSm2-n1BwQDUpjGDLNLMBe5OF5pMPUGz5XYra8gGn0hHf0puoyfi4Jdx01mDJXn7DiwOEH-25Vid8G94X3cKdTKZMF5eBYbUb1cNlvflgm-6qzGWX0XAu8tu41czy40OhoNrgTrWlA-tKHtctb1LllRI=w3026-h2018-no
     imagePosition: 'left'
