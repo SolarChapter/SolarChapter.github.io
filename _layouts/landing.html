@@ -15,29 +15,82 @@ custom_js:
     <div class="logo-container" {{ logoContainerStyle }}>
       <img class="logo" {{ logoStyle }} />
       {% if page.landingLogoButton %}
-        <a class="cta btn btn-solarchapter" target="_blank" href="{{ page.landingLogoButton.link }}">{{ page.landingLogoButton.title }}</a>
+        <a class="cta btn {{ page.landingLogoClassName }}" target="_blank" href="{{ page.landingLogoButton.link }}">{{ page.landingLogoButton.title }}</a>
       {% endif %}
     </div>
   </div>
 </div>
 <div class="landing-page-content">
-   <div class="container">
-    <div class="row">
-      <div class="col">
-        <p class="first-reading-paragraph">
-          {{ page.mainParagraph }}
-        </p>
+  <div class="container">
+  <div class="row">
+    <div class="col">
+      {{ page.mainContent }}
+    </div>
+  </div>
+  </div>
+  {% for section in page.sections %}
+  {% if section.backgroundColor %}
+  <div class="section" style="background-color: {{ section.backgroundColor }};">
+  {% endif %}
+  <div class="container-section container">
+    <div class="row supporting-paragraph align-items-center">
+      {% assign order = 'order-first' %}
+      {% if section.contentPosition == 'left' %}
+      {% assign order = 'order-last' %}
+      {% endif %}
+      {% if section.imageGallery and section.imageGallery.size > 0 %}
+        <div id="carousel-{{ forloop.index }}" class="col-md-6 carousel carousel-album slide {{ order }}" data-ride="carousel" data-interval="0">
+          <ol class="carousel-indicators">
+            {% for url in section.imageGallery %}
+              {% if forloop.index == 1 %}
+              <li data-target="#carousel-{{ forloop.index }}" data-slide-to="{{forloop.index | minus:1}}" class="active"></li>
+              {% else %}
+              <li data-target="#carousel-{{ forloop.index }}" data-slide-to="{{forloop.index | minus:1}}"></li>
+              {% endif %}
+            {% endfor %}
+          </ol>
+          <div class="carousel-inner">
+            {% for url in section.imageGallery %}
+              {% if forloop.index == 1 %}
+              <div class="carousel-item active">
+              {% else %}
+              <div class="carousel-item">
+              {% endif %}
+                <img src="{{url}}" class="d-block w-100" />
+              </div>
+            {% endfor %}
+          </div>
+          <a class="carousel-control-prev" href="#carousel-{{ forloop.index }}" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carousel-{{ forloop.index }}" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      {% endif %}
+      <div class="col supporting-content">
+        {{ section.content}}
       </div>
     </div>
-    {% for section in page.sections %}
-      <div class="row supporting-paragraph">
-        <div class="col">
-          <img class="supporting-img rounded float-{{ section.imagePosition }}" src="{{ section.image }}">
-          <div class="supporting-content">
-            {{ section.content}}
+  </div>
+  {% if section.backgroundColor %}
+  </div>
+  {% endif %}
+  {% endfor %}
+  {% if page.fullWidthGallery %}
+    <br/>
+    <br/>
+    <h3 class="card-title">{{ page.fullWidthGalleryTitle }}</h3>
+    <div class="section" style="max-height: {{ page.fullWidthGalleryMaxHeight }};">
+      <div class="landing-full-width-gallery bg-carousel" style="animation-duration: {{ page.fullWidthGalleryDuration }};">
+        {% for image in page.fullWidthGallery %}
+          <div class='slide'>
+            <img src='{{ image }}' />
           </div>
-        </div>
+        {% endfor %}
       </div>
-    {% endfor %}
-   </div>
+    </div>
+  {% endif %}
 </div>

@@ -33,6 +33,9 @@
     {% for stylesheet in layout.custom_css %}
       <link rel="stylesheet" href="{{stylesheet}}">
     {% endfor %}
+    {% for stylesheet in page.custom_css %}
+      <link rel="stylesheet" href="{{stylesheet}}">
+    {% endfor %}
     <!--SEO-->
     <meta name="keywords" content="non-profit organization,indonesia,students,rural areas,sustainable methods,helping" />
     <meta property="og:title" content="{{ page.title | default: 'Solar Chapter' }}">
@@ -55,6 +58,9 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
       integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     {% for js in layout.custom_js %}
+    <script src="{{js}}"></script>
+    {% endfor %}
+    {% for js in page.custom_js %}
     <script src="{{js}}"></script>
     {% endfor %}
   </body>

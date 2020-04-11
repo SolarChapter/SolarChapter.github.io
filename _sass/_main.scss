@@ -46,7 +46,7 @@ div.lead-quote {
 }
 
 .first-reading-paragraph {
-  margin: 10px 0;
+  padding: 15px 0 0 0;
 }
 
 .first-reading-paragraph::first-letter, .chapter-text::first-letter {
@@ -299,12 +299,24 @@ span.block {
   letter-spacing: 2px;
 }
 
+.card-title.left {
+  text-align: left;
+}
+
+.card-title.right {
+  text-align: right;
+}
+
+
 .card-title.light {
   color: white;
 }
 
 .bg-carousel {
-  animation: carousel 120s linear infinite;
+  animation: carousel linear infinite;
+  display: inline-flex;
+  transform: translate(0, -50%);
+  margin-top: 50px;
 }
 
 @keyframes carousel {

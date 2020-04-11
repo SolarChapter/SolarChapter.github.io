@@ -62,10 +62,12 @@ This means that this pair should correspond to the page's title. I would recomme
     - `title`: Page's title
     - `description`: Page's description. Used in page's metadata for SEO
     - `metadataImage`: Page's metadata image. Used in page's metadata for SEO
-2. Layout specific. Stored in the [_layouts](/_layouts)
-    - `menu-color`: Color of the menu. Either `dark` or `light`
     - `custom_css`: List of CSS files for the page
     - `custom_js`: List of JS files for the page
+2. Layout specific. Stored in the [_layouts](/_layouts)
+    - `menu-color`: Color of the menu. Either `dark` or `light`
+    - `custom_css`: List of CSS files for the layout
+    - `custom_js`: List of JS files for the layout
 - Value can be in `html` format too for complex styling if needed.
 
 ### Adding a new project page?
