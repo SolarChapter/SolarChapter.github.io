@@ -79,17 +79,19 @@ custom_js:
   </div>
   {% endif %}
   {% endfor %}
-  {% if page.fullWidthGallery %}
+  {% if page.compositionWheelImages %}
     <br/>
     <br/>
-    <h3 class="card-title">{{ page.fullWidthGalleryTitle }}</h3>
-    <div class="section" style="max-height: {{ page.fullWidthGalleryMaxHeight }};">
-      <div class="landing-full-width-gallery bg-carousel" style="animation-duration: {{ page.fullWidthGalleryDuration }};">
-        {% for image in page.fullWidthGallery %}
-          <div class='slide'>
-            <img src='{{ image }}' />
+    <h3 class="card-title">{{ page.compositionWheelTitle }}</h3>
+    <div class="container">
+      <div class="row">
+        <div class="offset-md-2 col-md-8">
+          <div class="composition-wheel">
+            {% for image in page.compositionWheelImages %}
+            <img src="{{ image }}" class="composition-wheel__photo composition-wheel__photo--p{{ forloop.index }}">
+            {% endfor %}
           </div>
-        {% endfor %}
+        </div>
       </div>
     </div>
   {% endif %}
