@@ -7,7 +7,34 @@ $kain-makna-secondary-color: #C07C31;
   color: white;
 }
 
+.btn-kain-makna-primary:hover {
+  color: white;
+}
+
+.btn-outline-kain-makna-primary {
+  border-color: $kain-makna-primary-color;
+  color: $kain-makna-primary-color;
+}
+
+.btn-outline-kain-makna-primary:hover {
+  color: $kain-makna-primary-color;
+}
+
 .btn-kain-makna-secondary {
   background-color: $kain-makna-secondary-color;
   border-color: $kain-makna-secondary-color;
+  color: white;
+}
+
+.btn-kain-makna-secondary:hover {
+  color: white;
+}
+
+.btn-outline-kain-makna-secondary {
+  border-color: $kain-makna-secondary-color;
+  color: $kain-makna-secondary-color;
+}
+
+.btn-outline-kain-makna-secondary:hover {
+  color: $kain-makna-secondary-color;
 }
