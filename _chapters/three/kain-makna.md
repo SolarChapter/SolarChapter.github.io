@@ -69,7 +69,10 @@ sections:
         How do you get involved?
       </h3>
       <p>
-        Balkan worked with Polygon Studio to design a classically structured bridge that would easily in with the visual aesthetic of the city. The underside of the bridge was repurposed as a walkway.
+        1. Join the movement! Be a part of our #AyoPakaiKain Challege by posting a picture of you wearing tenun or other indonesian products on Instagram to promote the awareness for local indonesian fashion.
+      </p>
+      <p>
+        2. Buy our kain tenun products through our instagram. By purchasing one piece of tenun, you can help cover 3 and a half months of middle school tuition for their kids and help the tenun community in Desa Umutnana.
       </p>
     contentPosition: 'right'
     content: |
@@ -80,7 +83,7 @@ sections:
       <p class="text-center" style="margin-bottom: 0;">MAKNA for <mark style="background-color: aqua">the world</mark</p>
       <p class="text-center">Discovering the uniqueness of our cultural progress</p>
 
-compositionWheelTitle: "#Ayopakaikain"
+compositionWheelTitle: "#AyoPakaiKain"
 compositionWheelImages: # MAX 3 images
   - https://lh3.googleusercontent.com/HhCadJ_e5aB0RXIN0mNJv5STVP5S3YQ1sFGsrCC2NxWcROx_VE0peTRxKD927DZiACUGUAmjsVErk85MrMSIEHjeROO5yOaS2mU31WHei4-9_B4XDBUGvauyXQTP1XJ3wAJUkIA-AoE_8BaRHcYPKpiy9gj6Q4Urq-oSjdcbHNjsCcOSopPYadbAVzoTreua1ExiLGBnlpesqGhIjM8B4VXCUFOz_A_K3vlbdpDAfsbr_YFmy11RfNGunlm9gzW85ufRXxCNPn9Z1OnPKgO-exAMvUOTp3O8EcUZaiogcCPtsf53GheFKG2mmoDfJsbLpBagngDjbaadmBjZGi0a_ewG1W4bDfWZ8sStpguF7ELZP7KtJhw0TBhov9npKzn276LR0vevaesBqBHenodx2prsji2y0n914PofFgeWdRkY26b2kmmF2nLWR3AViMRcJ6-CJ7cwlNj6ByMX-IFCxTwSK562VpNfNLYVKsBzRfmEN5NMAyV_3Hxy86EAE5SPjIjXsSzbSESR-qj-i9zHfkeOhgN2vMD8-4AuuZk0ND8aL6OVxLMmDmYQlWAk58XyTqFXRpnt7IF9nC91zHcUabI2th1dTdlRI1o6rilqzNu6omx-ZB1QRvkzpl5dh0Elw4KG38-_YolCBM212EIKQGs1QTbktDGIJwk8lp_AhxKcXeuWg5rOMHL4CeTE_cPsdUoxGntR4tXwmsS8pQOOcjOvYtFMNxbF0aY6mU-9aAenLAqgWPK9an8=w1075-h807-no
   - https://lh3.googleusercontent.com/f2VlQBvfDM6dxBW2aT9VJOwzyQyKaeN45EhdX94aJrpMYrWVIoqEMlNpMUwfSWM0X2RYprclAjbIgtZuAJWWLsNUSC2ah5QG5JmsPbNCt7F5VUlRGqEqzY4lk5a1yzBdpwp5V74oEdJhxRvVwkui_HqdCj8H3daIK8deC_j5d7wiHWaL9nA8tWo2UMN7b8A0YJKG-wPLDBdxack4Au9-YYgZ98lKt3aneWJf0Ly6aqnJbkRe7krw5C7RCH8ycnBelhOwjXUxPU0hbvolD_RdSBbBzcIkcNL8FjaISq_3SRk106O7sb5TmVWq6zNbc8fBmC-hCMAK8pOqWkHFWG7golSxVhKqIKpEv5AMK9UBOR5DbE89USxt-dHSyq757AxppALyn7VrMnlNQpsItc49IzfrG4mJM0uFjptMfbCHtfT6husAJcUhy2aCgGB9QrrJA9LVyj7hPq2KFjCiHb7KHTVK0fN2vrRJGQG3TWlLBMVGnt7ZD3Rc-HcvW8_s3Mkh_uIm6WxMwdc0gUtmmtbQpjcs0Y7j939zT1cHSVpfclOgJ46tZTGjLp_s3w0JlA9YQKP5AnKguktGsfNm7RWnTzQZ-gLpV2yMEZ8FwCFKSpOeTFv9OTlK55TXw99cpmgVL6GMLT5XE1S-38ua6Ctki9MXgIqpgUnK4IyOTX_LiBBVSOcyqOomz73I7YZfKXoMecum7g7uPDrSPXp15_YMeK1osuhctAjGp9sfCkcwbNkgD5fGryZCF3Y=w690-h920-no
