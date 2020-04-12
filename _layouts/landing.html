@@ -94,12 +94,15 @@ custom_js:
     <br/>
     <h3 class="card-title">{{ page.fullWidthGalleryTitle }}</h3>
     <div class="section">
-    <div class="landing-full-width-carousel auto-carousel" style="animation-duration: {{ page.fullWidthGalleryDuration }};">
+      <div class="landing-full-width-carousel auto-carousel" style="animation-duration: {{ page.fullWidthGalleryDuration }};">
         {% for image in page.fullWidthGalleryImages %}
           <div class="slide">
             <img src="{{ image }}" style="height: {{ page.fullWidthGalleryImageMaxHeight }};"/>
           </div>
         {% endfor %}
+      </div>
+      <div class="full-width-carousel-cta">
+        <a href="{{ page.fullWidthCarouselCTA.link }}" target="_blank" class="btn btn-kain-makna-secondary">{{ page.fullWidthCarouselCTA.title }}</a>
       </div>
     </div>
   {% endif %}
