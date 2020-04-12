@@ -54,7 +54,10 @@ sections:
         Meet Mama Yuliana!
       </h3>
       <p>
-        a 39 year-old homemaker with two daughters and a son. As solar-powered pumps were installed last year around the village, her daily life routine no longer include an hour long walk up to the nearest reservoir for 4 gallons of water. With her spare time, she weaves kain tenun — traditional artisanal fabric with sharp and intricate details — along with her friends.
+        A 39 year-old homemaker with two daughters and a son. As solar-powered pumps were installed last year around the village, her daily life routine no longer include an hour long walk up to the nearest reservoir for 4 gallons of water. With her spare time, she weaves kain tenun — traditional artisanal fabric with sharp and intricate details — along with her friends.
+      </p>
+      <p>
+        Each woman owns a traditional wooden weaving equipment that has been passed down from generation to generation and works on one piece of tenun from start to finish. A piece of tenun can take from 1 week up to years to be finished, according to the material, pattern, and size. Some of the womens’ products are even reserved for cultural occassions only. 
       </p>
   - imageGallery: 
     - https://lh3.googleusercontent.com/QtnUPmZbO9eI_O04Maj3miRJucCfeIg9oUwKM0Vd1AtI28jCwJFBtdRKCwW0f8GrRanOZzkii0xh1rCaLlkbG3O3o2lqcc4hIdMPFwgIC6jG-01LOgoPuqjkBKz7X6RNPNNO1N5hkgnmloiVsKkvHulOvPeRtWYpLco75bn8-l4K8fu7E3J-mA502-R_7Acs7WMlGKExsnpmt-fm-h-gK78xkUR-sfroPYISXWDj5aB-MPMQ6ORl00ZWIhy6dBrHNyvf_yHLCvIYn4uZ5mpJRMLf7B5-wXtiaJKAm24vpspN2x5NF6Cd7MsBngtFUaq2dNGIhOk5vKbxC1_VzW0tJMl62Vnh6Y0G1wqVN3FUA8mLBux4cUBQ3ZMxT7gSp1UG4GobbKTTquYjwHStbXdJdOjnR1wZJCA-O0MtJVyikzS289XcdslbtAKyZYh3nGA3T40kuQkCbKU4r0Cri2Z_pxEZSnuaG17lXgb92N-wpiU812-HWiUCc8OvuNj8pS0veX5fB5MkiM5ZMGY9TYTHohrg_w3k3E8C0oJJN_rd-MbX-kKBtcdT9BExqfx13Hsk1lT7AT5UD6W-RKDgotT186mpTGjrRxYFSm2-n1BwQDUpjGDLNLMBe5OF5pMPUGz5XYra8gGn0hHf0puoyfi4Jdx01mDJXn7DiwOEH-25Vid8G94X3cKdTKZMF5eBYbUb1cNlvflgm-6qzGWX0XAu8tu41czy40OhoNrgTrWlA-tKHtctb1LllRI=w3026-h2018-no
