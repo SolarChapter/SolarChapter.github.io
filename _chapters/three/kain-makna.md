@@ -51,7 +51,7 @@ sections:
     contentPosition: 'right'
     content: |
       <h3 class="card-title">
-        Meet Mama Yuliana!
+        Meet Mama Yuliana!             
       </h3>
       <p>
         A 39 year-old homemaker with two daughters and a son. As solar-powered pumps were installed last year around the village, her daily life routine no longer include an hour long walk up to the nearest reservoir for 4 gallons of water. With her spare time, she weaves kain tenun — traditional artisanal fabric with sharp and intricate details — along with her friends.
