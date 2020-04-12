@@ -96,8 +96,10 @@ A landing layout will need these variables:
     - `link`: Buttons' link URL
 - `mainParagraph`: First paragraph in the landing page
 - `sections`: List of sections in the landing page
-    - `image`: Image to be displayed in the section
-      `imagePosition`: Position of the image ("left"/"right")
+    - `backgroundColor`: Background color
+      `galleryType`: Gallery used to display images. Types can only be "carousel" or "composition-wheel"
+      `images`: Images used in the gallery. For gallery type "composition-wheel", there can only be 3 images.
+      `contentPosition`: Position of the content ("left"/"right")
       `content`: Content of the section
 
 ### <a id="where-to-store-image-resources"></a>Where to store image resources?

@@ -42,13 +42,8 @@
   top: 50%;
   transform: translate(0, -50%);
 
-  .slide {
-    display: inline-block;
-    align-items: center;
-
-    img {
-      height: 700px;
-    }
+  .slide img {
+    height: 700px;
   }
 }
 

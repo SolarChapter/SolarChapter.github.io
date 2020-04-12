@@ -358,6 +358,7 @@
 
 .section.sponsors {
   overflow-x: hidden;
+  margin-bottom: 50px;
 }
 
 .sponsors-box {
@@ -369,23 +370,13 @@
 .sponsors-carousel {
   display: inline-flex;
   transform: translate(0, -50%);
-  margin-top: 50px;
 
   .slide {
-    position: relative;
-    display: inline-block;
-    align-items: center;
-    width: 200px;
-    margin: 0 20px;
+    line-height: 6;
+  }
 
-    a {
-      position: absolute;
-      top: 50%; 
-    }
-
-    img {
-      width: 100%;
-    }
+  img {
+    max-width: 200px;
   }
 }
 
