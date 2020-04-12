@@ -118,8 +118,6 @@ $(document).ready(function() {
   // Stats Gallery
   // This is to cap the number of clone times because jQuery may not always be ready to calculate width and get the correct number of clones
   const cloneTimes = 2;
-  // const statsGallery = $(".stats-background-gallery");
-  // const statsGalleryWidthTimes = Math.ceil($(window).width() / statsGallery.width());
   for (let a = 0; a < cloneTimes; a++) {
     $(".stats-background-gallery .slide")
       .clone()

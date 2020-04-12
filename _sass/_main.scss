@@ -308,20 +308,46 @@ span.block {
 }
 
 
+.card-title.left {
+  text-align: left;
+}
+
+.card-title.right {
+  animation: carousel linear infinite;
+  display: inline-flex;
+  transform: translateX(-50%);
+
+  .slide {
+    display: inline-block;
+    align-items: center;
+  }
+}
+
+
 .card-title.light {
   color: white;
 }
 
-.bg-carousel {
-  animation: carousel linear infinite;
+.bg-auto-carousel {
+  animation: bg-auto-carousel linear infinite;
   display: inline-flex;
   transform: translate(0, -50%);
-  margin-top: 50px;
 }
 
-@keyframes carousel {
+.auto-carousel {
+  animation: auto-carousel linear infinite;
+  display: inline-flex;
+  transform: translate(0, -50%);
+}
+
+@keyframes bg-auto-carousel {
   from { transform: translate(0, -50%) }
   to { transform: translate(-50%, -50%) }
+}
+
+@keyframes auto-carousel {
+  from { transform: translateX(0) }
+  to { transform: translateX(-50%) }
 }
 
 .fade-in {

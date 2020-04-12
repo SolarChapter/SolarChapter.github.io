@@ -11,8 +11,8 @@ custom_js:
   - '/assets/js/chapters.js'
 ---
 <div class="section first stats-gallery">
-  <div class="stats-background-gallery bg-carousel" style="animation-duration: 120s;">
-    {% for url in page.statsImageGallery %}
+  <div class="stats-background-gallery bg-auto-carousel" style="animation-duration: {{ page.imageGalleryDuration }};">
+    {% for url in page.imageGallery %}
       <div class='slide'>
         <img src='{{url}}' />
       </div>
