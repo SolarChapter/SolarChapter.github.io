@@ -105,8 +105,4 @@ fullWidthGalleryImages:
 fullWidthCarouselCTA:
   title: "<i class='fa fa-lg fa-instagram'></i> kain.makna"
   link: https://instagram.com/kain.makna
-fundraisingLinks:
-  kitabisa:
-    title: Donate through Kitabisa
-    link: https://kitabisa.com/campaign/solarchapter2 
 ---
