@@ -48,9 +48,8 @@ sections:
         Below are our budget details for our project and we will keep updating it once we finalized the design from the technical team. A large portion of our finances come include material and tools and we are negotiating with the suppliers to lower the final cost.
       </p>
       <div class="img-container">
-        <img src="https://lh3.googleusercontent.com/sogk-otKJm_letaJuPMcsiJfXdWgtKhbSEQBV7UdUaJF_Hgvhv_ry4cZOTfcSy8iORtKZso2CCDR01lGZMiQqPIm4OX5UkwmfZvuxN6YxLywR4R1KG-eJl36iSNSjjP10Fg3p7xiq7GiRUfNX5QOFzIA2XEuWPV5UzWqbJbxgCMtZnF7OwA9zRuy0Czga0lb_lRF7s3zovdiaGhrEaYwpNSDk3wB_XgzPbRUGoD5IeMOzf-cT4wO6-mGmoiB6_F6nKY3Aby3GvaEc11tVelnD9xdsKAeiSvufVIOoN8bnlntSyl9QJy5Q8_p8FTtPM0DNB0BdGZvWqY_n1diD4tDg3kg55E2Rf0rybWl81uIjEHQCC_wxONjYbs8mTeoUtqzA077BRw3dEJWpWZH2I3NtNlTp12J2HCbupjN6iiwMBDv4AsZYeTVbzOz54CSBbb64VyZfedm4R94p5_l4Lqqu4J_nOnah165qu8cvPLD79zbhKLw2aEm58x1EycB67G710OtTg250rj4-6TQGdtBHmICt7cZXFLZzjpE5pN2sDo78Gy8BPKZZGeQ7GvMSv-tDSsCnlc8aHuT3tCObcoCBuz-n2Z7s6GlPAq0QC5PGUPZMX_z0WUqKDjAmzhgm5oXYmuPFvhHJKPUGEKa4OhraQoae33fJi2Cf9Q80JS2tsYMkgqmjHHzM831WPtL=w1000-h1442-no" class="img-fluid" />
+        <img src="https://lh3.googleusercontent.com/wuJvBl6Vwd4RGCeK98me7CcTG-n6burlfxxqUBnQ_yfRYzL3t0HZHoN3yzK8RZAd3phGGhd6Jw0nyLcDmg_aVGMgRrGOWN0CEEoAh_4yVBHgWXjYjXtdf1S3gqbHqS-VmMvi0fxks3Zs9Bdjr7cX4GoSR61ph8ZzaEdfqngNaiGxaFmk3GYY5c2oIvubl03efKe1IS_IA-dngdH_JQEwDjw1YNdSwK8ANoBA1fkavrzL_GN_Ft2RHTnYLDA-knM076S8qxowMRYYnz4Tr4zqH0Za2Bmd-4FlURWjN1SZfMKYO4z8jn_cmCclAMdxN5SkDalOGUB9P-nLFi6fx9ZGs8theemQA_EZ5_Jv8QuKPhDUQhw0vXYmKXS0tZSzz0xFiumR38jFjvOBBYy3AIKQEUTboSnjqRbzCaT-Z5WqL9dgy4voeLWDPIRpm-xQWVaLWK3UrA1eD2wWd7t5mSGWrUPHttCgniVIJLzR1Ltp59mcQqQPEGqukjyI6vkISqZH0miobGqJC7ISNt9Ei-J4qXmsLjz2m1XfpmqSDK_qmCD1fzvGO9YJyuyrEEgA9N_vdQ5TlKALJDrNjHGIw3fHG8n4s6rDj83I1Q7tbni3Tj5_9Noi8oguLHdEQGpnd5dwZsjdlC9oC2qNXrU2R5t7-oafxyaDSlSYH3FE-YW8q8iB_RPCwvrOTWaqOOHSOBSVW7MpXZ3T9Ji0HKWipZC6fO6pOxN0xVIRtgeIIIg52P7988MS-nYJVhA=w1302-h1724-no" class="img-fluid" />
       </div>
-      
 fundraisingText:
 fundraisingLinks:
   kitabisa:
