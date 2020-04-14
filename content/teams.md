@@ -1,5 +1,5 @@
 ---
-permalink: /teams/
+permalink: /teams
 layout: teams
 title: Solar Chapter - Teams
 # Content

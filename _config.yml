@@ -2,7 +2,7 @@ host: 0.0.0.0
 collections:
   chapters:
     output: true
-    permalink: /chapter/:path/
+    permalink: /chapter/:path
   teams:
     output: true
-    permalink: /team/:path/
+    permalink: /team/:path
