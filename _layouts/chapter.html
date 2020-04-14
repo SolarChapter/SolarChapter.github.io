@@ -11,15 +11,21 @@ custom_js:
   style="background-image: url('{{ page.headerImageUrl }}')"
 >
 </div>
-<div class="chapters-title">
-  <div class='daun'></div>
-  <p>{{ page.title }}</p>
-  {% if page.location %}
-    <p>
-      <div class="icon fa fa-map-marker"></div>
-      {{ page.location }}
-    </p>
-  {% endif %}
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="chapters-title">
+        <div class='daun'></div>
+        <p>{{ page.title }}</p>
+        {% if page.location %}
+          <p>
+            <div class="icon fa fa-map-marker"></div>
+            {{ page.location }}
+          </p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
 </div>
 <div class="container">
   <div class="row">
