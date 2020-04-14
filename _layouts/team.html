@@ -8,23 +8,25 @@ custom_css:
 <div class="section-content-container">
   {% assign backgroundImage = "style='background-image: url(" | append: page.team_image | append: ");'" %}
   <div class="section-content bg" {{ backgroundImage }}></div>
-  <div class="container">
-    <div class="row align-items-center" style="min-height: 300px;">
-      <div class="title">
-        <h3>{{ page.title }}</h3>
-        {% if page.location %}
-          <p>
-            <div class="icon fa fa-map-marker"></div>
-            {{ page.location }}
-          </p>
-        {% endif %}
+</div>
+<div class="container">
+    <div class="row align-items-center bg-content">
+      <div class="col">
+        <div class="title">
+          <h3>{{ page.title }}</h3>
+          {% if page.location %}
+            <p>
+              <div class="icon fa fa-map-marker"></div>
+              {{ page.location }}
+            </p>
+          {% endif %}
+        </div>
       </div>
     </div>
   </div>
-</div>
 <div class="container">
   <div class="row align-items-center" style="min-height: 100px;">
-    <div class="title" style="margin-top: 50px;">
+    <div class="title">
       <img src='/assets/media/daun.png' />
       <div class="card-title">Personnel</div>
     </div>

@@ -55,6 +55,14 @@ table {
 
   .chapter {
     text-indent: 50px;
+    
+    a {
+      color: inherit;
+    }
+
+    a:hover {
+      text-decoration: none;
+    }
   }
 
   .place {
@@ -72,14 +80,6 @@ table {
 
   .row-solarchapter {
     background-color: $sc-primary-color;
-  }
-
-  .clickable-row {
-    cursor: pointer;
-  }
-
-  .clickable-row:hover {
-    background-color: rgba(0,0,0,.075);
   }
 }
 
