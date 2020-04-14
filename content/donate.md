@@ -1,5 +1,5 @@
 ---
-permalink: /donate/
+permalink: /donate
 layout: donate
 title: Solar Chapter - Donate
 metadataImage: |
