@@ -332,6 +332,9 @@ span.block {
   -webkit-animation: bg-auto-carousel linear infinite;
   display: inline-flex;
   transform: translate(0, -50%);
+  /* Safari: not able to get full width on load */
+  animation-delay: 0.1s;
+  -webkit-animation-delay: 0.1s;
 }
 
 .auto-carousel {
@@ -339,6 +342,9 @@ span.block {
   -webkit-animation: auto-carousel linear infinite;
   display: inline-flex;
   transform: translate(0, -50%);
+  /* Safari: not able to get full width on load */
+  animation-delay: 0.1s;
+  -webkit-animation-delay: 0.1s;
 }
 
 @keyframes bg-auto-carousel {
