@@ -20,7 +20,7 @@ function setupCompositionWheel() {
   });
 }
 
-$(window).ready(() => {
+$(window).on("load", () => {
   setupCompositionWheel();
 
   $(window).on("resize", function () {
