@@ -313,7 +313,6 @@ span.block {
 }
 
 .card-title.right {
-  animation: carousel linear infinite;
   display: inline-flex;
   transform: translateX(-50%);
 
@@ -330,12 +329,14 @@ span.block {
 
 .bg-auto-carousel {
   animation: bg-auto-carousel linear infinite;
+  -webkit-animation: bg-auto-carousel linear infinite;
   display: inline-flex;
   transform: translate(0, -50%);
 }
 
 .auto-carousel {
   animation: auto-carousel linear infinite;
+  -webkit-animation: auto-carousel linear infinite;
   display: inline-flex;
   transform: translate(0, -50%);
 }
