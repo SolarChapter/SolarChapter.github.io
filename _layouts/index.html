@@ -15,7 +15,7 @@ custom_js:
   <div class="section-content">
     <video preload autoplay muted loop poster="{{ page.heroVideoPoster }}">
       {% for video in page.heroVideo %}
-        <source src="{{ video.url }}" type="{{ video.type }}">
+        <source src="{{ video[1].url }}" type="{{ video[1].type }}">
       {% endfor %}
     </video>
     <div class="container video">
