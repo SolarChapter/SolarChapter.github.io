@@ -13,7 +13,10 @@ custom_js:
 <!-- LANDING SECTION -->
 <div class="container full" id="landing-section">
   <div class="section-content">
-    <video preload autoplay muted loop poster="{{ page.heroVideoPoster }}" src="{{page.heroVideoPath}}">
+    <video preload autoplay muted loop poster="{{ page.heroVideoPoster }}">
+      {% for video in page.heroVideo %}
+        <source src="{{ video.url }}" type="{{ video.type }}">
+      {% endfor %}
     </video>
     <div class="container video">
       <div class="row align-items-center hero-content">
