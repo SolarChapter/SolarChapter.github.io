@@ -11,9 +11,9 @@ custom_js:
 <div class="landing-full-container">
   <div class="section-content-container landing-full" {{ landingBackgroundStyle }}>
     {% assign logoContainerStyle = "style='top: " | append: page.landingLogoTopLocation | append: "; left: " | append: page.landingLogoLeftLocation | append: "; width: " | append: page.landingLogoWidth | append: "; margin-top: " | append: logoMarginTop | append: "; margin-left: " | append: logoMarginLeft | append: ";'" %}
-    {% assign logoStyle = "style='content: url(" | append: page.landingLogo | append: ");" | append: "; width: " | append: page.landingLogoWidth | append: "; height: " | append: page.landingLogoHeight | append: ";'" %}
+    {% assign logoStyle = "style='width: " | append: page.landingLogoWidth | append: "; height: " | append: page.landingLogoHeight | append: ";'" %}
     <div class="logo-container" {{ logoContainerStyle }}>
-      <img class="logo" {{ logoStyle }} />
+      <img class="logo" {{ logoStyle }} src="{{ page.landingLogo }}" />
       {% if page.landingLogoButton %}
         <a class="cta btn {{ page.landingLogoClassName }}" target="_blank" href="{{ page.landingLogoButton.link }}">{{ page.landingLogoButton.title }}</a>
       {% endif %}
