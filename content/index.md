@@ -84,9 +84,6 @@ sponsors:
     link: https://www.lorentz.de/en/partners/asia/indonesia
     image_url:
 https://lh3.googleusercontent.com/61Vyh9Vhgdmk3piSB3T03uzCiaWfOxHOqZeurFQMSPeyuodo6colueKdolb39dWy6P0GB72fWTWEiqQwGHIVevln2Z8GtVjW0PODhhh5P5W9v48xCdk29GglfKcRoJzUx1EAZdkOOuS3xTqtven-Ed4mqJn-VD3RDJkGIMDOUMM2qnvUpRhZkshfYJ9-c7RbtxscbMv1Aw0eS6zhAlsaRlM2b4SHxf3J9Bj6ajXwJkVuYC5DkpX7Ui5skxVcP6HJijkmosNZZr_3ylNGpZE5ATvxK98vWTRYhEGqWLfqkcOYJkF-HJJtjBa7VxGJ2HcivdLAMIB8j0ius9C1fQ8jzseUg_tPHBPPRfBJ_iWtICdGliCyyjqZS-dRUHOQMY0Jj1WJXFgSMcFHix-PO-oPkIlOprJtoZcCSt7HNCAPFjZYFrC0Gp8lVBPOxqyiTUKCBNZu5FlS7aWTNmY47eBjCVYzbqjerQc-Uym5AbfRHoPmxtMXQiOlWZ_hPrQmk2aJS14Ip3_3MKT1m_979kQB8H5GCOFHao0JCl2bkxI3E_eQEmXcRxoegu9Pwhu_XZaY1x6bjMM1HxRQ0Ld0_K0a4Rg86h7GhQKLk62F83RlTTsNTKbIwmwdpdEzZLcinmqBH3QpY455uEKnSvhmzHZnuQQVaADetJPBLvxKhIgptYATVQshv0LeBhx5aZERNAxZ4GmenTu601t-ZjXgocO4cawFahup82PnIo5smbHjy9xplBnirGKdFdU=w1075-h141-no
-  - Pajakku
-    link: https://www.pajakku.com/
-    image_url:
 ambassadors:
   left:
     quote: "Pada umumnya kita semua membutuhkan air, namun mereka sangat sulit mendapatkan hal itu."
