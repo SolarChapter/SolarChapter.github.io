@@ -86,6 +86,12 @@ sponsors:
   - Pajakku:
     link: https://www.pajakku.com/
     image_url: https://www.pajakku.com/static/assets/logo-pajakku.svg
+  - Protelindo:
+    link: https://www.ptsmn.co.id/
+    image_url: /assets/sponsors/protelindo.jpg
+  - Astra:
+    link: https://www.asuransiastra.com/
+    image_url: /assets/sponsors/astra.jpg
 ambassadors:
   left:
     quote: "Pada umumnya kita semua membutuhkan air, namun mereka sangat sulit mendapatkan hal itu."
