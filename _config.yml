@@ -6,3 +6,6 @@ collections:
   teams:
     output: true
     permalink: /team/:path
+
+sass:
+  style: compressed
