@@ -103,11 +103,14 @@ A landing layout will need these variables:
       `content`: Content of the section
 
 ### <a id="where-to-store-image-resources"></a>Where to store image resources?
-If possible, always serve files through Google Photos because repository is not designed to control revision of images. Other than that, storing images in the CDN will make them be highly available and accessed quicker.
+If possible, always serve files through CDN for higher availability and faster loading.
 1. Store images at Google Photos. Contact Solar Chapter for account access
 - Upload media files (pictures/videos) at Solar Chapter's Google Photos account at the "SolarChapter.com Website" album. Contact Solar Chapter for account access.
 - View the image and right-click the image and select "Copy image address". The image address should be hosted at `lh3.googleusercontent.com`. **Make sure that the image/album of the image is marked as share-able**
 2. Store videos at Cloudinary. Contact Solar Chapter for account access 
+3. Simply store them in the repository as part of the GitHub page (GitHub pages are served using Fastly CDN).
+
+Note: Storing images as part of the GitHub page gives the best performance by far. However, this can easily bloat the repository on initial cloning. To make sure that we can take advantage of this without bloating the repository, make sure to only commit optimized images and to prune the history when needed.
 
 ## SEO
 SEO is used for search engine and social media post's preview data. i.e: Google, Facebook/Twitter/Linkedin post preview
