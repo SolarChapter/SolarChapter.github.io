@@ -10,4 +10,37 @@ locationImage: https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/u
 quote: |
 team_image: https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/8/2019/02/0204_uw_madison_Bascom_Hall.jpg
 officers:
+  - name: Joanne Kurniawan
+    title: Head of Finance Team
+    image_url: /assets/members/madison/joanne_kurniawan.jpg
+  - name: Fauzan Faris Irawan Pasaribu
+    title: Finance Officer
+    image_url: /assets/members/madison/fauzan_faris_irawan_pasaribu.jpg
+  - name: Christopher Raymond
+    title: Head of Sponsorship
+    image_url: /assets/members/madison/christopher_raymond.jpg
+  - name: Brigitta Jacop
+    title: Head of PR Team
+    image_url: /assets/members/madison/brigitta_jacop.jpg
+  - name: Andara Rahmadina
+    title: PR Team Member
+    image_url: /assets/members/madison/andara_rahmadina.jpg
+  - name: Tiffany Bahar
+    title: PR Team Member
+    image_url: /assets/members/madison/tiffany_bahar.jpg
+  - name: Rafael Abimanyu Bramanto
+    title: Head of Technical Team
+    image_url: /assets/members/madison/rafael_abimanyu_bramanto.jpg
+  - name: Gabrielle Athaya Ibrahim
+    title: Technical Team Member
+    image_url: /assets/members/madison/gabrielle_athaya_ibrahim.jpg
+  - name: Clarissa Tjoanda
+    title: Technical Team Member
+    image_url: /assets/members/madison/clarissa_tjoanda.jpg
+  - name: Gabriela Setyawan
+    title: Technical Team Member
+    image_url: /assets/members/madison/gabriela_setyawan.jpg
+  - name: Anthony Hartono
+    title: Development Team Member
+    image_url: /assets/members/madison/anthony_hartono.jpg
 ---
