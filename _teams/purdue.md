@@ -20,29 +20,29 @@ team_image: |
 officers:
   - name: Madeleine Silitonga
     title: President
-    image_url: /assets/members/Purdue/madeleine_silitonga.jpeg
+    image_url: /assets/members/Purdue/madeleine_silitonga.jpg
 
 
   - name: Michelle Kosasih
     title: Vice President External
-    image_url: /assets/members/Purdue/Michelle_Kosasih.jpg
+    image_url: /assets/members/Purdue/michelle_kosasih.jpg
 
   - name: Farah Shabrina Amalia (Amel)
     title: Vice President Internal
-    image_url: /assets/members/Purdue/Farah_Shabrina_Amalia.jpeg
+    image_url: /assets/members/Purdue/farah_shabrina_amalia.jpg
 
 
   - name: Alisia Limanto
     title: Treasurer
-    image_url: /assets/members/Purdue/Alisia_Limanto.jpeg
+    image_url: /assets/members/Purdue/alisia_limanto.jpg
 
   - name: Enrico William
     title: Secretary
-    image_url: /assets/members/Purdue/william_enw.png
+    image_url: /assets/members/Purdue/william_enw.jpg
 
   - name: Mallory Gagliardi
     title: Technical Director
-    image_url: /assets/members/Purdue/Mallory_Gagliardi.jpg
+    image_url: /assets/members/Purdue/mallory_gagliardi.jpg
 
   - name: Raymond Gregory Godjali
     title: Technical Director
@@ -50,9 +50,9 @@ officers:
 
   - name: Qiao Yi Wong 
     title: Marketing & Public Relations Director 
-    image_url: /assets/members/Purdue/Qiao_Yi.jpeg
+    image_url: /assets/members/Purdue/qiao_yi.jpg
 
   - name: Faiq Windrasto
     title: Technical Team Member
-    image_url: /assets/members/Purdue/Faiq_Windrasto.jpeg
+    image_url: /assets/members/Purdue/faiq_windrasto.jpg
 ---
