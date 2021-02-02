@@ -20,39 +20,39 @@ team_image: |
 officers:
   - name: Madeleine Silitonga
     title: President
-    image_url: /assets/members/Purdue/madeleine_silitonga.jpg
+    image_url: /assets/members/purdue/madeleine_silitonga.jpg
 
 
   - name: Michelle Kosasih
     title: Vice President External
-    image_url: /assets/members/Purdue/michelle_kosasih.jpg
+    image_url: /assets/members/purdue/michelle_kosasih.jpg
 
   - name: Farah Shabrina Amalia (Amel)
     title: Vice President Internal
-    image_url: /assets/members/Purdue/farah_shabrina_amalia.jpg
+    image_url: /assets/members/purdue/farah_shabrina_amalia.jpg
 
 
   - name: Alisia Limanto
     title: Treasurer
-    image_url: /assets/members/Purdue/alisia_limanto.jpg
+    image_url: /assets/members/purdue/alisia_limanto.jpg
 
   - name: Enrico William
     title: Secretary
-    image_url: /assets/members/Purdue/william_enw.jpg
+    image_url: /assets/members/purdue/william_enw.jpg
 
   - name: Mallory Gagliardi
     title: Technical Director
-    image_url: /assets/members/Purdue/mallory_gagliardi.jpg
+    image_url: /assets/members/purdue/mallory_gagliardi.jpg
 
   - name: Raymond Gregory Godjali
     title: Technical Director
-    image_url: /assets/members/Purdue/raymond_godjali.jpg
+    image_url: /assets/members/purdue/raymond_godjali.jpg
 
   - name: Qiao Yi Wong 
     title: Marketing & Public Relations Director 
-    image_url: /assets/members/Purdue/qiao_yi.jpg
+    image_url: /assets/members/purdue/qiao_yi.jpg
 
   - name: Faiq Windrasto
     title: Technical Team Member
-    image_url: /assets/members/Purdue/faiq_windrasto.jpg
+    image_url: /assets/members/purdue/faiq_windrasto.jpg
 ---
