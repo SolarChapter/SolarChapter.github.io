@@ -50,6 +50,9 @@ officers:
   - name: Michael Wong
     title: Member of Web Development Team
     image_url: /assets/members/uiuc/michael_wong.jpg
+  - name: Gisella Kontaria
+    title: Member of Web Development Team
+    image_url: /assets/members/uiuc/gisella_kontaria.jpg
   - name: Sherrine Yuwono
     title: Head of Marketing Team
     image_url: /assets/members/uiuc/sherrine_yuwono.jpg
