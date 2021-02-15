@@ -47,12 +47,12 @@ officers:
   - name: Dylan Edbert
     title: Member of Web Development Team
     image_url: /assets/members/uiuc/dylan_edbert.jpg
-  - name: Michael Wong
-    title: Member of Web Development Team
-    image_url: /assets/members/uiuc/michael_wong.jpg
   - name: Gisella Kontaria
     title: Member of Web Development Team
     image_url: /assets/members/uiuc/gisella_kontaria.jpg
+  - name: Michael Wong
+    title: Member of Web Development Team
+    image_url: /assets/members/uiuc/michael_wong.jpg
   - name: Sherrine Yuwono
     title: Head of Marketing Team
     image_url: /assets/members/uiuc/sherrine_yuwono.jpg
