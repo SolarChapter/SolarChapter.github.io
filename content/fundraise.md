@@ -1,7 +1,7 @@
 ---
 permalink: /fundraise
 layout: fundraise
-title: Solar Chapter - Donate
+title: Solar Chapter - Fundraise
 metadataImage: /assets/fundraise/header.jpg
 # Content
 background_image: /assets/fundraise/header.jpg
