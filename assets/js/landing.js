@@ -1,0 +1,1 @@
+$(window).ready(()=>{$(".logo-container").addClass("fade-in");const l=2;for(let d=0;d<l;d++)$(".landing-full-width-carousel .slide").clone().appendTo(".landing-full-width-carousel")});

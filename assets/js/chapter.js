@@ -1,0 +1,1 @@
+const tabContentPaddingTop=parseInt($(".tab-content").css("padding-top")),projectTabHeight=$("#project-tab").height();$("a[data-toggle='tab']").on("shown.bs.tab",function(t){const a=$(t.relatedTarget.hash).find("iframe"),o=a.attr("src");a.attr("src",""),a.attr("src",o),$(window).scrollTop($(".tab-content").offset().top-projectTabHeight-tabContentPaddingTop)});

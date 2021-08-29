@@ -1,0 +1,1 @@
+function setupCompositionWheel(){let o=0,t=0;$(".composition-wheel").each((e,i)=>{$(i).find("img").each((e,i)=>{const n=$(i).offset();(0==e||n.top<o)&&(o=n.top);const s=n.top+$(i).height();s>t&&(t=s)});const n=t-o;$(i).height(n+50),$(i).css({"margin-top":50})})}$(window).on("load",()=>{setupCompositionWheel(),$(window).on("resize",function(){setupCompositionWheel()})});
