@@ -9,3 +9,14 @@ collections:
 
 sass:
   style: compressed
+
+permalink: pretty
+exclude: [vendor]
+plugins:
+  - jekyll-sitemap
+  - jekyll-minifier
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
+
