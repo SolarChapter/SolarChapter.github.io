@@ -94,7 +94,7 @@ sponsors:
     image_url: /assets/sponsors/astra.jpg
 ambassadors:
   left:
-    quote: "Pada umumnya kita semua membutuhkan air, namun mereka sangat sulit mendapatkan hal itu."
+    quote: "Kita semua membutuhkan air, namun mereka sangat sulit mendapatkan hal itu."
     name: Gege Elisa
     image_url: https://lh3.googleusercontent.com/7LivrHxvjV9EBMD2RAfmcOSTGp_33YK5XMFSvrxs29SE14q4Z-lVEjoRnfD_2comYaGcdrWSGjXosT6Z5JazrXoCFw7qM16fkrzBjyqWEH52PD-pE5yymdjRpMQMqz2J0uxdeD6pHlCj0okjoh9Q_tCDuxLF9CH-AN5CJcB2sdyNbRHEKp_M6slr5bjvCzKowdZgLlB0pg9QrdfaVqccMvuConmnR5d4YjEk_7PtYpSE0kdR1zEMEeS-8PzKhWeGoZNN3OBkRGu9bc1jh6X3oylsFr8kUtKYi75OJv3hdD8cijYuaHx3nKcpQ1nprTnBE8wtO5hRqCuMFcCWdvuwK2tgHWw0JKrZKoelJ-btWFamKJFd-b76d1KhplphCdh1Ajf0rANGzpt7szr4X2EQzA5u45BXYTb5bpDzTD-TWDRn47Tvp6vsQwlsyysjlZtbu0o_Jdcua3AcmSuBPQ3BBRG4TwitCXXV_SZWD6bnBFJ0MYxhdOyMRtUSnruqgsrfqwqDu9WGNqHLleKmuaVeJXjy3CGariTq-8CI-fCX29wz7g1DDtSpX8zQhmeybgIX0aED6uC0eqnN6sGLarb8AMtznFuQXdJ2hbfxsCtLwqV-pJAx6iIqjPjW5gNwhakCQdu-aW0yVqFx8CrK9ZD6IWAJu3NbvNh8buQDlcs0Q733pkuZMrBcuzkv9sTEbe0bXUmQJkk05P5SHaeDta9RSCPe4hxlr_AVHDYD05p36XsLww_qGDzoCxo=w500-h749-no
     # Please include class="embed-responsive-item" in the Youtube share code. See below as example
