@@ -38,10 +38,16 @@ custom_css:
     {% for officer in page.officers %}
       <div class="col-sm-12 col-md-6 col-lg-4">
           <div class="our-team-box">
-            {% if officer.placeholder %}
-              <div class="placeholder-officer"></div>
-            {% else %}
-              <img src="{{ officer.image_url }}" class="img-responsive img-fluid alt="...">
+            {% if officer.linkedin_url %}
+            <a href="{{ officer.linkedin_url }}">
+            {% endif %}
+                {% if officer.placeholder %}
+                  <div class="placeholder-officer"></div>
+                {% else %}
+                  <img src="{{ officer.image_url }}" class="img-responsive img-fluid alt="...">
+                {% endif %}
+            {% if officer.linkedin_url %}
+                </a>
             {% endif %}
             <h4>{{ officer.name }}</h4>
             <p>{{ officer.title }}</p>
