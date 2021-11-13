@@ -14,53 +14,95 @@ quote: |
 team_image: |
   https://lh3.googleusercontent.com/ZXsGIQrybfZM8xfHY2epHnXuiP1MeKj12QDJ5JVHcUIml7NEivxFskF33mmJxdfWClvUEE8tyzkxXnh9Efi0fpvkL7O8o6GydOBj-gXfu4jlyYio336487t4B6dkRTe26yFP7FVntHpPQUo_sDrOy6IoPuy_MEKsgkvDwWW7ZTS_bgkzQ7248OUbGTK2M0gSglp7Ta9MhgPnbwaNXsWl2SHKMXfyBAoQxmt9j-Zw6FUW0Mml4n6ewo0HHIhP26v3zwxsih_0_6v8MJCW9ff9MgVfKg_simtoKjwGvT--c30daaUbXWIA9-50T6mCG9Z46wqlQDaNV0PqSylLcZS2BdMJBlOXaikXiyzPm0SAk24Fkwsbu4R_K36MdozACAk5A0N-IET_5_N6SqbNXzkY6TputjEUfa7FhKW9VlDac8cf4x382Cgs75fJA7GDIfsvNXrabtkScu600mP4gbUdDAUclPKOOYowhmU5YVTc_F2ZJMzGurSoVMGTB2NxGgJYxRdpavnhJg6VpLRwdPkiumety82dMxRV49TwDmfwluFx7mMiubXTlFFej-kqqTV-Td9ijTZyazeDUUiiYDrSuKdgKsQj_S2qBiE6u_0Aqz82n1Z9u8Bmju8yR9RS4dOxJKb_rQJcfASpyayTwYqxnj0Fu-i-_A_XKAJ9Obkz6j07jaV4n0GU-z06TakqC44t7zCmhIE8NGgWraKJlun9I8TauZRUxuGss7gHBtI9StPF3ifdIWwB3vw=w939-h564-no
 officers:
-  - name: Joanne Amarisa
-    title: Creative
-    image_url: /assets/members/melbourne/joanne_amarisa.jpg
-  - name: Christopher Daniel So
-    title: Creative 
-    image_url: /assets/members/melbourne/christopher_daniel_so.jpg
-  - name: Jessamine Novatriani
-    title: Creative 
-    image_url: /assets/members/melbourne/jessamine_novatriani.jpg
-  - name: Mitchelle Budiman
-    title: Head of Kain Makna
-    image_url: /assets/members/melbourne/mitchelle_budiman.jpg
   - name: Inggrid Natashia
-    title: Kain Makna Marketing / SCMEL Secretary
+    title: President
     image_url: /assets/members/melbourne/inggrid_natashia.jpg
-  - name: Joseph Sentoso
-    title: Associate Kain Makna
-    image_url: /assets/members/melbourne/joseph_sentoso.jpg
-  - name: Belinda
-    title: Graphic Designer
-    image_url: /assets/members/melbourne/belinda.jpg
-  - name: Kelly Natasha Ghozali
-    title: Head of Marketing / PR
-    image_url: /assets/members/melbourne/kelly_natasha_ghozali.jpg
-  - name: Jean Maxiellion Suhali
-    title: PR & Marketing
-    image_url: /assets/members/melbourne/jean_maxiellion_suhali.jpg
-  - name: Cliffany Young
-    title: Sponsorship
-    image_url: /assets/members/melbourne/cliffany_young.jpg
-  - name: Kezia Grace Wongsodirjo
-    title: Sponsorship
-    image_url: /assets/members/melbourne/kezia_grace_wongsodirjo.jpg
-  - name: Natasha Handoko
-    title: Treasurer
-    image_url: /assets/members/melbourne/natasha_handoko.jpg
-  - name: Ibnurrais Yani
-    title: Head of Sponsorship
-    image_url: /assets/members/melbourne/ibnurrais_yani.jpg
-  - name: Nadya Aurelia Herryyanto
-    title: Project Development
-    image_url: /assets/members/melbourne/nadya_aurelia_herryyanto.jpg
-  - name: Brilliana Graciela Benedict
-    title: Project Development
-    image_url: /assets/members/melbourne/brilliana_graciela_benedict.jpg
-  - name: Edbert Elika
-    title: Project Development
-    image_url: /assets/members/melbourne/edbert_elika.jpg
+    linkedin_url: https://www.linkedin.com/in/inggridnatashia/
 
+  - name: Nadya Aurelia Herryyanto
+    title: Vice President 
+    image_url: /assets/members/melbourne/nadya_aurelia_herryyanto.jpg
+    linkedin_url: https://www.linkedin.com/in/nadyaaureliah/
+
+  - name: Audrey Nathania Sumali
+    title: Head of Creative Division
+    image_url: /assets/members/melbourne/audrey_nathania_sumali.jpg
+
+  - name: Edbert Elika
+    title: Head of Sponsorship & Fundraising
+    image_url: /assets/members/melbourne/edbert_elika.jpg
+    linkedin_url: https://www.linkedin.com/in/edbertelika/
+
+  - name: Billy Adison Aditijanto
+    title: Head of PR & Marketing
+    image_url: /assets/members/melbourne/billy_adison_aditijanto.jpg
+    linkedin_url: https://www.linkedin.com/in/billy-adison/
+
+  - name: Brilliana Graciela Benedict
+    title: Head of Project Development
+    image_url: /assets/members/melbourne/brilliana_graciela_benedict.jpg
+    linkedin_url: https://www.linkedin.com/in/brillianabenedict/
+
+  - name: Joseph Sentoso
+    title: Project Development Officer
+    image_url: /assets/members/melbourne/joseph_sentoso.jpg
+
+  - name: Kresentia Aretha Tjahjadi
+    title: PR & Marketing Officer
+    image_url: /assets/members/melbourne/kresentia_aretha_tjahjadi.jpg
+    linkedin_url: www.linkedin.com/in/kresentiaarethatjahjadi
+
+  - name: Aiko Azelia Putri
+    title: Project Development Officer 
+    image_url: /assets/members/melbourne/aiko_azelia_putri.jpg
+    linkedin_url: https://www.linkedin.com/in/aikoputri/
+
+  - name: Priscilla Liuwin
+    title: Sponsorship & Fundraising Officer
+    image_url: /assets/members/melbourne/priscilla_liuwin.jpg
+    linkedin_url: https://www.linkedin.com/in/priscilla-liuwin-8182321ba/
+
+  - name: Laurencia Laurencia
+    title: Sponsorship & Fundraising Officer
+    image_url: /assets/members/melbourne/laurencia_laurencia.jpg
+    linkedin_url: http://linkedin.com/in/elizabeth-laurencia-aa8a87182
+
+  - name: Coco Millenia
+    title: Treasurer 
+    image_url: /assets/members/melbourne/coco_millenia.jpg
+    linkedin_url: https://www.linkedin.com/in/coco-millenia-7a0934188/
+
+  - name: Michelle Felica Horyanto
+    title: Creative Officer
+    image_url: /assets/members/melbourne/michelle_felica_horyanto.jpg
+    linkedin_url: https://www.linkedin.com/in/michelle-felica-horyanto-b0854a1bb/
+
+  - name: Gabriella Isabel Stelia Pranata
+    title: Sponsorship and Fundraising Officer
+    image_url: /assets/members/melbourne/gabriella_isabel_stelia_pranata.jpg
+    linkedin_url: https://www.linkedin.com/in/gabriella-pranata-3a42ab21a
+
+  - name: Feransisca oktavia
+    title: Creative Officer
+    image_url: /assets/members/melbourne/feransisca_oktavia.jpg
+    linkedin_url: http://linkedin.com/in/feransisca-oktavia-5688091aa
+
+  - name: Myra Adiwijaya
+    title: Project Development Officer
+    image_url: /assets/members/melbourne/myra_adiwijaya.jpg
+    linkedin_url: https://www.linkedin.com/in/myradiwijaya/
+
+  - name: Reynaldi Agustian Roman
+    title: Project Development Officer
+    image_url: /assets/members/melbourne/reynaldi_agustian_roman.jpg
+    linkedin_url: https://www.linkedin.com/in/reynaldi-roman/
+
+  - name: Siti Rahmah Widi Aprilia
+    title: PR & Marketing Officer
+    image_url: /assets/members/melbourne/siti_rahmah_widi_aprilia.jpg
+    linkedin_url: www.linkedin.com/in/siti-rahmah-widi-aprilia-bb10a8214
+
+  - name: Gabriela Angelia Gunawan
+    title: PR & Marketing Officer
+    image_url: /assets/members/melbourne/gabriela_angelia_gunawan.jpg
 ---
