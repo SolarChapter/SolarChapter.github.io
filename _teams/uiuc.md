@@ -14,61 +14,80 @@ quote: |
   We want to help people who are less fortunate because we believe everyone deserves a shot at a better life.
   The world could always use more love. Join us in improving their living condition, education, and opportunity!
 team_image: |
-  https://lh3.googleusercontent.com/3tc8IFxYftk6-lR_QS566ZZDLLs9N5XYIY3rvbWzhzmDtXeiB7RtofdwOdlvyW1VkeK333RqV4EnjICrp-QAZKO-O2TwTHeBgwOyoyAfXoQzE9vjwWdTQK5IZob8i1jKCIY7awKW1EyXWIQrlN5nNjTvnnkEUidaRBRd3-ymnrfSj54mwbmBOqyA1PMdTc9nMmKdivOeKoxST8Uqg1TiUzeBnDNeo7WHgubnwIAhVU3rNr6IVyHFC0SzEMMfWmfXTIiURa3W8hXEf6dWU9S6Bvrbhlv0Skq4ExJca9l2RidiHIeA_A2faJUiBE4RszKK-y5TaMQq1oak9yYceJjHFr-I-cdiFIIojjdYH84pQwSsxdBf98Kbiysy2BHJ8hf2bfu6AuIOwppWg_MMDgEw9QWY0gSBxSM3VwHhF2ODg8L3Ms5tv52SdplX4vbHi2n-ljPBXqdvNuND_r_OLAcWP5cQfzk6JqK8Ez_K2Fnuin68aMBF-qeGL8LBXDjf91IRg6RzZnXLer41fCeAkEnolBBCjbBOqBC2nXYJ0wYkXCsZEu3yv88bP40r08sqmgvPV9gdxODL2mMbDyuc4ePgPRL4e-_Mid8I9Ot1P-MP83RyltBep5eou7L61uRImFvbJJj64c5SNXOFSXOUrq8yxhD_dBmRVE5jEC7SLBD4_ZpFwXR8fjUKr6dFEsIhFVKc6v41CSCUnglmygqN8PKXAFLyvd0foom6xF2Flq2ctlF5SDRzCG926gE=w3586-h2018-no
+    /assets/members/uiuc/team.jpg
 
 officers:
-  - name: Natasha Fandawa
+  - name: Felicitas Stella Agatha
     title: President
-    image_url: /assets/members/uiuc/natasha_fandawa.jpg
+    image_url: /assets/members/uiuc/felicitas_stella_agatha.jpg
+    linkedin_url: https://www.linkedin.com/in/felicitasstellaagatha/
+
   - name: Putra Derindra Firmansyah
     title: Vice President
     image_url: /assets/members/uiuc/putra_derindra_firmansyah.jpg
-  - name: Priscilla Gracia Margatan
-    title: Secretary
-    image_url: /assets/members/uiuc/priscilla_gracia_margatan.jpg
-  - name: Jason Trisna
-    title: Treasurer
-    image_url: /assets/members/uiuc/jason_trisna.jpg
-  - name: Musa Hartono
-    title: Head of Fundraising Team
-    image_url: /assets/members/uiuc/musa_hartono.jpg
-  - name: Jonathan Kianto
-    title: Member of Fundraising Team
-    image_url: /assets/members/uiuc/jonathan_kianto.jpg
-  - name: Audrey Wibawa
-    title: Member of Fundraising Team
-    image_url: /assets/members/uiuc/audrey_wibawa.jpg
-  - name: Felicitas Agatha
-    title: Member of Fundraising Team
-    image_url: /assets/members/uiuc/felicitas_agatha.jpg
-  - name: Nicholas 
-    title: Head of Web Development Team
-    image_url: /assets/members/uiuc/nicholas_husin.jpg
-  - name: Dylan Edbert
-    title: Member of Web Development Team
-    image_url: /assets/members/uiuc/dylan_edbert.jpg
-  - name: Gisella Kontaria
-    title: Member of Web Development Team
-    image_url: /assets/members/uiuc/gisella_kontaria.jpg
-  - name: Michael Wong
-    title: Member of Web Development Team
-    image_url: /assets/members/uiuc/michael_wong.jpg
-  - name: Sherrine Yuwono
-    title: Head of Marketing Team
-    image_url: /assets/members/uiuc/sherrine_yuwono.jpg
+    linkedin_url: https://www.linkedin.com/in/putra-derindra-firmansyah-564b47173
+
+  - name: Aldo Leonardi Pangestu
+    title: Technical Coordinator
+    image_url: /assets/members/uiuc/aldo_leonardi_pangestu.jpg
+    linkedin_url: https://id.linkedin.com/in/aldo-l-pangestu-a826831b5
+
   - name: Rebecca Oriza
-    title: Member of Marketing Team
+    title: Head of Marketing
     image_url: /assets/members/uiuc/rebecca_oriza.jpg
-  - name: Benjamin Kusno
-    title: Member of Marketing Team
-    image_url: /assets/members/uiuc/benjamin_kusno.jpg
-  - name: Aldo Pangestu
-    title: Head of Technical Team
-    image_url: /assets/members/uiuc/aldo_pangestu.jpg
-  - name: Raynaldi Yose Iskandar
-    title: Member of Technical Team
-    image_url: /assets/members/uiuc/raynaldi_yose_iskandar.jpg
-  - name: Norman Dewantoro
-    title: Member of Technical Team
-    image_url: /assets/members/uiuc/norman_dewantoro.jpg
+    linkedin_url: https://www.linkedin.com/in/rebeccaoriza
+
+  - name: Kent Suhadi
+    title: Technical Officer
+    image_url: /assets/members/uiuc/kent_suhadi.jpg
+    linkedin_url: https://www.linkedin.com/in/kentsuhadi/
+
+  - name: Ambrosius Hario Sudono
+    title: Technical Officer
+    image_url: /assets/members/uiuc/ambrosius_hario_sudono.jpg
+    linkedin_url: linkedin.com/in/ambrosius-hario-7262b2169
+
+  - name: Sakhiyuvio Farsya Yunalfian
+    title: Technical Officer
+    image_url: /assets/members/uiuc/sakhiyuvio_farsya_yunalfian.jpg
+
+  - name: Gisella Kontaria
+    title: Web Development Officer
+    image_url: /assets/members/uiuc/gisella_kontaria.jpg
+    linkedin_url: https://www.linkedin.com/in/gisella-kontaria/
+
+  - name: Michael Wong
+    title: Web Development Officer
+    image_url: /assets/members/uiuc/michael_wong.jpg
+    linkedin_url: https://www.linkedin.com/in/michael-wong-07b79b168
+
+  - name: Gavin Chaidir
+    title: Sponsorship & Fundraising Officer
+    image_url: /assets/members/uiuc/gavin_chaidir.jpg
+
+  - name: Adeline Susanto
+    title: Sponsorship & Fundraising Officer
+    image_url: /assets/members/uiuc/adeline_susanto.jpg
+    linkedin_url: https://www.linkedin.com/in/adelinesusanto/
+
+  - name: Clarissa Liefarel 
+    title: Sponsorship & Fundraising Officer
+    image_url: /assets/members/uiuc/clarissa_liefarel_.jpg
+    linkedin_url: https://www.linkedin.com/in/clarissa-liefarel
+
+  - name: Jonathan Farrell Kusuma
+    title: Marketing & Design Officer
+    image_url: /assets/members/uiuc/jonathan_farrell_kusuma.jpg
+    linkedin_url: https://www.linkedin.com/in/joekusuma/
+
+  - name: Sakher Haris
+    title: Secretary
+    image_url: /assets/members/uiuc/sakher_haris.jpg
+    linkedin_url: https://www.linkedin.com/in/sakher-haris-980706221
+
+  - name: Kayla Tanoko
+    title: Treasurer
+    image_url: /assets/members/uiuc/kayla_tanoko.jpg
+    linkedin_url: https://www.linkedin.com/in/kayla-tanoko-a3923719a/
+
 ---

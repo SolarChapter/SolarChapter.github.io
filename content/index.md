@@ -66,35 +66,36 @@ impacts:
     value: "87 students"
 sponsorCarouselDuration: '120s'
 sponsors:
-  - pt_wahana_duta_jaya_rucika:
-    link: http://rucika.co.id/
-    image_url: https://lh3.googleusercontent.com/L6DWwywn4uZNDsDskseFle8NND5XTW6Uojks4QH50Sq86FwrXjEUMoPRRPEwtsJH5X9uqvtIlT0OAxHfDQbwAs7Q05A6TetxtdWvhB2fG0521mlRnsBpELKYyswyXrepJEAPkFxNGUamURh-QMKrfyyK_3wzHx9OKky-eLtJD5XzGzMN-9Ry7GIRuF_Kxyd_jkZ7rGlMnHyXWiYnRt0PtC4t2T0bKDafg9HRafR-JcfYRL_ANHQus9P9YsmymLDJ9iHzpWD1izlhTfcugZsOhX4GfhxbwcXo5wFZbpoaoaynwzraZVHYz69CsSToc8rkUGOt5wRcJJwgGW42ql7iLrjZg45TxYOd6YENA6trAHX4Bmh9fvIAhBbhO6uQ7Q6_kDMhvxSCaK69gkjaOX7FaY1M4_GWP7ZVqfp19xONAT3q1hEiudjGZ9uUF7P-IDKyUhLXpV6U1ZleYiZ79B4u_qHGlfJZpBWmHxgjL-GH2veYZhgIfAQKhgxBkZKi3IWRmp8VYuR64AQQkXY_jYCbzGeUSMkM9bu3mDQfzmnmgqkDQw3pCfVTtteNFu7Sne3X36U9a3qElhK_KG8Cw32fzm_0SZQTBNQrNRDx_SyJXKox8_yyRUlCiawJha-ZQBj0FOsR_aTE8ipA9c2DuW-67dYGXaAAKPubXEHCb776gyKocW7k6MKbp0DXMt4EiOy1jAXuUkjNLAdzl-H_jjQM_JHNrESH6WqPfn6IERSX7iYAnG4-KbX2u5Y=w1075-h109-no
-  - pt_multi_spunindo_jaya:
-    link: http://www.spunindo.com/
-    image_url: https://lh3.googleusercontent.com/jRkGDLKWGJEgxHL2sJLAuQ2lMyVEkIY34inQP-pF1uFE56pygCSz7jxiGxCggyK72JjaOpGOGsJtxaSFHkyldtFAYIQMnKfKnREAw40LNaXPwHG4M34xWaKMlwX8ncRNg6aIHowcayKliBjJzfXLsUX1iHa1XyU-IgsN9YUgCjs_jvAGDUdD2Szs8iJHDA27CvamalE3v0cgN0oZ_bWxx8UJrrkURqGPwufcbYYDyybKZZnw4nFqNQF5Q1QXwodBwy8yaYWkAoHQGVgTzUdmNRM7hLQmTyBYbaiowwTxgY0EGh4FJrilwrKPItOIBqF-va-HEkweiUDHSC3UdbQjgiut4kq0LI1R-5pMRaXi84lh-PBj8cUi5G0WeEj-sdFl68vleEewiHimKFqzdzpccdURhdLlseynhkFQHWHgeNzHU6kBcPyT9uBN3qcVTKCi2VyJ9Qr1eGCUfN5xS2BIt3lqzDjaP7hPXwIyEzeg31UfzxDl-Fyj-Rwj3u8m3SLXyLdu39h0xgqRnCTkosXfONk5OfrEvLsyeHs0QtJgjJ7dxit8Cf5_RKv1F7NSGT2iPkiP351F6ve7QH_7p-346Hf2nBzAdL5_2Uh3Vpsgw9-IBd91tAOL0TQk2x9Fx0LXsCckjwGtVIIf5lGNofbNGn1D6c6muTZ2roJyO92-3_YRJ6drNwb_eh0nkVznZM7N36eKucfQIN0I9_NItd79TOeaLgMXTQN3aRrYHo0EibsaOwf-NhtzBSg=w800-h204-no
-  - jsl_levico:
-    image_url: https://lh3.googleusercontent.com/brCqQynJxlB6J2wdGq8_7ck9gAiUb2SFp2UZqU1bljYclYu2FnYIYtHCNVuuwfRHqOXT9LkYT8CDrmEiuFR45SKZ3tJyQMMJYYmcErPF-ORPW_t1fWFYvPC5LNr8vKOgRvYzFSRVIrDnytpvA4req3pO9c7LsjV5PjXBwULXBf5G_Cm5PrpRnPXoF1kGrb9wAqcQGbmvdQhnN7lUxcprzwK1Al0HLcDMN0jZoP0heqoaPMA9wWpZfIKhLtvR3y0D3gUYvhoB6HqwXbbspXvY0Na1wbOrV3JQ8AWQ36CmaMNfGSNjGNEobP2kNZ6cI0WTov9fjjA-nLThhA32OtNRpOZh8ljlTrEv5nrdSL3wuUFLoNSQHmuqegHwpC-6DxHLaNLv9dt7qk5MH9kikXf3KmwgX4r7iY2_RJ81v5JRlBR3WoOvBd-J-xdZDvIV_9daHSJnrCEt_E2RJVlM3rcNENCQ1dwXaZbiZHUYbONCErYDbCJKtbU1zsobPMk_SFu4wVnwjEHHvjKV1oSwXTgb2wvWiAat1qTn2jGMO5RLrSfr8gygEiGQDAkhOF-iSrM1Y-UZYeBPPbcdRDU__JD7n2A_9lVdOS6enqMU9sUoRwZaCMR-KkOJA3PaDYngham9RzKn12YMKExEE5czcgd7vTBBn5IIj3aaZEIxgxtiRQdWOD0v8OcrBTvIqNcyr8mxDKSVPCTRAmjflszjI5OC2HDSm-EW4aBfKwFUPwJZSOe7TdrFfN8I59Y=w400-h228-no
-  - atonergi:
-    link: https://www.atonergi.com/
-    image_url: https://lh3.googleusercontent.com/oqODEefzRUm1W8MCafVTGlaAEbACdeCC7kEUoXfm6TMMUP4exlJCBvVzo4lp5rz90SjXSssinzel4R2LrcmeMut1_hbdeq6f4fohajBL3-OsqvgLRtY2LcKNqrI-9xfgVDR_d9IAa_5Y0cJDf4EEDJVNH-0x59iLhgOE44hMkeihqQBtlJ9mg6061iN9fcjx_1x0iRX-8ubV78mI8I3LVsgb56YHRCrqLQTpHSeTzQ7r5Ci0WxjvvBrDtgEvrffqLp-7ILjl24mVo3586-bfIrj0YXJIogt2BoDYo8glQ8eS1S_Y3NflAATe0WNDfmY8NLchD5_6a2jAAoLDMZy7Eu2pUSAxCJBzrHh011UmNoZIQxVrLXpgJoOdD7FyJrIIuwlXzRk03stjNE4rUbvhWW3zl5A2WN2_bHQTlPqI76ehtcLrS6nzpaAdiTu5bHW6_78ngado7-0nPtMZwnP0NlMCYJhCrXg-ro4L_h-PfH83Tejctef2Ghx1HvPg6dt7zTuVhm9pc5cz-VZ8CEZ668745lSKMpKXe5afEcy9y6hHtOCiGDpRpf3D98KtH9E0UcsfxgCAHJgrvOE5Eg7nqKBlrHY5jOv73Hg6p47Y9hiXEkeQFUZeY2RophB2nt_YCtL6P3iNeIVbOVCI7lnowhrXLSqrZfd5145tSS0gYz_g9SPuBssdjZCLOb-P_YvXa4X3Jp5Vjf37aAM0yA5KI8PtZsRDrZWkG-9Xsnwv6dXAkztt9U2H14U=w1075-h291-no
-  - ica_solar:
-    link: https://www.icasolar.com/
-    image_url: https://lh3.googleusercontent.com/bHA43tJphcJKfzauCIlciH7jIE8myBcxwhUTjMxXsjEgHsFCNWOry1U3HryoGRfWiKpeXN7m_rhKGw9btT04Sik6qTwfakJ-PmkBtNKs_nbTgiF2zlHorGUOLU_rke03fTes53eI838tCLGBk8WD7BLKcpcJa_7zR60AtS3HxQ-aJMjipoQXq-Z8vEIWqg6w4YrKwOefMejkdw4AaLrb2tDJTTGlsmKvxxRXw9fFeI6dXgZgQFV5dsyx_WWCSkVbsFbyXWR6AkTGpmXQ8wKTLXVgdTGcJ3NhUph2S5nZzeIHbaJxBW_Rx8bjVimxJmkV58GBhWEfAAB6LYOKrtxKhZaCgE_xiuZfWHytuGKDuCQdrhSdsfRxnW2Rs-RbsuAQ7QngNDKzP0s72aO7PYW25Hc-zsHQJ9JiAqqG_cPh8tV5KYU5CNEaZgj7lspdgPHhkHRqxJV1hbm3Tb43kvT1wC7LmGOJpuUUlncu3oApFxOi3i4iEOR2s23sek7xjBg0igUpg_QXZLfQfO6oqzsPsMsjBl22LZ-Xsxz-DVwgGLsAr9JfXW0uDRwOgWZvSJD4Kpjo56fRzm2g2pg9d_Q_8uLxesfA1D4TzcHcX2GTFiL10kBLrG2WFNa0WK2pYriNOObUFRT8pcth1QrWAItE0fiXGTkHM3waaRBK0dZGmLRUunScYY0zWYh_kNb7mtloKnDTqbv-sRfj6muZnhJYc_vpXkaKQTrdz55W0fU_Q8pe4yheaV4zef0=w1075-h343-no
-  - lorentz:
-    link: https://www.lorentz.de/en/partners/asia/indonesia
-    image_url: https://lh3.googleusercontent.com/61Vyh9Vhgdmk3piSB3T03uzCiaWfOxHOqZeurFQMSPeyuodo6colueKdolb39dWy6P0GB72fWTWEiqQwGHIVevln2Z8GtVjW0PODhhh5P5W9v48xCdk29GglfKcRoJzUx1EAZdkOOuS3xTqtven-Ed4mqJn-VD3RDJkGIMDOUMM2qnvUpRhZkshfYJ9-c7RbtxscbMv1Aw0eS6zhAlsaRlM2b4SHxf3J9Bj6ajXwJkVuYC5DkpX7Ui5skxVcP6HJijkmosNZZr_3ylNGpZE5ATvxK98vWTRYhEGqWLfqkcOYJkF-HJJtjBa7VxGJ2HcivdLAMIB8j0ius9C1fQ8jzseUg_tPHBPPRfBJ_iWtICdGliCyyjqZS-dRUHOQMY0Jj1WJXFgSMcFHix-PO-oPkIlOprJtoZcCSt7HNCAPFjZYFrC0Gp8lVBPOxqyiTUKCBNZu5FlS7aWTNmY47eBjCVYzbqjerQc-Uym5AbfRHoPmxtMXQiOlWZ_hPrQmk2aJS14Ip3_3MKT1m_979kQB8H5GCOFHao0JCl2bkxI3E_eQEmXcRxoegu9Pwhu_XZaY1x6bjMM1HxRQ0Ld0_K0a4Rg86h7GhQKLk62F83RlTTsNTKbIwmwdpdEzZLcinmqBH3QpY455uEKnSvhmzHZnuQQVaADetJPBLvxKhIgptYATVQshv0LeBhx5aZERNAxZ4GmenTu601t-ZjXgocO4cawFahup82PnIo5smbHjy9xplBnirGKdFdU=w1075-h141-no
-  - Pajakku:
-    link: https://www.pajakku.com/
-    image_url: https://www.pajakku.com/static/assets/logo-pajakku.svg
-  - Protelindo:
-    link: https://www.ptsmn.co.id/
+  - ace_hardware:
+    image_url: /assets/sponsors/ace_hardware.jpg
+  - adhi_karya_persero_tbk:
+    image_url: /assets/sponsors/adhi_karya_persero_tbk.jpg
+  - awt_solar:
+    image_url: /assets/sponsors/awt_solar.jpg
+  - cikarang_listrindo:
+    image_url: /assets/sponsors/cikarang_listrindo.jpg
+  - ipfest:
+    image_url: /assets/sponsors/ipfest.jpg
+  - kawan_lama:
+    image_url: /assets/sponsors/kawan_lama.jpg
+  - multi_spunindo_jaya:
+    image_url: /assets/sponsors/multi_spunindo_jaya.jpg
+  - pajakku:
+    image_url: /assets/sponsors/pajakku.jpg
+  - pegadaian_persero:
+    image_url: /assets/sponsors/pegadaian_persero.jpg
+  - protelindo:
     image_url: /assets/sponsors/protelindo.jpg
-  - Astra:
-    link: https://www.asuransiastra.com/
-    image_url: /assets/sponsors/astra.jpg
+  - rucika:
+    image_url: /assets/sponsors/rucika.jpg
+  - sky_energy:
+    image_url: /assets/sponsors/sky_energy.jpg
+  - sma_kanisius:
+    image_url: /assets/sponsors/sma_kanisius.jpg
+
 ambassadors:
   left:
-    quote: "Pada umumnya kita semua membutuhkan air, namun mereka sangat sulit mendapatkan hal itu."
+    quote: "Kita semua membutuhkan air, namun mereka sangat sulit mendapatkan hal itu."
     name: Gege Elisa
     image_url: https://lh3.googleusercontent.com/7LivrHxvjV9EBMD2RAfmcOSTGp_33YK5XMFSvrxs29SE14q4Z-lVEjoRnfD_2comYaGcdrWSGjXosT6Z5JazrXoCFw7qM16fkrzBjyqWEH52PD-pE5yymdjRpMQMqz2J0uxdeD6pHlCj0okjoh9Q_tCDuxLF9CH-AN5CJcB2sdyNbRHEKp_M6slr5bjvCzKowdZgLlB0pg9QrdfaVqccMvuConmnR5d4YjEk_7PtYpSE0kdR1zEMEeS-8PzKhWeGoZNN3OBkRGu9bc1jh6X3oylsFr8kUtKYi75OJv3hdD8cijYuaHx3nKcpQ1nprTnBE8wtO5hRqCuMFcCWdvuwK2tgHWw0JKrZKoelJ-btWFamKJFd-b76d1KhplphCdh1Ajf0rANGzpt7szr4X2EQzA5u45BXYTb5bpDzTD-TWDRn47Tvp6vsQwlsyysjlZtbu0o_Jdcua3AcmSuBPQ3BBRG4TwitCXXV_SZWD6bnBFJ0MYxhdOyMRtUSnruqgsrfqwqDu9WGNqHLleKmuaVeJXjy3CGariTq-8CI-fCX29wz7g1DDtSpX8zQhmeybgIX0aED6uC0eqnN6sGLarb8AMtznFuQXdJ2hbfxsCtLwqV-pJAx6iIqjPjW5gNwhakCQdu-aW0yVqFx8CrK9ZD6IWAJu3NbvNh8buQDlcs0Q733pkuZMrBcuzkv9sTEbe0bXUmQJkk05P5SHaeDta9RSCPe4hxlr_AVHDYD05p36XsLww_qGDzoCxo=w500-h749-no
     # Please include class="embed-responsive-item" in the Youtube share code. See below as example

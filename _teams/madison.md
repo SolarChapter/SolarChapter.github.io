@@ -8,6 +8,7 @@ headerMenuName: Madison
 location: University of Wisconsin-Madison, Wisconsin, USA
 locationImage: https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/8/2019/02/0204_uw_madison_Bascom_Hall.jpg 
 quote: |
+    Solar Chapter Madison was founded in 2019, and has quickly grown to become an amazing team filled with diverse members originating from different backgrounds and talents! We have so far assisted SC-Seattle in fundraising for Water for Biau and Nibaaf, collaborated with SC-Anapalu in Water for Anapalu, and is now spearheading our very own Water for Sondana in 2021. 
 team_image: https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/8/2019/02/0204_uw_madison_Bascom_Hall.jpg
 officers:
   - name: Joanne Kurniawan

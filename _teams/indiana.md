@@ -8,6 +8,7 @@ headerMenuName: Indiana
 location: Indiana University, Indiana, USA
 locationImage: https://www.honorsociety.org/sites/default/files/uni-campus-18590 
 quote: |
+    Founded in the middle of a pandemic, we at Solar Chapter Indiana had to be shrewd in how we were to flesh out our vision of empowering the people of Indonesia. Today, our team stands 14 strong and have completed water and education projects through creative fundraising methods and collaborations! We strive to multiply our impact and continue being a blessing to the marginalized. The world needs more love and kindness, so let us be the vessel.
 team_image: https://www.honorsociety.org/sites/default/files/uni-campus-18590
 officers:
   - name: Kevin William Ko
