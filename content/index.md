@@ -51,19 +51,19 @@ impactCarouselDuration: '120s'
 impacts:
   first: 
     title: "Reached out"
-    value: "3569 people"
+    value: "8794 people"
     help_message:
   second:
     title: "Served"
-    value: "5 villages"
+    value: "10 villages"
     help_message:
   third:
     title: "Branched out to"
-    value: "5 universities"
+    value: "8 universities"
     help_message: "around the world"
   fourth:
     title: "Involved"
-    value: "87 students"
+    value: "126 students"
 sponsorCarouselDuration: '120s'
 sponsors:
   - ace_hardware:
