@@ -41,7 +41,7 @@ officers:
     linkedin_url: https://www.linkedin.com/in/kihana-siswanto-391480219/
 
   - name: Hugo Tanade
-    title: Fundraising Coordinator
+    title: Head of Fundraising
     image_url: /assets/members/vancouver/hugo_tanade.jpg
     linkedin_url: www.linkedin.com/in/hugo-tanade
 
@@ -51,7 +51,7 @@ officers:
     linkedin_url: linkedin.com/in/enzohartono
 
   - name: Darren Evan Widjaja
-    title: Technical Coordinator
+    title: Head of Technical
     image_url: /assets/members/vancouver/darren_evan_widjaja.jpg
     linkedin_url: https://www.linkedin.com/in/darrenwidjaja
 
@@ -70,6 +70,6 @@ officers:
     linkedin_url: www.linkedin.com/in/niczhartono
 
   - name: Rebecca Novita Widjaja
-    title: Marketing & Social Media Coordinator
+    title: Head of Marketing and Social Media
     image_url: /assets/members/vancouver/rebecca_novita_widjaja.jpg
 ---

@@ -18,7 +18,7 @@ officers:
     title: Finance Officer
     image_url: /assets/members/madison/fauzan_faris_irawan_pasaribu.jpg
   - name: Christopher Raymond
-    title: Head of Sponsorship
+    title: President
     image_url: /assets/members/madison/christopher_raymond.jpg
   - name: Brigitta Jacop
     title: Head of PR Team

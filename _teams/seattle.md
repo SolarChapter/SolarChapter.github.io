@@ -63,7 +63,7 @@ officers:
     image_url: /assets/members/seattle/anthony_liem.jpg
     linkedin_url: http://www.linkedin.com/in/anthony-liem-15849919b/
   - name: Michael Orlando
-    title: Tehcnical
+    title: Head of Technical Team
     image_url: /assets/members/seattle/michael_orlando.jpg
     linkedin_url: https://www.linkedin.com/in/michaorlando/
   - name: Marco Gunawan
