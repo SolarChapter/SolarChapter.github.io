@@ -18,41 +18,51 @@ quote: |
 team_image: |
   https://lh3.googleusercontent.com/uhjEszQWTWrY--sQ-n01AK4FFAIMDoOS7_t9aaOoDf6n97Wwe_JGN5vX5NJKoosYK9deL8SBu2cnMtZSCRU7aFiw0DNnlhZ7SiMKYXV4DiEF1S7ftJu0KBzvzfEK4USB1kogE0nMCLptw9bFWQIXRFmRYVltnt374q2ODcXC7GGjq-AGBwynEafUHzGfKFi1brAeAHfY7NTM-RPLAliQE7oidBGsx-puYOc7t7HkZRyO9jg28Gfv3FyJgcEOjPKO7FGbXocZA-Ajs4_eZMsB8GOiDPOyYZ6j3PIYtjxVqLmCrpPDeHDI-Y_PU9bkfqpgofdl_Qh607u3kpDGEDFEPwT-euqEve0sPY9-pZL3e9ms9UCVGuxWP6k207uEA4rzx-6PAxGW33A-TdkyVeibsc6hAHDU571H-n_tBe0uB_X4YtP6-gmVfMd2ekNqECmYlxchUEoHL42h5KvqD3PhBOV8P4penPRoREtOVmXHxcHGSNHbxnPGYft3J8r8y8G6t0jzUFdGKipP26rTS2RZ2G1vQEQhGAprd6rZeNjprVNtaN7l3m6aFVlzDMZZjOZtswhUfWncU7eFS-VCcxDOzQXuahJ_wrsDIfTSxE7n7hVLyY9hgpZoOno50OoU447Da5PiBlQSgyyiqxDDbTtsCEB4xNrcOLe20u2uChAJBpevCagwzpL8CR-RQETa6PhA63I1HCum-WCno1FMCxCFWd-ck4rPAK9uUFyPaFkrH0NGLLqVcz2E1xk=w2692-h2018-no
 officers:
-  - name: Madeleine Silitonga
+  - name: Raymond Godjali
     title: President
-    image_url: /assets/members/purdue/madeleine_silitonga.jpg
+    image_url: /assets/members/purdue/raymond_godjali.jpg
 
-
-  - name: Michelle Kosasih
+  - name: Farah Shabrina Amalia
     title: Vice President External
-    image_url: /assets/members/purdue/michelle_kosasih.jpg
-
-  - name: Farah Shabrina Amalia (Amel)
-    title: Vice President Internal
-    image_url: /assets/members/purdue/farah_shabrina_amalia.jpg
-
+    image_url: /assets/members/purdue/amel_amalia.jpg
 
   - name: Alisia Limanto
-    title: Treasurer
+    title: Vice President Internal
     image_url: /assets/members/purdue/alisia_limanto.jpg
+
+  - name: Josephine Lesley Liebrata
+    title: Treasurer
+    image_url: /assets/members/purdue/josephine_lesley_liebrata.jpg
 
   - name: Enrico William
     title: Secretary
-    image_url: /assets/members/purdue/william_enw.jpg
+    image_url: /assets/members/purdue/enrico_william.jpg
 
-  - name: Mallory Gagliardi
-    title: Technical Director
-    image_url: /assets/members/purdue/mallory_gagliardi.jpg
+  - name: Madeleine Silitonga
+    title: Head of Technical
+    image_url: /assets/members/purdue/madeleine_silitonga.jpg
 
-  - name: Raymond Gregory Godjali
-    title: Technical Director
-    image_url: /assets/members/purdue/raymond_godjali.jpg
+  - name: George Tedjo
+    title: Technical Officer
+    image_url: /assets/members/purdue/george_tedjo.jpg
 
-  - name: Qiao Yi Wong 
-    title: Marketing & Public Relations Director 
-    image_url: /assets/members/purdue/qiao_yi.jpg
+  - name: Gregorius Stanley Tejakusuma
+    title: Technical Officer
+    image_url: /assets/members/purdue/gregorius_stanley_tejakusuma.jpg
 
-  - name: Faiq Windrasto
-    title: Technical Team Member
-    image_url: /assets/members/purdue/faiq_windrasto.jpg
+  - name: Rachelle Annabelle
+    title: Technical Officer
+    image_url: /assets/members/purdue/rachelle_annabelle.jpg
+
+  - name: Gaius A Gunawan
+    title: Technical Officer & Graphic Designer
+    image_url: /assets/members/purdue/gaius_gunawan.jpg
+
+  - name: Madeleine Edwina Adisubrata
+    title: Fundraising Officer
+    image_url: /assets/members/purdue/madeleine_edwina.jpg
+
+  - name: Jefferson Chandra
+    title: Fundraising Officer
+    image_url: /assets/members/purdue/jefferson_chandra.jpg
 ---
