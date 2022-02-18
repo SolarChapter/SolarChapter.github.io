@@ -350,11 +350,6 @@
   padding: 50px 0;
 }
 
-.sponsor-img-box {
-  padding: 20px;
-  vertical-align: middle;
-}
-
 .section.sponsors {
   overflow-x: hidden;
   margin-bottom: 50px;
@@ -368,14 +363,17 @@
 
 .sponsors-carousel {
   display: inline-flex;
-  transform: translate(0, -50%);
 
-  .slide {
-    line-height: 6;
-  }
 
-  img {
-    max-width: 200px;
+  .sponsor-img-box {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    min-width: 250px;
+    padding: 20px;
+    margin: 10px;
+    border: 1.5px solid #23560B;
+    border-radius: 100px;
   }
 }
 
