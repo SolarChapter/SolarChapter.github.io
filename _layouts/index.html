@@ -194,75 +194,54 @@ custom_js:
         {% endfor %}
     </div>
 </div>
-<!-- AMBASSADORS & CONTACT -->
-<div class="section ambassadors-contact">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-xs-12 col-md-6 ambassadors-container">
-                <img class="ambassadors-left-background" src="{{ page.ambassadors.left.image_url }}" />
-                <div class="ambassadors-content ambassadors-content-left">
-                    <div class="lead-quote">
-                        {{ page.ambassadors.left.quote }}
-                        <p><b>– {{ page.ambassadors.left.name }}</b></p>
-                    </div>
-                    <button class="btn btn-solarchapter" data-toggle="modal" data-target="#ambassadors-left-video">Watch Her video</button>
-                </div>
-            </div>
-            <div class="col-xs-12 col-md-6 contact-container">
-                <div class="contact-content">
-                    <p class="card-title">{{ page.faq }}</p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-12 col-md-6 contact-container">
-                <div class="ambassadors-content contact-content">
-                    <p class="card-title"><a target="_blank" href="mailto:{{page.contact.email}}">{{ page.contact.email }}</a></p>
-                </div>
-            </div>
-            <div class="col-xs-12 col-md-6 order-first order-sm-0 ambassadors-right-container">
-                <img class="ambassadors-right-background" src="{{ page.ambassadors.right.image_url }}" />
-                <div class="ambassadors-content ambassadors-content-right">
-                    <div class="lead-quote">
-                        {{ page.ambassadors.right.quote }}
-                        <p><b>– {{ page.ambassadors.right.name }}</b></p>
-                    </div>
-                    <button class="btn btn-solarchapter" data-toggle="modal" data-target="#ambassadors-right-video">Watch Her video</button>
-                </div>
-            </div>
-        </div>
+<!-- GET INVOLVED -->
+<div class="section get involved">
+    <div class="chapters-title" style="margin: 40px 0;">
+        <p>GET INVOLVED</p>
     </div>
-</div>
-<!-- MODAL: AMBASSADORS VIDEO -->
-<div class="modal fade" id="ambassadors-left-video" tabindex="-1" role="dialog" aria-labelledby="ambassadors-left-video" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <div class="embed-responsive embed-responsive-16by9">
-                    {{ page.ambassadors.left.youtube_share_code }}
+    <div class="row">
+        <div class="card-deck text-center mx-auto">
+            <div class="card shadow p-3 mb-5 bg-white rounded border-0">
+                <div class="card-body">
+                    <h5 class="card-title">JOIN US</h5>
+                    <div class = "btn-group-vertical">
+                        <a href="#" class="btn btn-success">Start A Branch</a>
+                        <p></p>
+                        <a href="#" class="btn btn-success">Sponsor A Village</a>
+                        <p></p>
+                        <a href="#" class="btn btn-success">Fundraise With Us</a>
+                    </div> 
                 </div>
             </div>
-        </div>
-    </div>
-</div>
-<div class="modal fade" id="ambassadors-right-video" tabindex="-1" role="dialog" aria-labelledby="ambassadors-right-video" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <div class="embed-responsive embed-responsive-16by9">
-                    {{ page.ambassadors.right.youtube_share_code }}
+
+            <div class="card shadow p-3 mb-5 bg-white rounded border-0">
+                <div class="card-body">
+                    <h5 class="card-title">GIVE</h5>
+                    <p class="card-text">Join our campaign to change lives by giving $1, $10, or $100 today</p>
+                    <a href="https://solarchapter.com/donate?" class="btn btn-success">Donate</a>                 
                 </div>
             </div>
+
+            <div class="card shadow p-3 mb-5 bg-white rounded border-0">
+                <div class="card-body">
+                    <h5 class="card-title">STAY UPDATED</h5>
+                    <p class="card-text">Receive updates on our activities</p>
+                    <form>
+                        <div class="form-row align-items-center">
+                          <div class="col-6">
+                            <label class="sr-only" for="inlineFormInputEmail">Email</label>
+                            <input type="text" class="form-control" id="inlineFormInputEmail" placeholder="Enter Email">
+                          </div>
+
+                          <div class="col-6">
+                            <button type="submit" class="btn btn-success">
+                                <i class="icon-user icon-white">Submit </i>
+                            </button>
+                          </div>
+                        </div>
+                      </form>
+                  </div>
+            </div>
         </div>
-    </div>
+    </div>         
 </div>
