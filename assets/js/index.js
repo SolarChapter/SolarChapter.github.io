@@ -52,3 +52,13 @@ $(document).ready(function() {
     $(this).find("iframe").attr("src", $(this).find("iframe").attr("src"));
   });
 });
+
+$("#chapters-carousel").on('slide.bs.carousel', function(event) {
+  const slide_index = $(event.relatedTarget).index();
+  const chapter_cards = $(".chapter-card");
+
+  for (let chapter_card of chapter_cards) {
+    chapter_card.hidden = true;
+  }
+  chapter_cards[slide_index].hidden = false;
+});
