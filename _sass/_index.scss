@@ -38,6 +38,33 @@
     }
 }
 
+.card.impact {
+    margin: 15px 0 50px 0;
+    padding: 5px;
+    box-shadow: 4px 4px 8px rgba(35, 86, 11, 0.5);
+    border-radius: 10px;
+    background : #FCFCFC;
+    text-align: center;
+
+    .card-text {
+        font-size: 20px;
+        font-weight: bold;
+        font-family: 'League Spartan', sans-serif;
+    }
+
+    .card-img {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        margin-bottom: 20px;
+     }
+
+     .card-body{
+        margin-top: 50px;
+        margin-bottom: 18px;
+     }
+}
+
 .kain-makna-logo {
     width: 150px;
     height: 113px;
@@ -179,41 +206,34 @@
     }
 }
 
+
+.card-impact-text{
+    font-size: 17px;
+    font-weight: 800;
+    font-family: 'League Spartan', sans-serif;
+    text-align: center;
+}
+
 .section.impacts {
     position: relative;
     height: 100%;
     overflow: hidden;
 
     h4.card-title {
-        padding: 10px
+        font-size: 30px;
+        font-weight: 700;
+        font-family: 'League Spartan', sans-serif;
+        color: #23560B;
+        letter-spacing: -0.02em;
     }
 
-    .container {
-        position: relative;
-        height: 100%;
-
-        .row {
-            .impact {
-                padding: 20px;
-            }
-        }
+    p.card-impact-text{
+        font-weight: normal;
+        line-height: 5px;
     }
 
-    .impacts-background-gallery {
-        display: inline-flex;
-        position: absolute;
-        overflow-x: hidden;
-        top: 50%;
-        transform: translate(0, -50%);
-
-        .slide {
-            display: inline-block;
-            align-items: center;
-
-            img {
-                height: 600px;
-            }
-        }
+    h4.card-impact-text{
+        padding-bottom: 10px;
     }
 }
 
