@@ -11,7 +11,7 @@
         z-index: 1;
 
         p {
-            font-size: calc(100% + 1.2vw);
+            -size: calc(100% + 1.2vw);
             font-weight: bold;
             font-family: 'League Spartan', sans-serif;
             letter-spacing: -0.02em;
@@ -24,7 +24,7 @@
     margin-top: 50px 0;
 }
 
-.card.chapters {
+.chapters {
     margin: 50px 0 50px 0;
 
     h3.card-title,
@@ -34,7 +34,7 @@
 
     .chapter-text {
         font-size: calc(50% + .6vh + .6vw);
-        ;
+        
     }
 }
 
@@ -361,6 +361,83 @@
         border-radius: 100px;
     }
 }
+
+// GET INVOLVED
+.section.involved {
+    .involved-title {
+        font-weight: bold;
+        font-family: 'League Spartan', sans-serif;
+        letter-spacing: -0.02em;
+        text-align: center;
+        font-size: 45px;
+        color: rgba(35, 86, 11, 0.9);
+    }
+    
+    .card-involved {
+        margin-bottom: 15x;
+        width: 373px;
+        height: 358px;
+        box-shadow: 10px 0 8px -4px #23560B, 0 4px 6px -2px #23560B;
+        margin-right: 20px;
+        
+
+        .card-title {
+            font-weight: bold;
+            font-family: 'League Spartan', sans-serif;
+            letter-spacing: -0.02em;
+            text-align: center;
+            font-size: 30px;
+            margin-top: 17px 0;
+            margin-bottom: 30px;
+            margin-top: 10px;
+        }
+
+        .join-btn {
+            font-weight: bold;
+            font-family: 'League Spartan', sans-serif;
+            font-size: 17px;
+            text-align: center;
+            color: 3px solid #23560B !important;
+            border: 3px solid #23560B !important;
+            border-radius: 100px;
+            margin-bottom: 30px;
+            box-shadow:  0 4px 6px -2px #23560B;
+        }
+
+        .donate-btn {
+            background-color: #23560B !important;
+            font-weight: bold;
+            font-family: 'League Spartan', sans-serif;
+            font-size: 17px;
+            text-align: center;
+            color: #FFFFFF !important;
+            margin-top: 40px;
+        }
+
+        .card-involved-text {
+            font-size: 22px;
+            margin-bottom: 5px;
+        }
+
+        .submit-btn {
+            background-color: #23560B !important;
+            color: #FFFFFF !important;
+            text-align: center;
+            font-weight: bold;
+            font-family: 'League Spartan', sans-serif;
+            font-size: 17px;
+        }
+
+        .input-form {
+            font-weight: bold;
+            font-family: 'League Spartan', sans-serif;
+            font-size: 17px;
+            color: #C4C4C4 !important;
+            opacity: 0.5;
+        }
+    }
+}
+
 
 @keyframes wavy {
     from {
