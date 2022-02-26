@@ -34,27 +34,35 @@ chapterThreeTitle: |
 chapterThreeMessage: |
   Continuing on with the success of Chapters One and Two, we launch our initiative called MAKNA (/mak·na/) which means purpose. We aim to elevate the voices of the women though exhibiting and promoting their tenin heritage to the global community. Therefore, women in the villages can use 4 hours that they used previously to obtain water more productively
 impactsImageGallery:
-  - https://lh3.googleusercontent.com/HhCadJ_e5aB0RXIN0mNJv5STVP5S3YQ1sFGsrCC2NxWcROx_VE0peTRxKD927DZiACUGUAmjsVErk85MrMSIEHjeROO5yOaS2mU31WHei4-9_B4XDBUGvauyXQTP1XJ3wAJUkIA-AoE_8BaRHcYPKpiy9gj6Q4Urq-oSjdcbHNjsCcOSopPYadbAVzoTreua1ExiLGBnlpesqGhIjM8B4VXCUFOz_A_K3vlbdpDAfsbr_YFmy11RfNGunlm9gzW85ufRXxCNPn9Z1OnPKgO-exAMvUOTp3O8EcUZaiogcCPtsf53GheFKG2mmoDfJsbLpBagngDjbaadmBjZGi0a_ewG1W4bDfWZ8sStpguF7ELZP7KtJhw0TBhov9npKzn276LR0vevaesBqBHenodx2prsji2y0n914PofFgeWdRkY26b2kmmF2nLWR3AViMRcJ6-CJ7cwlNj6ByMX-IFCxTwSK562VpNfNLYVKsBzRfmEN5NMAyV_3Hxy86EAE5SPjIjXsSzbSESR-qj-i9zHfkeOhgN2vMD8-4AuuZk0ND8aL6OVxLMmDmYQlWAk58XyTqFXRpnt7IF9nC91zHcUabI2th1dTdlRI1o6rilqzNu6omx-ZB1QRvkzpl5dh0Elw4KG38-_YolCBM212EIKQGs1QTbktDGIJwk8lp_AhxKcXeuWg5rOMHL4CeTE_cPsdUoxGntR4tXwmsS8pQOOcjOvYtFMNxbF0aY6mU-9aAenLAqgWPK9an8=w1075-h807-no
-  - https://lh3.googleusercontent.com/f2VlQBvfDM6dxBW2aT9VJOwzyQyKaeN45EhdX94aJrpMYrWVIoqEMlNpMUwfSWM0X2RYprclAjbIgtZuAJWWLsNUSC2ah5QG5JmsPbNCt7F5VUlRGqEqzY4lk5a1yzBdpwp5V74oEdJhxRvVwkui_HqdCj8H3daIK8deC_j5d7wiHWaL9nA8tWo2UMN7b8A0YJKG-wPLDBdxack4Au9-YYgZ98lKt3aneWJf0Ly6aqnJbkRe7krw5C7RCH8ycnBelhOwjXUxPU0hbvolD_RdSBbBzcIkcNL8FjaISq_3SRk106O7sb5TmVWq6zNbc8fBmC-hCMAK8pOqWkHFWG7golSxVhKqIKpEv5AMK9UBOR5DbE89USxt-dHSyq757AxppALyn7VrMnlNQpsItc49IzfrG4mJM0uFjptMfbCHtfT6husAJcUhy2aCgGB9QrrJA9LVyj7hPq2KFjCiHb7KHTVK0fN2vrRJGQG3TWlLBMVGnt7ZD3Rc-HcvW8_s3Mkh_uIm6WxMwdc0gUtmmtbQpjcs0Y7j939zT1cHSVpfclOgJ46tZTGjLp_s3w0JlA9YQKP5AnKguktGsfNm7RWnTzQZ-gLpV2yMEZ8FwCFKSpOeTFv9OTlK55TXw99cpmgVL6GMLT5XE1S-38ua6Ctki9MXgIqpgUnK4IyOTX_LiBBVSOcyqOomz73I7YZfKXoMecum7g7uPDrSPXp15_YMeK1osuhctAjGp9sfCkcwbNkgD5fGryZCF3Y=w690-h920-no
-  - https://lh3.googleusercontent.com/B_wz5UT8GzBg4j2ioXfQ9GBvhQ975wufc5j4iv7qiqfXzBbks3_VVMv1RmkJ1NZARL664owv1L9jN3dbJgEAE2x_xSZSmdsRoJURmXKQ0QXaMGWsOZ1eWn3oFbIRHAKS_69V9Izgj04s98xc6u4Yl1RmKPxEsv2-djRHKaohuXGK0ytwI0ecRlPYGrPOzyq5hRSZzRy2CYAcfTxhYt28YdTkeA9c97iVaXprR5jO8fAmPmjmt8x8hq0JIeeZlRR-kKVTaamsEuPB_dhx8Ah52Yz4jMUrDLXYCAXdfxOIZaVm0cuNiuEcsH00_MMNyGUWtP1l4genY0R0x62rj3g7ia1u80idgRRMlJ3LTBruSW-Gs9A7gBEIPweIgxYQmYWEgkcE7MGczu7XVws4DxCOYDPcvy2-RCl_jbq4Gzj5tTSU0--TsdVcunjoBK1xf-s9B2PISAx9mhoaLFWRMTMGYsmf4sTpWc_gopMhcYXGRZ2dUBf5EFOBlENJfkUNQzjAgmwgUeANGLXfnDXG-LOirsPhrvi7Ae_KMOoYsNwZ4jC9zuzXPTPFrcbzcf0uYYtuniKF7cs27FueqSSshl_u-Ceekz6CF5QSk3PQeEVNiv_Cs6NGfUAjlPiUqqthOTBYjTvZhjhzsQgBlziWI45Zpii2zKM6Fu8Y3_wVHRc4BLxL5UmMxaIK2NpBkc2c1XD7GZ2XtI8vpqO0-3wRwD0JLuuJRlGHVcT_pIL5EASKiHDn_HjEJyJWg0g=w1075-h718-no
-  - https://lh3.googleusercontent.com/OILwBWM8pkjJ8f4P245LEgpIG-UOdQHUlz5XXLs5BOZqhAlbJnGTUqcea9Q-M3J-x_aTopknslc6cU3Kn8nn8hISaPqNwk-v7Hilz4pAwnqki3HsNp7Vv-mVKdp7s7qDxm-iNJ2iKpcn5v-gkRlpEQzDDj-Mic5PNO_a3O9hAoKTEJy18YF3_7wGSws4vmXv2uzdtfcFGg89Cjsb0R8OXM4arrlKEf-Q1i_V7ttGkHcYFIjoELwCJBrWuUbRPbUZWF148TUzZB-hgVZ_i5zozqKT6-eZxB6DnN5RS81hzEULZgdZ79PUis6DPSjugYL2dBgSEh_dAkNSeLOny5yxkXSq_v-zCMddpDIXgdV8n1vIkK32GxgldUiDPrpbwH0slYWkl2d5lNk4EMMxSacNShALrTACSagixh2bcntNh8HsTpt9KY-new9M-Ihp355cph0feGgf6EJKVVuhQGanD1KeSURIcb6VLFdm6e5oR4jVGZEZNLbRY6tgQA0AYTc2rVGac8_-YWzPUWhFc8v0FqBQkl-JDuwGe69wZUwc9EWbNf1guKX7AtM2W0mrB30H0MI9ofSTAPYdRIqm4rHarJTjpnWhahozOII6Z4Hkbx2AEPaolNBg9TCTZdeGn-pI_yXskU3EKiMBJE5GQd-2CG4LOUL5zBPWsa0YR31edVA6p3z9Dh3iSAOpnXDx7COfzI8x91hxz6RyqRqNkHJV_e008Ia0RrKlYo_SuZdkBObMo1mIGt0YByo=w1075-h717-no
+  served:
+    image_url: /assets/impact/served_logo.png
+  reached:
+    image_url: /assets/impact/reached_logo.png
+  involved:
+    image_url: /assets/impact/involved_logo.png
+  expanded:
+    image_url: /assets/impact/expanded_to_logo.png
 impactCarouselDuration: '120s'
 impacts:
   first: 
-    title: "Reached out"
-    value: "8794 people"
+    title: "Reached"
+    first_value: "8794"
+    second_value: "people"
     help_message:
   second:
     title: "Served"
-    value: "10 villages"
+    first_value: "10"
+    second_value: "villages"
     help_message:
   third:
-    title: "Branched out to"
-    value: "8 universities"
+    title: "Expanded to"
+    first_value: "8"
+    second_value: "universities"
     help_message: "around the world"
   fourth:
     title: "Involved"
-    value: "126 students"
+    first_value: "126"
+    second_value: "students" 
 sponsorCarouselDuration: '120s'
 sponsors:
   - ace_hardware:
