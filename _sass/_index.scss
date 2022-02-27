@@ -24,6 +24,16 @@
     margin-top: 50px 0;
 }
 
+.section-heading {
+    font-weight: bold;
+    font-family: 'League Spartan', sans-serif;
+    letter-spacing: -0.02em;
+    text-align: center;
+    font-size: 35px;
+    color: rgba(35, 86, 11, 0.9);
+    text-transform: uppercase;
+}
+
 .chapters {
     margin: 50px 0 50px 0;
 
@@ -384,20 +394,12 @@
 
 // GET INVOLVED
 .section.involved {
-    .involved-title {
-        font-weight: bold;
-        font-family: 'League Spartan', sans-serif;
-        letter-spacing: -0.02em;
-        text-align: center;
-        font-size: 45px;
-        color: rgba(35, 86, 11, 0.9);
-    }
 
     .card-involved {
         box-shadow: 10px 0 8px -4px #23560B, 0 4px 6px -2px #23560B;
         min-width: 300px;
         max-width: 20%;
-        margin: 50px;
+        margin: 0 50px;
 
 
         .card-title {

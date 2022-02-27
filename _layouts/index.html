@@ -28,8 +28,7 @@ custom_js:
     </div>
 </div>
 <!-- CHAPTERS SECTION -->
-<div class="chapters-title mt-5">
-    <div class='daun'></div>
+<div class="section-heading mt-5">
     <p>We Make Impacts Through Chapters</p>
 </div>
 <div class="container-fluid px-5 mt-3" id="chapters-section">
@@ -96,8 +95,10 @@ custom_js:
 </div>
 
 <!-- IMPACTS-->
-<div class="section impacts mt-5">
-    <h4 class="card-title">With your help we have</h4>
+<div class="section-heading mt-5 pt-5">
+    <p>With your help we have</p>
+</div>
+<div class="section impacts">
     <div class="container-fluid">
         <div class="row justify-content-center py-1">
             <div class="col">
@@ -145,16 +146,10 @@ custom_js:
 </div>
 
 <!-- SPONSORS -->
+<div class="section-heading mt-5 pt-5">
+    <p>Sponsors</p>
+</div>
 <div class="section sponsors">
-    <div class="container">
-        <div class="row">
-            <div class="col col-12">
-                <div class="chapters-title" style="margin: 40px 0;">
-                    <p>Sponsors</p>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="sponsors-carousel auto-carousel" style="animation-duration: {{ page.sponsorCarouselDuration }};">
         {% for sponsor in page.sponsors %}
         {% assign remainder = forloop.index | modulo: 2 %}
@@ -189,10 +184,10 @@ custom_js:
     </div>
 </div>
 <!-- GET INVOLVED -->
+<div class="section-heading mt-5 pt-5">
+    <p>Get Involved</p>
+</div>
 <div class="section involved">
-    <div class="involved-title" style="margin: 40px 0;">
-        <p>GET INVOLVED</p>
-    </div>
     <div class="card-deck text-center mx-auto row justify-content-center">
         <div class="card card-involved p-3 mb-5 bg-white rounded border-1">
             <div class="card-body">
