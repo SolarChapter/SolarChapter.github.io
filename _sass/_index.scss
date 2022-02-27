@@ -34,7 +34,7 @@
 
     .chapter-text {
         font-size: calc(50% + .6vh + .6vw);
-        
+
     }
 }
 
@@ -43,7 +43,7 @@
     padding: 5px;
     box-shadow: 4px 4px 8px rgba(35, 86, 11, 0.5);
     border-radius: 10px;
-    background : #FCFCFC;
+    background: #FCFCFC;
     text-align: center;
 
     .card-text {
@@ -57,12 +57,12 @@
         background-repeat: no-repeat;
         background-position: center center;
         margin-bottom: 20px;
-     }
+    }
 
-     .card-body{
+    .card-body {
         margin-top: 50px;
         margin-bottom: 18px;
-     }
+    }
 }
 
 .kain-makna-logo {
@@ -207,7 +207,7 @@
 }
 
 
-.card-impact-text{
+.card-impact-text {
     font-size: 17px;
     font-weight: 800;
     font-family: 'League Spartan', sans-serif;
@@ -215,9 +215,8 @@
 }
 
 .section.impacts {
-    position: relative;
     height: 100%;
-    overflow: hidden;
+    padding: 0 50px;
 
     h4.card-title {
         font-size: 30px;
@@ -227,13 +226,14 @@
         letter-spacing: -0.02em;
     }
 
-    p.card-impact-text{
+    p.card-impact-text {
         font-weight: normal;
         line-height: 5px;
     }
 
-    h4.card-impact-text{
-        padding-bottom: 10px;
+    .col {
+        min-width: 300px;
+        max-width: 20%;
     }
 }
 
@@ -392,14 +392,13 @@
         font-size: 45px;
         color: rgba(35, 86, 11, 0.9);
     }
-    
+
     .card-involved {
-        margin-bottom: 15x;
-        width: 373px;
-        height: 358px;
         box-shadow: 10px 0 8px -4px #23560B, 0 4px 6px -2px #23560B;
-        margin-right: 20px;
-        
+        min-width: 300px;
+        max-width: 20%;
+        margin: 50px;
+
 
         .card-title {
             font-weight: bold;
@@ -421,7 +420,7 @@
             border: 3px solid #23560B !important;
             border-radius: 100px;
             margin-bottom: 30px;
-            box-shadow:  0 4px 6px -2px #23560B;
+            box-shadow: 0 4px 6px -2px #23560B;
         }
 
         .donate-btn {
@@ -452,8 +451,7 @@
             font-weight: bold;
             font-family: 'League Spartan', sans-serif;
             font-size: 17px;
-            color: #C4C4C4 !important;
-            opacity: 0.5;
+            color: black;
         }
     }
 }

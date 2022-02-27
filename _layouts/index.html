@@ -99,42 +99,42 @@ custom_js:
 <div class="section impacts mt-5">
     <h4 class="card-title">With your help we have</h4>
     <div class="container-fluid">
-        <div class="row justify-content-md-center row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+        <div class="row justify-content-center py-1">
             <div class="col">
-                <div class="card impact py-1">
-                    <div class="card-body chapter-card">
+                <div class="card impact">
+                    <div class="card-body">
                         <img class="card-img" src="{{ page.impactsImageGallery.reached.image_url}}" />
-                        <h4 class="card-impact-text">{{page.impacts.first.title}}</h3>
+                        <h4 class="card-impact-text">{{page.impacts.first.title}}</h4>
                         <p class="card-impact-text">{{page.impacts.first.first_value}}</p>
                         <p class="card-impact-text">{{page.impacts.first.second_value}}</p>
                     </div>
                 </div>
             </div>
             <div class="col">
-                <div class="card impact py-1">
-                    <div class="card-body chapter-card">
+                <div class="card impact">
+                    <div class="card-body">
                         <img class="card-img" src="{{ page.impactsImageGallery.served.image_url}}" />
-                        <h4 class="card-impact-text">{{page.impacts.second.title}}</h3>
+                        <h4 class="card-impact-text">{{page.impacts.second.title}}</h4>
                         <p class="card-impact-text">{{page.impacts.second.first_value}}</p>
                         <p class="card-impact-text">{{page.impacts.second.second_value}}</p>
                     </div>
                 </div>
             </div>
             <div class="col">
-                <div class="card impact py-1">
-                    <div class="card-body chapter-card">
+                <div class="card impact">
+                    <div class="card-body">
                         <img class="card-img" src="{{ page.impactsImageGallery.expanded.image_url}}" />
-                        <h4 class="card-impact-text">{{page.impacts.third.title}}</h3>
+                        <h4 class="card-impact-text">{{page.impacts.third.title}}</h4>
                         <p class="card-impact-text">{{page.impacts.third.first_value}}</p>
                         <p class="card-impact-text">{{page.impacts.third.second_value}}</p>
                     </div>
                 </div>
             </div>
             <div class="col">
-                <div class="card impact py-1">
-                    <div class="card-body chapter-card">
+                <div class="card impact">
+                    <div class="card-body">
                         <img class="card-img" src="{{ page.impactsImageGallery.involved.image_url}}" />
-                        <h4 class="card-impact-text">{{page.impacts.fourth.title}}</h3>
+                        <h4 class="card-impact-text">{{page.impacts.fourth.title}}</h4>
                         <p class="card-impact-text">{{page.impacts.fourth.first_value}}</p>
                         <p class="card-impact-text">{{page.impacts.fourth.second_value}}</p>
                     </div>
@@ -193,49 +193,47 @@ custom_js:
     <div class="involved-title" style="margin: 40px 0;">
         <p>GET INVOLVED</p>
     </div>
-    <div class="row">
-        <div class="card-deck text-center mx-auto">
-            <div class="card card-involved p-3 mb-5 bg-white rounded border-1">
-                <div class="card-body">
-                    <h5 class="card-title">Join Us</h5>
-                    <div class = "btn-group-vertical">
-                        <a href="#" class="btn join-btn">Start A Branch</a>
-                        <a href="#" class="btn join-btn">Sponsor A Village</a>
-                        <a href="#" class="btn join-btn">Fundraise With Us</a>
-                    </div> 
+    <div class="card-deck text-center mx-auto row justify-content-center">
+        <div class="card card-involved p-3 mb-5 bg-white rounded border-1">
+            <div class="card-body">
+                <h5 class="card-title">Join Us</h5>
+                <div class="btn-group-vertical">
+                    <a href="#" class="btn join-btn">Start A Branch</a>
+                    <a href="#" class="btn join-btn">Sponsor A Village</a>
+                    <a href="/fundraise" class="btn join-btn">Fundraise With Us</a>
                 </div>
             </div>
+        </div>
 
-            <div class="card card-involved p-3 mb-5 bg-white rounded border-1">
-                <div class="card-body">
-                    <h5 class="card-title">Give</h5>
-                    <p class="card-involved-text">Join our campaign to</p>
-                    <p class="card-involved-text">change lives by giving $1,</p>
-                    <p class="card-involved-text">$10, or $100 today</p>
-                    <a href="https://solarchapter.com/donate?" class="btn donate-btn">Donate</a>                 
-                </div>
+        <div class="card card-involved p-3 mb-5 bg-white rounded border-1">
+            <div class="card-body">
+                <h5 class="card-title">Give</h5>
+                <p class="card-involved-text">Join our campaign to</p>
+                <p class="card-involved-text">change lives by giving $1,</p>
+                <p class="card-involved-text">$10, or $100 today</p>
+                <a href="/donate" class="btn donate-btn">Donate</a>
             </div>
+        </div>
 
-            <div class="card card-involved p-3 mb-5 bg-white rounded border-1">
-                <div class="card-body">
-                    <h5 class="card-title">Stay Updated</h5>
-                    <p class="card-involved-text mb-5 mt-5">Receive updates on our activities</p>
-                    <form>
-                        <div class="form-row align-items-center">
-                          <div class="col-7 ml-3 mt-4">
+        <div class="card card-involved p-3 mb-5 bg-white rounded border-1">
+            <div class="card-body">
+                <h5 class="card-title">Stay Updated</h5>
+                <p class="card-involved-text mb-5 mt-5">Receive updates on our activities</p>
+                <form>
+                    <div class="form-row align-items-center">
+                        <div class="col-7 ml-3 mt-4">
                             <label class="sr-only" for="inlineFormInputEmail">Email</label>
                             <input type="text" class="form-control input-form" id="inlineFormInputEmail" placeholder="Enter Email">
-                          </div>
-                          
-                          <div class="col-3 mt-4">
+                        </div>
+
+                        <div class="col-3 mt-4">
                             <button type="submit" class="btn submit-btn">
                                 Submit
                             </button>
-                          </div>
                         </div>
-                      </form>
-                  </div>
+                    </div>
+                </form>
             </div>
         </div>
-    </div>         
+    </div>
 </div>
